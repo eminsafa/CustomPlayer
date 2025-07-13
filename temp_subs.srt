@@ -1,0 +1,400 @@
+1
+00:00:01,000 --> 00:00:04,000
+This is a generated SRT file for testing.
+
+2
+00:00:05,000 --> 00:00:08,000
+It contains 100 subtitle entries.
+
+3
+00:00:09,000 --> 00:00:12,000
+This is an example of a
+two-line subtitle.
+
+4
+00:00:13,000 --> 00:00:20,000
+The timing is set to be consistent.
+3 seconds on-screen
+with a 1-second gap between each entry.
+
+6
+00:00:21,000 --> 00:00:24,000
+<i>This line tests for italics.</i>
+
+7
+00:00:25,000 --> 00:00:28,000
+<b>This line tests for bold.</b>
+
+8
+00:00:29,000 --> 00:00:32,000
+<u>And this one tests for underline.</u>
+(Note: Not all players support these tags.)
+
+9
+00:00:33,000 --> 00:00:36,000
+Testing special characters: & < > " '
+
+10
+00:00:37,000 --> 00:00:40,000
+Testing international characters: é à ç ñ ü
+
+11
+00:00:41,000 --> 00:00:44,000
+This next line is intentionally very long to see how the video player handles automatic line wrapping or text truncation.
+
+12
+00:00:45,000 --> 00:00:48,000
+Test Subtitle Entry #12
+
+13
+00:00:49,000 --> 00:00:52,000
+Test Subtitle Entry #13
+
+14
+00:00:53,000 --> 00:00:56,000
+Test Subtitle Entry #14
+
+15
+00:00:57,000 --> 00:01:00,000
+Test Subtitle Entry #15
+
+16
+00:01:01,000 --> 00:01:04,000
+Test Subtitle Entry #16
+
+17
+00:01:05,000 --> 00:01:08,000
+Test Subtitle Entry #17
+
+18
+00:01:09,000 --> 00:01:12,000
+Test Subtitle Entry #18
+
+19
+00:01:13,000 --> 00:01:16,000
+Test Subtitle Entry #19
+
+20
+00:01:17,000 --> 00:01:20,000
+Test Subtitle Entry #20
+
+21
+00:01:21,000 --> 00:01:24,000
+Test Subtitle Entry #21
+
+22
+00:01:25,000 --> 00:01:28,000
+Test Subtitle Entry #22
+
+23
+00:01:29,000 --> 00:01:32,000
+Test Subtitle Entry #23
+
+24
+00:01:33,000 --> 00:01:36,000
+Test Subtitle Entry #24
+
+25
+00:01:37,000 --> 00:01:40,000
+Test Subtitle Entry #25
+
+26
+00:01:41,000 --> 00:01:44,000
+Test Subtitle Entry #26
+
+27
+00:01:45,000 --> 00:01:48,000
+Test Subtitle Entry #27
+
+28
+00:01:49,000 --> 00:01:52,000
+Test Subtitle Entry #28
+
+29
+00:01:53,000 --> 00:01:56,000
+Test Subtitle Entry #29
+
+30
+00:01:57,000 --> 00:02:00,000
+Test Subtitle Entry #30
+
+31
+00:02:01,000 --> 00:02:04,000
+Test Subtitle Entry #31
+
+32
+00:02:05,000 --> 00:02:08,000
+Test Subtitle Entry #32
+
+33
+00:02:09,000 --> 00:02:12,000
+Test Subtitle Entry #33
+
+34
+00:02:13,000 --> 00:02:16,000
+Test Subtitle Entry #34
+
+35
+00:02:17,000 --> 00:02:20,000
+Test Subtitle Entry #35
+
+36
+00:02:21,000 --> 00:02:24,000
+Test Subtitle Entry #36
+
+37
+00:02:25,000 --> 00:02:28,000
+Test Subtitle Entry #37
+
+38
+00:02:29,000 --> 00:02:32,000
+Test Subtitle Entry #38
+
+39
+00:02:33,000 --> 00:02:36,000
+Test Subtitle Entry #39
+
+40
+00:02:37,000 --> 00:02:40,000
+Test Subtitle Entry #40
+
+41
+00:02:41,000 --> 00:02:44,000
+Test Subtitle Entry #41
+
+42
+00:02:45,000 --> 00:02:48,000
+Test Subtitle Entry #42
+
+43
+00:02:49,000 --> 00:02:52,000
+Test Subtitle Entry #43
+
+44
+00:02:53,000 --> 00:02:56,000
+Test Subtitle Entry #44
+
+45
+00:02:57,000 --> 00:03:00,000
+Test Subtitle Entry #45
+
+46
+00:03:01,000 --> 00:03:04,000
+Test Subtitle Entry #46
+
+47
+00:03:05,000 --> 00:03:08,000
+Test Subtitle Entry #47
+
+48
+00:03:09,000 --> 00:03:12,000
+Test Subtitle Entry #48
+
+49
+00:03:13,000 --> 00:03:16,000
+Test Subtitle Entry #49
+
+50
+00:03:17,000 --> 00:03:20,000
+Halfway there. Test Subtitle #50
+
+51
+00:03:21,000 --> 00:03:24,000
+Test Subtitle Entry #51
+
+52
+00:03:25,000 --> 00:03:28,000
+Test Subtitle Entry #52
+
+53
+00:03:29,000 --> 00:03:32,000
+Test Subtitle Entry #53
+
+54
+00:03:33,000 --> 00:03:36,000
+Test Subtitle Entry #54
+
+55
+00:03:37,000 --> 00:03:40,000
+Test Subtitle Entry #55
+
+56
+00:03:41,000 --> 00:03:44,000
+Test Subtitle Entry #56
+
+57
+00:03:45,000 --> 00:03:48,000
+Test Subtitle Entry #57
+
+58
+00:03:49,000 --> 00:03:52,000
+Test Subtitle Entry #58
+
+59
+00:03:53,000 --> 00:03:56,000
+Test Subtitle Entry #59
+
+60
+00:03:57,000 --> 00:04:00,000
+Test Subtitle Entry #60
+
+61
+00:04:01,000 --> 00:04:04,000
+Test Subtitle Entry #61
+
+62
+00:04:05,000 --> 00:04:08,000
+Test Subtitle Entry #62
+
+63
+00:04:09,000 --> 00:04:12,000
+Test Subtitle Entry #63
+
+64
+00:04:13,000 --> 00:04:16,000
+Test Subtitle Entry #64
+
+65
+00:04:17,000 --> 00:04:20,000
+Test Subtitle Entry #65
+
+66
+00:04:21,000 --> 00:04:24,000
+Test Subtitle Entry #66
+
+67
+00:04:25,000 --> 00:04:28,000
+Test Subtitle Entry #67
+
+68
+00:04:29,000 --> 00:04:32,000
+Test Subtitle Entry #68
+
+69
+00:04:33,000 --> 00:04:36,000
+Test Subtitle Entry #69
+
+70
+00:04:37,000 --> 00:04:40,000
+Test Subtitle Entry #70
+
+71
+00:04:41,000 --> 00:04:44,000
+Test Subtitle Entry #71
+
+72
+00:04:45,000 --> 00:04:48,000
+Test Subtitle Entry #72
+
+73
+00:04:49,000 --> 00:04:52,000
+Test Subtitle Entry #73
+
+74
+00:04:53,000 --> 00:04:56,000
+Test Subtitle Entry #74
+
+75
+00:04:57,000 --> 00:05:00,000
+Test Subtitle Entry #75
+
+76
+00:05:01,000 --> 00:05:04,000
+Test Subtitle Entry #76
+
+77
+00:05:05,000 --> 00:05:08,000
+Test Subtitle Entry #77
+
+78
+00:05:09,000 --> 00:05:12,000
+Test Subtitle Entry #78
+
+79
+00:05:13,000 --> 00:05:16,000
+Test Subtitle Entry #79
+
+80
+00:05:17,000 --> 00:05:20,000
+Test Subtitle Entry #80
+
+81
+00:05:21,000 --> 00:05:24,000
+Test Subtitle Entry #81
+
+82
+00:05:25,000 --> 00:05:28,000
+Test Subtitle Entry #82
+
+83
+00:05:29,000 --> 00:05:32,000
+Test Subtitle Entry #83
+
+84
+00:05:33,000 --> 00:05:36,000
+Test Subtitle Entry #84
+
+85
+00:05:37,000 --> 00:05:40,000
+Test Subtitle Entry #85
+
+86
+00:05:41,000 --> 00:05:44,000
+Test Subtitle Entry #86
+
+87
+00:05:45,000 --> 00:05:48,000
+Test Subtitle Entry #87
+
+88
+00:05:49,000 --> 00:05:52,000
+Test Subtitle Entry #88
+
+89
+00:05:53,000 --> 00:05:56,000
+Test Subtitle Entry #89
+
+90
+00:05:57,000 --> 00:06:00,000
+Test Subtitle Entry #90
+
+91
+00:06:01,000 --> 00:06:04,000
+Test Subtitle Entry #91
+
+92
+00:06:05,000 --> 00:06:08,000
+Test Subtitle Entry #92
+
+93
+00:06:09,000 --> 00:06:12,000
+Test Subtitle Entry #93
+
+94
+00:06:13,000 --> 00:06:16,000
+Test Subtitle Entry #94
+
+95
+00:06:17,000 --> 00:06:20,000
+Almost at the end.
+
+96
+00:06:21,000 --> 00:06:24,000
+Test Subtitle Entry #96
+
+97
+00:06:25,000 --> 00:06:28,000
+Test Subtitle Entry #97
+
+98
+00:06:29,000 --> 00:06:32,000
+Test Subtitle Entry #98
+
+99
+00:06:33,000 --> 00:06:36,000
+Test Subtitle Entry #99
+
+100
+00:06:37,000 --> 00:06:40,000
+End of test file.
+
