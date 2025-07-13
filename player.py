@@ -29,6 +29,12 @@ class VLCPlayerApp:
             vlc_args = []
             if sys.platform.startswith('linux'):
                 vlc_args.append('--no-xlib')
+            if getattr(sys, 'frozen', False):
+                base_path = sys._MEIPASS
+            else:
+                base_path = os.path.dirname(os.path.abspath(__file__))
+            plugin_path = os.path.join(base_path, 'plugins')
+            os.environ['VLC_PLUGIN_PATH'] = plugin_path
             self.vlc_instance = vlc.Instance(vlc_args)
             self.player = self.vlc_instance.media_player_new()
         except Exception as e:
