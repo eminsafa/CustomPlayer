@@ -23,6 +23,6 @@ pyinstaller --onefile --windowed --icon=icon.ico --name MyPlayerApp ^
 
 ```aiignore
 
-pyinstaller --onefile --add-data "libvlc.dll;." --add-data "libvlccore.dll;." --add-data "plugins;plugins" your_script.py
+pyinstaller --onefile --windowed --icon=icon.ico --name CustomPlayer --add-data "C:/Program Files/VideoLAN/VLC/libvlc.dll;." --add-data "C:/Program Files/VideoLAN/VLC/libvlccore.dll;." --add-data "C:/Program Files/VideoLAN/VLC/plugins;plugins" player.py
 
 ```
