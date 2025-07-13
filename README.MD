@@ -20,3 +20,9 @@ pyinstaller --onefile --windowed --icon=icon.ico --name MyPlayerApp ^
   player.py
 
 ```
+
+```aiignore
+
+pyinstaller --onefile --add-data "libvlc.dll;." --add-data "libvlccore.dll;." --add-data "plugins;plugins" your_script.py
+
+```
