@@ -211,12 +211,34 @@ class VLCPlayerApp:
                                           filetypes=(("SubRip files", "*.srt"), ("All files", "*.*")))
         if not path: return
         self.subtitle_path = path
-        try:
-            self.raw_subtitles = pysrt.open(self.subtitle_path, encoding='utf-8')
-            self.apply_settings_btn.config(state=tk.NORMAL)
-            self.process_subtitles()
-        except Exception as e:
-            messagebox.showerror("Subtitle Error", f"Could not load or parse subtitle file.\nError: {e}")
+        encodings_to_try = [
+            'utf-8',
+            'utf-8-sig',
+            'cp1252',
+            'iso-8859-1',
+            'iso-8859-15',
+            'cp1250',
+            'cp1254',
+            'cp1257',
+            'cp1251',
+            'utf-16',
+        ]
+        for encoding in encodings_to_try:
+            try:
+                self.raw_subtitles = pysrt.open(self.subtitle_path, encoding=encoding)
+                break  # Success!
+            except UnicodeDecodeError:
+                continue
+            except Exception as e:
+                messagebox.showerror("Subtitle Error",
+                                     f"Could not load or parse subtitle file.\nError: {e}")
+                return
+        else:
+            # If none worked
+            messagebox.showerror("Subtitle Error",
+                                 "Could not decode subtitle file with common encodings.")
+        self.apply_settings_btn.config(state=tk.NORMAL)
+        self.process_subtitles()
 
     def process_subtitles(self):
         if not self.raw_subtitles: messagebox.showwarning("Warning", "No subtitles loaded to process."); return
