@@ -4,7 +4,7 @@
 
 2
 00:00:03,086 --> 00:00:04,463
-I didn't kill that man.
+I didn't kill that man...
 
 3
 00:00:04,546 --> 00:00:06,840
@@ -13,7 +13,7 @@ I didn't kill that man.
 
 4
 00:00:08,884 --> 00:00:10,636
-Put down your weapon.
+Put down your weapon...
 
 5
 00:00:10,719 --> 00:00:14,264
@@ -550,7 +550,7 @@ Take someone with you.
 122
 00:10:17,908 --> 00:10:21,037
 - Who?
-- Fiancé'd be a good place to start.
+- Fiancï¿½'d be a good place to start.
 
 123
 00:10:21,120 --> 00:10:25,833
@@ -870,11 +870,11 @@ Ba-ba-ba-ba.
 
 193
 00:16:10,886 --> 00:16:14,598
-<i>Yllamándolo. Bua. Ylo meto en el bolsillo.</i>
+<i>Yllamï¿½ndolo. Bua. Ylo meto en el bolsillo.</i>
 
 194
 00:16:15,724 --> 00:16:17,517
-<i>¿ Tú sabes?</i>
+<i>ï¿½ Tï¿½ sabes?</i>
 
 195
 00:16:27,861 --> 00:16:29,863
@@ -1192,7 +1192,7 @@ and I'm gonna split your wig.
 
 266
 00:22:20,630 --> 00:22:23,549
-<i>¿ Tú me estás entendiendo?</i>
+<i>ï¿½ Tï¿½ me estï¿½s entendiendo?</i>
 
 267
 00:22:29,430 --> 00:22:32,058
@@ -1577,7 +1577,7 @@ but if you go now...
 
 350
 00:28:49,685 --> 00:28:53,105
-I got 16 months. I got a fiancée to think about.
+I got 16 months. I got a fiancï¿½e to think about.
 
 351
 00:28:53,188 --> 00:28:58,527
