@@ -65,9 +65,7 @@ class VLCPlayerApp:
             return
 
         self.create_widgets()
-        # Bind key press events to the handle_keypress method for global shortcuts
         self.master.bind('<Key>', self.handle_keypress)
-        # Set initial focus to the main window so keyboard shortcuts work immediately
         self.master.focus_set()
 
         # Create a persistent temp file path on startup
@@ -192,7 +190,7 @@ class VLCPlayerApp:
                             time_until_end = current_cue.end.ordinal - current_time
                             self.repeat_timer_id = self.master.after(time_until_end, self.handle_repeat)
 
-            self.master.after(100, self.update_ui)
+            self.master.after(10, self.update_ui)
         except tk.TclError:
             logging.info("TclError caught, likely window closed. Shutting down UI loop.")
         except Exception as e:
