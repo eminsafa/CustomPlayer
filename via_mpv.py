@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
-import mpv
+# import mpv  <- REMOVED FROM HERE
 import pysrt
 import os
 import sys
@@ -33,6 +33,9 @@ class MPVPlayerApp:
         master.configure(bg=self.BG_COLOR)
         master.minsize(800, 650)
 
+        # This will be populated by _initialize_mpv
+        self.mpv = None
+
         # Font setup...
         if sys.platform == "win32":
             font_family = "Segoe UI"
@@ -59,14 +62,12 @@ class MPVPlayerApp:
 
         self.create_widgets()
 
-        # --- MODIFICATION START: Call the new initializer method ---
-        # The original MPV initialization block is moved into the _initialize_mpv method.
-        # We now check the return value to see if initialization was successful.
+        # Call the initializer method. It will handle the import and setup.
         if not self._initialize_mpv():
             logging.error("MPV initialization failed. Exiting application.")
+            # The error message is shown inside _initialize_mpv, so we just destroy the window.
             master.destroy()
             return
-        # --- MODIFICATION END ---
 
         # Observers setup...
         self.player.observe_property('time-pos', self._on_time_pos_change)
@@ -86,20 +87,15 @@ class MPVPlayerApp:
             master.destroy()
             return
 
-    # --- NEW METHOD: Handles MPV initialization with a fallback ---
+    # --- MODIFIED METHOD: Handles lazy import and initialization ---
     def _initialize_mpv(self):
         """
-        Tries to initialize the MPV player. If the DLL is not found,
+        Tries to import and initialize the MPV player. If the DLL is not found,
         it prompts the user to locate it manually.
         Returns True on success, False on failure.
         """
-        def mpv_log_handler(level, prefix, text):
-            if 'dropping frame' in text: return
-            logging.info(f"mpv: [{prefix}] {text.strip()}")
-
         player_opts = {
             'wid': str(self.video_frame.winfo_id()),
-            'log_handler': mpv_log_handler,
             'input_default_bindings': False,
             'input_vo_keyboard': False,
             'ytdl': False,
@@ -107,69 +103,89 @@ class MPVPlayerApp:
         }
 
         try:
-            logging.info("Initializing MPV instance (standard method)...")
-            self.player = mpv.MPV(**player_opts)
+            # --- LAZY IMPORT ---
+            # Try to import and initialize in one go. This is the normal path.
+            logging.info("Attempting to import and initialize MPV...")
+            import mpv
+            self.mpv = mpv  # Store the module reference
+
+            def mpv_log_handler(level, prefix, text):
+                if 'dropping frame' in text: return
+                logging.info(f"mpv: [{prefix}] {text.strip()}")
+
+            player_opts['log_handler'] = mpv_log_handler
+
+            self.player = self.mpv.MPV(**player_opts)
             logging.info("MPV instance created successfully.")
-            return True  # Success
-        except mpv.MPVError as e:
+            return True
+
+        except (ImportError, OSError, AttributeError) as e:
+            # Catches:
+            # - ImportError: The python-mpv library raises this if the C-lib is not found.
+            # - OSError: A lower-level error for the same reason.
+            # - AttributeError: Can happen if the import succeeds but mpv.MPV is not found (corrupt install).
             logging.warning(f"Standard MPV initialization failed: {e}")
-            # Check if the error is about a missing library file.
-            error_str = str(e).lower()
-            if 'could not find library' in error_str or 'failed to load' in error_str:
-                if sys.platform == "win32":
-                    lib_name = "mpv-1.dll"
-                    file_types = (("MPV DLL", "*.dll"), ("All files", "*.*"))
-                elif sys.platform == "darwin":
-                    lib_name = "libmpv.dylib"
-                    file_types = (("MPV Dylib", "*.dylib"), ("All files", "*.*"))
-                else: # Linux
-                    lib_name = "libmpv.so"
-                    file_types = (("MPV Shared Object", "*.so"), ("All files", "*.*"))
 
-                user_response = messagebox.askyesno(
-                    "MPV Library Not Found",
-                    f"The MPV library ({lib_name}) was not found in the standard locations.\n\n"
-                    f"Would you like to manually locate the file?"
-                )
+            # Since the GUI exists, we can now ask the user for help.
+            if sys.platform == "win32":
+                lib_name = "mpv-1.dll"
+                file_types = (("MPV DLL", "*.dll"), ("All files", "*.*"))
+            elif sys.platform == "darwin":
+                lib_name = "libmpv.dylib"
+                file_types = (("MPV Dylib", "*.dylib"), ("All files", "*.*"))
+            else:  # Linux
+                lib_name = "libmpv.so"
+                file_types = (("MPV Shared Object", "*.so"), ("All files", "*.*"))
 
-                if not user_response:
-                    messagebox.showerror("MPV Error", "MPV is required for this application to run.")
-                    return False # User chose not to locate the file
+            user_response = messagebox.askyesno(
+                "MPV Library Not Found",
+                f"The MPV library ({lib_name}) was not found.\n\n"
+                f"This can happen if MPV is not installed or not in your system's PATH. "
+                f"Would you like to manually locate the file?"
+            )
 
-                dll_path = filedialog.askopenfilename(
-                    title=f"Please locate {lib_name}",
-                    filetypes=file_types
-                )
-
-                if not dll_path:
-                    messagebox.showerror("MPV Error", "No MPV library file was selected.")
-                    return False # User cancelled the file dialog
-
-                # Try to initialize again, this time with the user-provided path
-                try:
-                    logging.info(f"Re-initializing MPV with user-provided path: {dll_path}")
-                    self.player = mpv.MPV(dll_path=dll_path, **player_opts)
-                    logging.info("MPV instance created successfully using custom path.")
-                    return True # Success on the second try
-                except Exception as e2:
-                    logging.error(f"Failed to initialize MPV with path '{dll_path}': {e2}", exc_info=True)
-                    messagebox.showerror(
-                        "MPV Load Error",
-                        f"The selected file could not be loaded as an MPV library.\n\nError: {e2}"
-                    )
-                    return False # Failed even with the user's file
-            else:
-                # Some other MPVError occurred
-                logging.error(f"An unexpected MPVError occurred: {e}", exc_info=True)
-                messagebox.showerror("MPV Error", f"Could not initialize MPV.\nError: {e}")
+            if not user_response:
+                messagebox.showerror("MPV Error", "MPV is required for this application to run.")
                 return False
-        except Exception as e:
-            # A non-MPVError during initialization
-            logging.error(f"A general error occurred during MPV initialization: {e}", exc_info=True)
-            messagebox.showerror("MPV Error", f"An unexpected error occurred during MPV setup.\nError: {e}")
-            return False
+
+            dll_path = filedialog.askopenfilename(
+                title=f"Please locate {lib_name}",
+                filetypes=file_types
+            )
+
+            if not dll_path:
+                messagebox.showerror("MPV Error", "No MPV library file was selected. The application cannot continue.")
+                return False
+
+            # Now, try to initialize again, passing the dll_path directly.
+            try:
+                logging.info(f"Re-initializing MPV with user-provided path: {dll_path}")
+                # We need to re-import here, as the previous attempt failed completely
+                # but the user has now provided a path that the library can use.
+                import mpv
+                self.mpv = mpv
+
+                # The log handler might not be defined if the first block failed early
+                if 'log_handler' not in player_opts:
+                    def mpv_log_handler(level, prefix, text):
+                        if 'dropping frame' in text: return
+                        logging.info(f"mpv: [{prefix}] {text.strip()}")
+
+                    player_opts['log_handler'] = mpv_log_handler
+
+                self.player = self.mpv.MPV(dll_path=dll_path, **player_opts)
+                logging.info("MPV instance created successfully using custom path.")
+                return True
+            except Exception as e2:
+                logging.error(f"Failed to initialize MPV with path '{dll_path}': {e2}", exc_info=True)
+                messagebox.showerror(
+                    "MPV Load Error",
+                    f"The selected file could not be loaded as an MPV library.\n\nError: {e2}"
+                )
+                return False
 
     def create_widgets(self):
+        # This function is unchanged
         # UI Setup...
         self.video_frame = tk.Frame(self.master, bg="black")
         self.video_frame.pack(pady=10, padx=10, fill=tk.BOTH, expand=True)
@@ -248,7 +264,7 @@ class MPVPlayerApp:
                                             activeforeground=self.TEXT_COLOR)
         self.apply_settings_btn.grid(row=0, column=2, sticky="e", padx=(20, 0))
 
-    # --- THE FIX IS IN THESE TWO FUNCTIONS ---
+    # --- THE REST OF YOUR CODE IS UNCHANGED AND CORRECT ---
 
     def _on_time_pos_change(self, name, value):
         if value is None: return
@@ -260,28 +276,23 @@ class MPVPlayerApp:
                 self.progress_slider.set(int((current_time_sec / self.player.duration) * 1000))
         self.time_label.config(text=self.sec_to_time_str(current_time_sec))
 
-        # Check if we should schedule a repeat, but DO NOT lock the UI yet.
         if self.is_repeating_active and not self.player.pause and not self.is_handling_repeat:
             if self.subtitles and 0 <= self.subtitle_index < len(self.subtitles):
                 current_cue = self.subtitles[self.subtitle_index]
                 if current_cue.start.ordinal <= current_time_ms < current_cue.end.ordinal:
-                    # The lock is REMOVED from here. We only schedule the event.
                     time_until_end_ms = current_cue.end.ordinal - current_time_ms
                     try:
                         delay_ms = int(max(1, time_until_end_ms))
-                        # We schedule handle_repeat, but do not set is_handling_repeat to True yet.
                         self.repeat_timer_id = self.master.after(delay_ms, self.handle_repeat)
-                        # We set the lock *inside* handle_repeat now.
                     except (TclError, ValueError) as e:
                         logging.error(f"Failed to set repeat timer: {e}")
 
     def handle_repeat(self):
-        # --- FIX: The lock is now set HERE, at the moment the action begins ---
         self.is_handling_repeat = True
         self.repeat_timer_id = None
 
-        if self.player.pause or not self.is_repeating_active or not self.subtitles:
-            self.is_handling_repeat = False  # Unlock and exit if state is invalid
+        if not hasattr(self, 'player') or self.player.pause or not self.is_repeating_active or not self.subtitles:
+            self.is_handling_repeat = False
             return
 
         try:
@@ -306,7 +317,6 @@ class MPVPlayerApp:
                 self.resume_timer_id = None
                 if self.player and self.player.pause:
                     self.player.pause = False
-                # Unlock after the action is fully complete
                 self.is_handling_repeat = False
 
             self.resume_timer_id = self.master.after(1000, delayed_resume)
@@ -314,26 +324,18 @@ class MPVPlayerApp:
             if self.subtitle_index < len(self.subtitles) - 1:
                 self.subtitle_index += 1
                 self.repeat_counter = 0
-            # Unlock after finishing all repeats for this cue
             self.is_handling_repeat = False
 
-    # --- The rest of the code is unchanged and correct ---
-
     def play_pause(self, *args):
-        # This guard is still useful for the brief moment handle_repeat is active
         if self.is_handling_repeat:
             return
-
-        # This will now correctly cancel any PENDING repeat timer before pausing
         self.reset_repeat_state()
         self.player.pause = not self.player.pause
-
         if not self.player.pause and self.player.time_pos:
             self.update_subtitle_index_on_seek(int(self.player.time_pos * 1000))
         self.master.focus_set()
 
     def start_session(self):
-        """Guides the user to select video and subtitle files, then prepares the app."""
         self.reset_app_state()
         video_path = filedialog.askopenfilename(title="Step 1: Select Video File",
                                                 filetypes=(("Video files", "*.mp4 *.mkv *.avi *.mov"),
@@ -346,7 +348,6 @@ class MPVPlayerApp:
         if not subtitle_path:
             logging.info("Subtitle selection cancelled.")
             return
-
         self.video_path = video_path
         logging.info(f"Loading video: {self.video_path}")
         try:
@@ -357,22 +358,18 @@ class MPVPlayerApp:
             logging.error(f"Error loading video '{self.video_path}': {e}", exc_info=True)
             messagebox.showerror("Video Error", f"Could not load the video file.\nError: {e}")
             return
-
         if not self.load_and_process_subtitles(subtitle_path):
             self.reset_app_state()
             return
-
         self.play_pause_btn.config(state=tk.NORMAL)
         self.prev_subtitle_btn.config(state=tk.NORMAL)
         self.skip_subtitle_btn.config(state=tk.NORMAL)
         self.apply_settings_btn.config(state=tk.NORMAL)
         self.is_repeating_active = True
-
         logging.info("Session loaded successfully. Ready for playback.")
         self.master.focus_set()
 
     def load_and_process_subtitles(self, path):
-        """Helper to load subtitle file and apply initial settings."""
         logging.info(f"Loading subtitle: {path}")
         encodings_to_try = ['utf-8', 'utf-8-sig', 'cp1252', 'iso-8859-1', 'cp1251']
         loaded_subs = None
@@ -383,18 +380,15 @@ class MPVPlayerApp:
                 break
             except Exception:
                 continue
-
         if not loaded_subs:
             logging.error("Could not decode subtitle file.")
             messagebox.showerror("Subtitle Error", "Could not decode subtitle file. Please try converting it to UTF-8.")
             return False
-
         self.original_subtitles = loaded_subs
         self.process_subtitles()
         return True
 
     def process_subtitles(self):
-        """Applies delay to subtitles and saves the temp file."""
         if not self.original_subtitles: return
         self.reset_repeat_state()
         processed_subs = self.original_subtitles.copy()
@@ -406,7 +400,6 @@ class MPVPlayerApp:
         except ValueError:
             messagebox.showerror("Error", "Invalid delay value. Please enter a number.")
             return
-
         self.subtitles = processed_subs
         self._apply_processed_subtitles_to_player()
         if self.player.time_pos:
@@ -414,18 +407,16 @@ class MPVPlayerApp:
         self.master.focus_set()
 
     def reset_app_state(self):
-        """Resets the application to its initial state before loading files."""
         logging.info("Resetting application state.")
         self.reset_repeat_state()
-        self.player.command('stop')
-
+        if hasattr(self, 'player') and self.player:
+            self.player.command('stop')
         self.video_path = None
         self.subtitles = None
         self.original_subtitles = None
         self.subtitle_index = 0
         self.repeat_counter = 0
         self.is_repeating_active = False
-
         self.play_pause_btn.config(state=tk.DISABLED, text="Play")
         self.prev_subtitle_btn.config(state=tk.DISABLED)
         self.skip_subtitle_btn.config(state=tk.DISABLED)
@@ -507,7 +498,8 @@ class MPVPlayerApp:
         self.master.focus_set()
 
     def set_volume(self, value):
-        if self.player: self.player.volume = int(value)
+        if hasattr(self, 'player') and self.player:
+            self.player.volume = int(value)
 
     def update_subtitle_index_on_seek(self, time_ms):
         if not self.subtitles: return
@@ -546,7 +538,8 @@ if __name__ == "__main__":
 
     def on_closing():
         logging.info("Window closed by user. Terminating MPV.")
-        if hasattr(app, 'player') and app.player: app.player.terminate()
+        if hasattr(app, 'player') and app.player:
+            app.player.terminate()
         if hasattr(app, 'temp_sub_path') and app.temp_sub_path and os.path.exists(app.temp_sub_path):
             try:
                 os.remove(app.temp_sub_path)
@@ -555,7 +548,10 @@ if __name__ == "__main__":
         root.destroy()
         logging.info("================== Application Closed ==================")
 
-    # Only run the app if initialization didn't destroy the window
+
+    # Check if the root window still exists. It might have been destroyed in __init__ if MPV failed.
     if 'normal' == root.state():
         root.protocol("WM_DELETE_WINDOW", on_closing)
         root.mainloop()
+    else:
+        logging.warning("Application did not start because root window was destroyed during initialization.")
