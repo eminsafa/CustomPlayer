@@ -1,8 +1,12 @@
+import os
+custom_path = r"C:\Program Files\mpv"
+os.environ["PATH"] += os.pathsep + custom_path
+
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import mpv
 import pysrt
-import os
+
 import sys
 import logging
 from tkinter import TclError
