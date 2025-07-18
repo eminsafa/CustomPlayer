@@ -59,24 +59,14 @@ class MPVPlayerApp:
 
         self.create_widgets()
 
-        try:
-            logging.info("Initializing MPV instance...")
-
-            def mpv_log_handler(level, prefix, text):
-                if 'dropping frame' in text: return
-                logging.info(f"mpv: [{prefix}] {text.strip()}")
-
-            player_opts = {'wid': str(self.video_frame.winfo_id()), 'log_handler': mpv_log_handler,
-                           'input_default_bindings': False, 'input_vo_keyboard': False, 'ytdl': False,
-                           'hwdec': 'auto-safe'}
-            self.player = mpv.MPV(**player_opts)
-            logging.info("MPV instance created successfully.")
-        except Exception as e:
-            logging.error(f"Failed to initialize MPV: {e}", exc_info=True)
-            messagebox.showerror("MPV Error",
-                                 f"Could not initialize MPV. Is it installed and in your PATH?\nError: {e}")
+        # --- MODIFICATION START: Call the new initializer method ---
+        # The original MPV initialization block is moved into the _initialize_mpv method.
+        # We now check the return value to see if initialization was successful.
+        if not self._initialize_mpv():
+            logging.error("MPV initialization failed. Exiting application.")
             master.destroy()
             return
+        # --- MODIFICATION END ---
 
         # Observers setup...
         self.player.observe_property('time-pos', self._on_time_pos_change)
@@ -95,6 +85,89 @@ class MPVPlayerApp:
             messagebox.showerror("Startup Error", "Could not create a path for temporary files.")
             master.destroy()
             return
+
+    # --- NEW METHOD: Handles MPV initialization with a fallback ---
+    def _initialize_mpv(self):
+        """
+        Tries to initialize the MPV player. If the DLL is not found,
+        it prompts the user to locate it manually.
+        Returns True on success, False on failure.
+        """
+        def mpv_log_handler(level, prefix, text):
+            if 'dropping frame' in text: return
+            logging.info(f"mpv: [{prefix}] {text.strip()}")
+
+        player_opts = {
+            'wid': str(self.video_frame.winfo_id()),
+            'log_handler': mpv_log_handler,
+            'input_default_bindings': False,
+            'input_vo_keyboard': False,
+            'ytdl': False,
+            'hwdec': 'auto-safe'
+        }
+
+        try:
+            logging.info("Initializing MPV instance (standard method)...")
+            self.player = mpv.MPV(**player_opts)
+            logging.info("MPV instance created successfully.")
+            return True  # Success
+        except mpv.MPVError as e:
+            logging.warning(f"Standard MPV initialization failed: {e}")
+            # Check if the error is about a missing library file.
+            error_str = str(e).lower()
+            if 'could not find library' in error_str or 'failed to load' in error_str:
+                if sys.platform == "win32":
+                    lib_name = "mpv-1.dll"
+                    file_types = (("MPV DLL", "*.dll"), ("All files", "*.*"))
+                elif sys.platform == "darwin":
+                    lib_name = "libmpv.dylib"
+                    file_types = (("MPV Dylib", "*.dylib"), ("All files", "*.*"))
+                else: # Linux
+                    lib_name = "libmpv.so"
+                    file_types = (("MPV Shared Object", "*.so"), ("All files", "*.*"))
+
+                user_response = messagebox.askyesno(
+                    "MPV Library Not Found",
+                    f"The MPV library ({lib_name}) was not found in the standard locations.\n\n"
+                    f"Would you like to manually locate the file?"
+                )
+
+                if not user_response:
+                    messagebox.showerror("MPV Error", "MPV is required for this application to run.")
+                    return False # User chose not to locate the file
+
+                dll_path = filedialog.askopenfilename(
+                    title=f"Please locate {lib_name}",
+                    filetypes=file_types
+                )
+
+                if not dll_path:
+                    messagebox.showerror("MPV Error", "No MPV library file was selected.")
+                    return False # User cancelled the file dialog
+
+                # Try to initialize again, this time with the user-provided path
+                try:
+                    logging.info(f"Re-initializing MPV with user-provided path: {dll_path}")
+                    self.player = mpv.MPV(dll_path=dll_path, **player_opts)
+                    logging.info("MPV instance created successfully using custom path.")
+                    return True # Success on the second try
+                except Exception as e2:
+                    logging.error(f"Failed to initialize MPV with path '{dll_path}': {e2}", exc_info=True)
+                    messagebox.showerror(
+                        "MPV Load Error",
+                        f"The selected file could not be loaded as an MPV library.\n\nError: {e2}"
+                    )
+                    return False # Failed even with the user's file
+            else:
+                # Some other MPVError occurred
+                logging.error(f"An unexpected MPVError occurred: {e}", exc_info=True)
+                messagebox.showerror("MPV Error", f"Could not initialize MPV.\nError: {e}")
+                return False
+        except Exception as e:
+            # A non-MPVError during initialization
+            logging.error(f"A general error occurred during MPV initialization: {e}", exc_info=True)
+            messagebox.showerror("MPV Error", f"An unexpected error occurred during MPV setup.\nError: {e}")
+            return False
 
     def create_widgets(self):
         # UI Setup...
@@ -482,6 +555,7 @@ if __name__ == "__main__":
         root.destroy()
         logging.info("================== Application Closed ==================")
 
-
-    root.protocol("WM_DELETE_WINDOW", on_closing)
-    root.mainloop()
+    # Only run the app if initialization didn't destroy the window
+    if 'normal' == root.state():
+        root.protocol("WM_DELETE_WINDOW", on_closing)
+        root.mainloop()
