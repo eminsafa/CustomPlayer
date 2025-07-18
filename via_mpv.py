@@ -1,8 +1,11 @@
+import os
+custom_path = r"C:\Program Files\mpv"
+os.environ["PATH"] += os.pathsep + custom_path
+
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import mpv
 import pysrt
-import os
 import sys
 import logging
 from tkinter import TclError
@@ -203,12 +206,11 @@ class MPVPlayerApp:
                         logging.error(f"Failed to set repeat timer: {e}")
 
     def handle_repeat(self):
-        # --- FIX: The lock is now set HERE, at the moment the action begins ---
         self.is_handling_repeat = True
         self.repeat_timer_id = None
 
         if self.player.pause or not self.is_repeating_active or not self.subtitles:
-            self.is_handling_repeat = False  # Unlock and exit if state is invalid
+            self.is_handling_repeat = False
             return
 
         try:
@@ -233,18 +235,23 @@ class MPVPlayerApp:
                 self.resume_timer_id = None
                 if self.player and self.player.pause:
                     self.player.pause = False
-                # Unlock after the action is fully complete
                 self.is_handling_repeat = False
 
-            self.resume_timer_id = self.master.after(1000, delayed_resume)
+            # Using a short delay for responsiveness
+            self.resume_timer_id = self.master.after(100, delayed_resume)
         else:
+            # --- THE FIX IS HERE ---
+            # First, move to the next subtitle if one exists.
             if self.subtitle_index < len(self.subtitles) - 1:
                 self.subtitle_index += 1
-                self.repeat_counter = 0
-            # Unlock after finishing all repeats for this cue
+
+            # Second, ALWAYS reset the counter for the *next* cycle,
+            # regardless of what happened above.
+            self.repeat_counter = 0
+
+            # Finally, unlock the handler.
             self.is_handling_repeat = False
 
-    # --- The rest of the code is unchanged and correct ---
 
     def play_pause(self, *args):
         # This guard is still useful for the brief moment handle_repeat is active
