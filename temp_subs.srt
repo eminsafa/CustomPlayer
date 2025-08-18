@@ -1,2041 +1,6122 @@
-1
-00:00:01,210 --> 00:00:03,378
-<i>(man) Previously on "Prison Break":</i>
+﻿1
+00:00:12,545 --> 00:00:13,670
+Hurry up, lads.
 
 2
-00:00:03,462 --> 00:00:04,504
-I didn't kill him.
+00:00:13,797 --> 00:00:16,590
+Drink up.
+Five minutes to closing time.
 
 3
-00:00:04,588 --> 00:00:06,882
-- The evidence says you did.
-- I was set up.
+00:00:16,716 --> 00:00:19,134
+Come on now.
+Drink your beers.
 
 4
-00:00:08,926 --> 00:00:10,677
-<i>Put down your weapon.</i>
+00:00:19,260 --> 00:00:20,677
+My that's a pity.
+Five minutes closing time?
 
 5
-00:00:10,761 --> 00:00:13,513
-I find it incumbent
-you see the inside of a cell.
+00:00:20,804 --> 00:00:23,680
+Five minutes to closing time.
 
 6
-00:00:13,597 --> 00:00:17,392
-<i>- I'm looking for Burrows.
-- (Sucre) Man killed the VP's brother.</i>
+00:00:23,807 --> 00:00:25,140
+Hello sweetheart.
 
 7
-00:00:17,476 --> 00:00:20,020
-- Why do you want to see him?
-- He's my brother.
+00:00:25,266 --> 00:00:27,226
+Here's for the tune, eh.
 
 8
-00:00:20,103 --> 00:00:22,272
-- I'm getting you out.
-- Impossible.
+00:00:41,282 --> 00:00:43,492
+Here, you're rotten luck,
+that's what you are.
 
 9
-00:00:22,356 --> 00:00:23,941
-Not if you designed the place.
+00:00:51,960 --> 00:00:54,378
+Hey, you hurt bad, mate?
+Let's have a look at it.
 
 10
-00:00:24,524 --> 00:00:26,860
-- You've seen the blueprints.
-- Better.
+00:00:54,504 --> 00:00:56,505
+- Blimey.
+- Ah, what can I get you, lad?
 
 11
-00:00:26,944 --> 00:00:28,820
-I've got 'em on me.
+00:00:56,631 --> 00:00:59,258
+- Mother's Ruin.
+- Make mine the same.
 
 12
-00:00:28,904 --> 00:00:31,698
-- You find out who's trying to bury him.
-- Nobody is.
+00:01:00,885 --> 00:01:02,177
+It'll cost you two bob
+for the broken glass, matey?
 
 13
-00:00:31,782 --> 00:00:33,033
-The evidence was cooked.
+00:01:02,303 --> 00:01:03,971
+What's the idea anyway
+letting a beast like that
 
 14
-00:00:33,116 --> 00:00:38,080
-- There's a lawyer poking around.
-- Anyone that's a threat is expendable.
+00:01:04,097 --> 00:01:05,722
+fly around loose
+in a public house?
 
 15
-00:00:38,914 --> 00:00:43,752
-- I'm gonna kill that scum.
-- You kill him, you kill our ticket out of here.
+00:01:05,849 --> 00:01:08,475
+You didn't ought to let him
+smell the blood.
 
 16
-00:00:43,835 --> 00:00:46,213
-- Where's Maricruz?
-- She's with me now.
+00:01:08,601 --> 00:01:10,811
+He's very fond of blood,
+Charlie is.
 
 17
-00:00:46,296 --> 00:00:48,382
-Fish, I gotta be back in.
+00:01:10,937 --> 00:01:13,522
+Hmm. Comes by his taste
+natural if you ask me.
 
 18
-00:00:48,465 --> 00:00:54,054
-Nick, Project Justice. My boss may not think
-Lincoln's case is worth looking into, but I do.
+00:01:13,648 --> 00:01:15,482
+- Nobody's asking you, Miss.
+- Oh.
 
 19
-00:00:54,137 --> 00:00:55,555
-When do we get started?
+00:01:15,608 --> 00:01:17,109
+Where's he from?
 
 20
-00:00:55,639 --> 00:00:57,683
-This wall is just the beginning.
+00:01:17,235 --> 00:01:18,694
+Musgrave Manor.
 
 21
-00:00:57,766 --> 00:01:01,186
-There's a lot of real estate
-in between here and the outside.
+00:01:18,820 --> 00:01:21,530
+What is this Musgrave Manor,
+a blinking prison?
 
 22
-00:01:01,269 --> 00:01:06,942
-That is a transfer request. Michael Scofield
-is getting shipped out tomorrow.
+00:01:21,656 --> 00:01:23,073
+That ain't the worst
+it's been called
 
 23
-00:01:38,724 --> 00:01:44,229
-- About your transfer request for Scofield.
-- More specifically, why you denied it.
+00:01:23,199 --> 00:01:27,327
+not that I want to go about
+spreading stories
 
 24
-00:01:44,312 --> 00:01:49,109
-Look, Mr Kellerman, do I come to your house
-and tell you where to put your furniture?
+00:01:27,453 --> 00:01:29,663
+but we knows what we knows,
 
 25
-00:01:49,192 --> 00:01:54,489
-- We're just asking for professional courtesy.
-- A federal courtesy in a state penitentiary.
+00:01:29,789 --> 00:01:31,331
+don't we Charlie?
 
 26
-00:01:54,573 --> 00:01:57,993
-Most people would be happy
-to have a body taken off their hands.
+00:01:34,794 --> 00:01:36,670
+Blimey.
 
 27
-00:01:58,076 --> 00:02:01,580
-These men are my responsibility.
-From the minute they walk in
+00:01:36,796 --> 00:01:38,922
+Where is this Musgrave Manor?
 
 28
-00:02:01,663 --> 00:02:05,417
-to the time they've paid their debt to society,
-I'm responsible.
+00:01:39,048 --> 00:01:40,716
+Down the road apiece.
 
 29
-00:02:05,500 --> 00:02:08,295
-Unless he's done something
-I don't know about,
+00:01:40,842 --> 00:01:44,011
+You'll see it when you past
+the old iron gates.
 
 30
-00:02:08,378 --> 00:02:12,048
-he is gonna stay here at Fox River
-under my watch.
+00:01:44,137 --> 00:01:47,681
+Only don't loiter,
+you won't be welcome
 
 31
-00:02:12,132 --> 00:02:16,094
-Mr Pope, in our line of work,
-just about everyone has done something
+00:01:47,807 --> 00:01:49,933
+not by the Musgraves.
 
 32
-00:02:16,178 --> 00:02:19,389
-that someone doesn't know about.
+00:01:50,059 --> 00:01:51,351
+Been sitting there.
 
 33
-00:02:20,682 --> 00:02:23,477
-- What's this?
-- Right now, just a piece of history.
+00:01:51,477 --> 00:01:54,897
+Lords of the manor
+ever since time was.
 
 34
-00:02:23,560 --> 00:02:27,647
-Whether it becomes a current event,
-now, that's up to you.
+00:01:55,023 --> 00:01:57,399
+If those old walls
+could speak
 
 35
-00:02:31,985 --> 00:02:34,988
-My wife already knows about Toledo.
+00:01:57,525 --> 00:02:00,777
+they'd tell you things that
+raise the hair on your head.
 
 36
-00:02:35,071 --> 00:02:37,491
-Does she really?
+00:02:00,904 --> 00:02:02,446
+There's folks hereabouts
 
 37
-00:02:42,954 --> 00:02:45,499
-You're a smart man, Warden.
+00:02:02,572 --> 00:02:05,490
+swear they seen corpse lights
 
 38
-00:02:45,582 --> 00:02:49,669
-I'm sure you can find a reason
-Scofield's presence is no longer required
+00:02:05,617 --> 00:02:08,994
+round the old greenhouse
 
 39
-00:02:49,753 --> 00:02:52,547
-at this particular correctional facility.
+00:02:09,120 --> 00:02:10,787
+and heard 'em wailing
 
 40
-00:03:05,477 --> 00:03:08,355
-I need some more PVC here, boss.
+00:02:10,914 --> 00:02:14,041
+like lost souls
+in the lime rock.
 
 41
-00:03:20,659 --> 00:03:22,869
-- Boss?
-- Sure thing, Burrows.
+00:02:14,167 --> 00:02:16,501
+Yeah, you want no part of it.
 
 42
-00:03:22,953 --> 00:03:26,706
-I don't wanna check for splinters.
-I want every piece accounted for.
+00:02:16,628 --> 00:02:18,670
+Nor the Musgraves neither,
 
 43
-00:03:26,790 --> 00:03:29,000
-Sure.
+00:02:18,796 --> 00:02:20,047
+hard men,
 
 44
-00:03:29,084 --> 00:03:32,045
-I got a ripped fertilizer bag inside.
+00:02:20,173 --> 00:02:22,090
+like them as was before them,
 
 45
-00:03:34,339 --> 00:03:36,091
-Hey, you!
+00:02:22,217 --> 00:02:24,009
+cruel men.
 
 46
-00:03:36,174 --> 00:03:38,385
-You!
+00:02:24,135 --> 00:02:28,138
+God pity 'em
+for the day is coming
 
 47
-00:03:38,468 --> 00:03:44,432
-Get in there and clean it up before this whole
-place starts smelling like San Juan.
+00:02:28,264 --> 00:02:30,933
+when they'll need pity.
 
 48
-00:03:45,267 --> 00:03:46,559
-<i>(mutters to himself)</i>
+00:03:09,138 --> 00:03:13,850
+I don't think you're being
+quite fair, Geoffrey
 
 49
-00:03:46,643 --> 00:03:52,482
-OK, he's on his way. Do you mind telling me
-what this is all about?
+00:03:13,977 --> 00:03:17,145
+I assure you
+I have no wish to be fair.
 
 50
-00:03:54,609 --> 00:03:57,612
-These are the guys we're breaking out with.
+00:03:19,983 --> 00:03:21,316
+Hmm.
 
 51
-00:03:57,696 --> 00:04:01,700
-I don't think so, fish.
-That was not our agreement.
+00:03:21,442 --> 00:03:25,779
+An excellent specimen
+of the Copris Carolina.
 
 52
-00:04:02,575 --> 00:04:05,662
-I'm not gonna work with this crazy rhino.
+00:03:25,905 --> 00:03:28,657
+You are a sweet old soul,
+aren't you?
 
 53
-00:04:05,745 --> 00:04:09,374
-- Keep pushing it, John.
-- Yeah, I keep pushing it, you know. Huh?
+00:03:28,783 --> 00:03:31,743
+I have no wish
+to be a sweet old soul,
 
 54
-00:04:09,457 --> 00:04:11,584
-What's your deal, man?
+00:03:31,869 --> 00:03:34,746
+no wish to be anything
+but what I am
 
 55
-00:04:11,668 --> 00:04:14,963
-Touch my brother again and I'll show you.
+00:03:34,872 --> 00:03:37,124
+a disagreeable person
+who does not intend
 
 56
-00:04:18,216 --> 00:04:20,969
-Brother? Your brother?
+00:03:37,250 --> 00:03:40,002
+to let his sister run off with
+the first cock-sure Yankee
 
 57
-00:04:25,223 --> 00:04:30,979
-We've got a few minutes. Are we gonna spend
-'em spitting on each other or talk business?
+00:03:40,128 --> 00:03:43,088
+who makes her posies jump.
 
 58
-00:04:31,062 --> 00:04:34,357
-The reason we're all here today
-is we have a decision to make.
+00:03:43,214 --> 00:03:45,799
+And I suppose Philip
+feels the same way about it?
 
 59
-00:04:34,441 --> 00:04:36,818
-English, Fitz, or Percy.
+00:03:45,925 --> 00:03:48,427
+Well, Philip has no choice
+in the matter.
 
 60
-00:04:36,901 --> 00:04:42,323
-If we're gonna pull this off,
-we need to take one of them out.
+00:03:48,553 --> 00:03:49,678
+As my younger brother,
 
 61
-00:04:42,407 --> 00:04:45,035
-And you want us to tell you which one?
+00:03:49,804 --> 00:03:52,723
+Phillip feels precisely
+as I tell him to.
 
 62
-00:04:45,118 --> 00:04:48,371
-I just want you to help me get to them.
-I'll take it from there.
+00:03:53,975 --> 00:03:55,642
+Eaves dropping again, Brunton?
 
 63
-00:04:48,455 --> 00:04:50,790
-- You're crazy.
-- All I need is five minutes.
+00:03:55,768 --> 00:03:57,686
+Oh, no, Mr. Phillip.
+I assure you
 
 64
-00:04:50,874 --> 00:04:54,794
-- You won't get five seconds.
-- I thought you had everything worked out.
+00:03:57,812 --> 00:04:01,023
+But I didn't wish
+to disturb them.
 
 65
-00:04:54,878 --> 00:04:59,758
-We're not breaking out of a Jamba Juice.
-It's gonna take more than digging a few holes.
+00:04:01,149 --> 00:04:02,983
+What did you hear, Brunton?
 
 66
-00:04:59,841 --> 00:05:04,012
-There are eyes, ears, dots that couldn't be
-connected from the outside.
+00:04:05,528 --> 00:04:07,029
+Your brother and Miss Sally
 
 67
-00:05:04,095 --> 00:05:08,391
-- And English, Fitz or Percy?
-- One of those dots.
+00:04:07,155 --> 00:04:08,905
+were going at it
+hammer and tongues
 
 68
-00:05:10,185 --> 00:05:14,397
-And how exactly
-are you supposed to pull this off?
+00:04:09,032 --> 00:04:10,532
+about Captain Vickery, I mean.
 
 69
-00:05:14,481 --> 00:05:17,692
-With a little help from my friends.
+00:04:10,658 --> 00:04:11,867
+Really?
 
 70
-00:05:34,459 --> 00:05:38,171
-Sucre, hold up. Scofield, you've got company.
+00:04:11,993 --> 00:04:14,369
+Mr. Geoffrey
+and Captain Vickery
 
 71
-00:05:47,514 --> 00:05:53,770
-Why do I get the feeling that there's more
-to you than meets the eye, Scofield?
+00:04:14,495 --> 00:04:17,748
+had an horrible row
+this afternoon over Miss Sally.
 
 72
-00:05:53,853 --> 00:05:56,439
-Anything you wanna tell me?
+00:04:17,874 --> 00:04:19,374
+I thought they were
+coming to blows.
 
 73
-00:05:58,733 --> 00:06:03,196
-Some other reason you're in here
-besides holding up a bank?
+00:04:19,500 --> 00:04:20,709
+Indeed I did.
 
 74
-00:06:14,666 --> 00:06:17,377
-- You're being transferred.
-- What?
+00:04:20,835 --> 00:04:22,627
+Quiet.
+That will do now, Brunton.
 
 75
-00:06:17,460 --> 00:06:20,046
-We're moving you over to Statesville.
+00:04:22,754 --> 00:04:24,212
+If I catch you snooping again
 
 76
-00:06:20,505 --> 00:06:23,550
-- You can't do that.
-- Yes, I can. I'm the boss here.
-
-77
-00:06:23,633 --> 00:06:26,886
-This is my house.
-
-78
-00:06:26,970 --> 00:06:29,097
-- Three weeks.
-- What for?
-
-79
-00:06:29,180 --> 00:06:33,393
-Lincoln Burrows.
-He's being executed in three weeks.
-
-80
-00:06:33,476 --> 00:06:36,563
-I'm aware of that. What's that to you?
-
-81
-00:06:36,646 --> 00:06:39,148
-He's my brother.
-
-82
-00:06:40,400 --> 00:06:44,654
-When I knew I was being sent to prison,
-my attorney petitioned the DOC.
-
-83
-00:06:44,737 --> 00:06:47,907
-- So you could be near him.
-- That's right.
-
-84
-00:06:50,326 --> 00:06:53,413
-Don't take that away from me.
-
-85
-00:06:53,496 --> 00:06:55,790
-Not until it's over.
-
-86
-00:06:56,499 --> 00:06:59,419
-I'm not the one behind the transfer.
-
-87
-00:06:59,502 --> 00:07:02,839
-You're up against much bigger fish than me.
-
-88
-00:07:04,507 --> 00:07:09,637
-I'll arrange for you to say goodbye.
-You ship out tomorrow.
-
-89
-00:08:19,040 --> 00:08:21,584
-<i>(faint organ music)</i>
-
-90
-00:08:36,307 --> 00:08:39,393
-I'm going into the walls,
-see if I can access the roof.
-
-91
-00:08:39,477 --> 00:08:42,104
-Were you gonna tell me about the transfer?
-
-92
-00:08:42,188 --> 00:08:45,650
-- I'm taking care of it.
-- You're taking care of it?
-
-93
-00:08:45,733 --> 00:08:48,110
-Sounds to me like you're reaching.
-
-94
-00:08:48,194 --> 00:08:51,155
-Maybe. A little.
-
-95
-00:08:51,239 --> 00:08:53,449
-A little.
-
-96
-00:08:53,533 --> 00:09:00,081
-I'd made my peace, then you give me the one
-thing a man in my situation shouldn't have.
-
-97
-00:09:00,164 --> 00:09:03,835
-- Hope. And now that's gonna be taken away.
-- Don't do this, Linc.
-
-98
-00:09:03,918 --> 00:09:07,713
-I got three weeks.
-What do you want me to do?
-
-99
-00:09:13,344 --> 00:09:17,390
-<i>(boy) Come on, Michael.
-What do you want me to do?</i>
-
-100
-00:09:18,432 --> 00:09:21,644
-- Bring her back.
-- You know I can't do that.
-
-101
-00:09:22,562 --> 00:09:26,190
-But, look, there's some stuff that I can do.
-
-102
-00:09:26,274 --> 00:09:29,569
-It's not gonna be the same,
-but we're gonna figure it out.
-
-103
-00:09:29,652 --> 00:09:33,489
-And no matter what,
-it's still gonna be me and you.
-
-104
-00:09:34,824 --> 00:09:38,369
-OK, but what if something happens to you?
-
-105
-00:09:39,370 --> 00:09:41,914
-You just have a little faith.
-
-106
-00:09:49,922 --> 00:09:52,592
-Just have a little faith.
-
-107
-00:09:55,970 --> 00:09:58,848
-<i>(Nick) If we believe Lincoln, this tape is a lie.</i>
-
-108
-00:09:58,931 --> 00:10:02,310
-- It has to be.
-- But you saw it. It's all there.
-
-109
-00:10:02,393 --> 00:10:06,397
-But maybe what we're looking for
-is what's not there.
-
-110
-00:10:06,480 --> 00:10:11,986
-- OK. Steadman. See, what's he looking at?
-- A car? A pedestrian?
-
-111
-00:10:12,069 --> 00:10:15,364
-<i>(Nick) His eye line is high.
-He's looking into the camera.</i>
-
-112
-00:10:15,448 --> 00:10:17,616
-He might as well be saying "cheese".
-
-113
-00:10:19,577 --> 00:10:22,913
-- Now he just sits there.
-- For 10, 15 seconds, as if he was...
-
-114
-00:10:22,997 --> 00:10:26,167
-- Waiting for someone.
-- Right.
-
-115
-00:10:27,168 --> 00:10:30,671
-There. That's a nine millimetre.
-Shouldn't there be a kick?
-
-116
-00:10:30,755 --> 00:10:34,759
-- Lincoln's pretty strong.
-- Yeah, but strong enough to bury a recoil?
-
-117
-00:10:34,842 --> 00:10:38,512
-Now, you shoot someone,
-supposedly for revenge.
-
-118
-00:10:38,596 --> 00:10:42,975
-Do you take the time to go in and hit
-the glove box? Or get the hell out of there?
-
-119
-00:10:43,059 --> 00:10:47,688
-Feds said he was trying
-to make it look like a robbery.
-
-120
-00:10:47,772 --> 00:10:51,567
-Look. Look at Lincoln's angle
-as he leaves the frame.
-
-121
-00:10:51,650 --> 00:10:53,027
-Mm.
-
-122
-00:10:53,110 --> 00:10:55,780
-He walks away from the car.
-
-123
-00:10:55,863 --> 00:11:01,410
-Now, this guy, who conveniently hides his
-face from the camera, comes back in. Why?
-
-124
-00:11:01,494 --> 00:11:07,583
-To explain the bloody pants they'd already
-planted in his apartment. Nick, this is great.
-
-125
-00:11:07,666 --> 00:11:10,086
-- Who shall we go to?
-- Nobody. Yet.
-
-126
-00:11:10,169 --> 00:11:14,799
-To the unbiased eye, we're backing a horse
-that died in the gate. A lot of conjecture.
-
-127
-00:11:14,882 --> 00:11:17,760
-We don't have anything.
-We need some evidence.
-
-128
-00:11:17,843 --> 00:11:20,221
-Look, if Lincoln didn't fire this gun,
-
-129
-00:11:20,304 --> 00:11:23,641
-somebody with serious skills
-worked on this to prove he did.
-
-130
-00:11:23,724 --> 00:11:26,310
-Fine, but how do we prove that?
-
-131
-00:11:27,394 --> 00:11:30,439
-- I know a guy.
-- You know a guy?
-
-132
-00:11:30,523 --> 00:11:32,566
-Yeah, I know a guy.
-
-133
-00:11:33,234 --> 00:11:35,653
-Thanks.
-
-134
-00:11:35,736 --> 00:11:39,782
-We need to have a powwow. There's been talk
-about you packing your bags.
-
-135
-00:11:39,865 --> 00:11:44,620
-Don't believe everything you hear.
-I'm not going anywhere.
-
-136
-00:11:47,331 --> 00:11:50,167
-I have a really hard time trusting you, fish.
-
-137
-00:11:50,251 --> 00:11:53,420
-The important thing
-is that we stay on schedule.
-
-138
-00:11:53,504 --> 00:11:56,966
-- Yeah? English, Fitz and Percy?
-- English, Fitz or Percy.
-
-139
-00:11:57,049 --> 00:11:59,260
-Wanna know which one we should take out?
-
-140
-00:11:59,343 --> 00:12:03,347
-With all due respect, I don't need opinions.
-I need answers.
-
-141
-00:12:03,430 --> 00:12:07,476
-The warden leaves at five tonight,
-so by five after five we need that key.
-
-142
-00:12:07,560 --> 00:12:10,563
-And how is this key
-gonna give you the answers?
-
-143
-00:12:10,646 --> 00:12:13,607
-I'll worry about that.
-Worry about getting the key.
-
-144
-00:12:13,691 --> 00:12:17,444
-Hey. This key better be worth it.
-
-145
-00:12:17,528 --> 00:12:20,155
-Understand?
-
-146
-00:12:25,744 --> 00:12:28,747
-Afternoon, Mr Scofield.
-
-147
-00:12:28,831 --> 00:12:31,792
-I need to know
-if there's a way to block a transfer.
-
-148
-00:12:31,876 --> 00:12:36,046
-- There's about 50 ways.
-- All right. I'll take the quickest.
-
-149
-00:12:36,130 --> 00:12:40,217
-You file a motion for what they call
-an interlocutory injunction.
-
-150
-00:12:40,301 --> 00:12:43,095
-- How long does that take?
-- How fast can you write?
-
-151
-00:12:43,178 --> 00:12:47,349
-A man can claim almost anything
-violates his constitutional rights.
-
-152
-00:12:47,433 --> 00:12:52,062
-Environmental issues, allergies,
-religious requirements - take your pick.
-
-153
-00:12:52,146 --> 00:12:55,816
-- What if they don't buy it?
-- They're required to hear your motion.
-
-154
-00:12:55,899 --> 00:12:58,235
-Till they do, you can't be transferred.
-
-155
-00:12:58,319 --> 00:13:02,948
-Hell, they've been trying to move
-my tired, grey behind for ten years.
-
-156
-00:13:03,032 --> 00:13:06,619
-God bless the American legal system.
-
-157
-00:13:06,702 --> 00:13:09,455
-Why do you want to stay in here so badly?
-
-158
-00:13:09,538 --> 00:13:13,375
-There's someone here
-I can't bear to leave behind.
-
-159
-00:13:13,459 --> 00:13:17,880
-I guess that means
-we've got something in common.
-
-160
-00:13:17,963 --> 00:13:22,259
-- The state's requiring a physical for Burrows.
-- You heard the news?
-
-161
-00:13:22,343 --> 00:13:24,470
-- No, what?
-- They're brothers.
-
-162
-00:13:24,553 --> 00:13:27,598
-- Who?
-- Burrows and Scofield.
-
-163
-00:13:27,681 --> 00:13:28,891
-Michael Scofield?
-
-164
-00:13:28,974 --> 00:13:33,187
-Heard it from one of the COs over in Gen Pop.
-He didn't say anything about it?
-
-165
-00:13:33,270 --> 00:13:34,521
-No.
-
-166
-00:13:34,605 --> 00:13:40,736
-It must be hard to be so close to your brother
-and not be able to do anything to help him.
-
-167
-00:13:47,618 --> 00:13:50,120
-- What's this?
-- A little bathroom reading.
-
-168
-00:13:50,204 --> 00:13:55,250
-- Westmoreland again?
-- Scofield. He's blocking his transfer.
-
-169
-00:13:57,836 --> 00:14:01,882
-Even if the motion is denied,
-it's gonna take 30 days to process.
-
-170
-00:14:01,965 --> 00:14:04,760
-And that means...
-
-171
-00:14:05,969 --> 00:14:09,056
-All right, I'm going in.
-I'm gonna need your help.
-
-172
-00:14:09,139 --> 00:14:11,975
-<i>In in? Now? I thought you were waiting till...</i>
-
-173
-00:14:12,059 --> 00:14:16,188
-I need to make sure I know how I'm getting
-up there so when the time comes...
-
-174
-00:14:16,271 --> 00:14:19,108
-In case you didn't notice, the lights are all on.
-
-175
-00:14:19,191 --> 00:14:23,862
-You've got a live studio audience, fish.
-How are you gonna get around that?
-
-176
-00:14:23,946 --> 00:14:26,532
-Don't we have some laundry to do?
-
-177
-00:14:31,203 --> 00:14:33,455
-Just to be clear,
-
-178
-00:14:33,539 --> 00:14:35,874
-I ain't touching your drawers.
-
-179
-00:14:46,260 --> 00:14:49,221
-<i>(guard #1) Eyes straight ahead.</i>
-
-180
-00:14:49,304 --> 00:14:51,682
-<i>- Keep it moving.
-- (guard #2) Eyes front.</i>
-
-181
-00:14:51,765 --> 00:14:55,727
-<i>- (guard #1) Keep it moving. Keep it moving.
-- Him.</i>
-
-182
-00:15:15,205 --> 00:15:17,875
-<i>(guard #1) Get him up. Hit him.</i>
-
-183
-00:15:19,877 --> 00:15:21,879
-<i>(guard #2) Stay down.</i>
-
-184
-00:15:22,588 --> 00:15:24,214
-Come on.
-
-185
-00:15:24,423 --> 00:15:26,133
-Come on.
-
-186
-00:16:28,612 --> 00:16:32,407
-Fish. I can't deal with that.
-
-187
-00:17:11,321 --> 00:17:14,491
-Fish. Come on.
-
-188
-00:17:29,965 --> 00:17:33,135
-Yo, fish. Fish, you're taking too long, bro.
-
-189
-00:18:00,495 --> 00:18:05,584
-This ain't gonna fly. The Ricans, we've got
-genetically higher blood pressure, you know?
-
-190
-00:18:05,667 --> 00:18:08,086
-My cousin, he died from too much stress.
-
-191
-00:18:08,170 --> 00:18:10,338
-You said he was moving in on your girl.
-
-192
-00:18:10,422 --> 00:18:13,466
-My other cousin,
-but thanks for bringing that up.
-
-193
-00:18:13,550 --> 00:18:18,763
-Look, the good news is I can get to the roof.
-
-194
-00:18:18,847 --> 00:18:21,391
-- So what happens now?
-- Now?
-
-195
-00:18:21,474 --> 00:18:24,144
-It's all about timing.
-
-196
-00:18:25,061 --> 00:18:27,147
-<i>(watch beeps)</i>
-
-197
-00:18:57,969 --> 00:19:01,598
-- It's a top-dollarjob. You know who did it?
-- No. Do you?
-
-198
-00:19:01,681 --> 00:19:04,684
-People who do this kind of work
-are ghosts, man.
-
-199
-00:19:04,768 --> 00:19:07,520
-The guy behind the guy behind the guy,
-you know?
-
-200
-00:19:07,604 --> 00:19:11,608
-Can you see anything that proves
-the tape might have been doctored?
-
-201
-00:19:11,691 --> 00:19:14,069
-The thing's clean. No footprints.
-
-202
-00:19:14,152 --> 00:19:17,656
-Usually, you peel the video back,
-anything bogus comes off.
-
-203
-00:19:17,739 --> 00:19:20,492
-Now you see it, now you don't.
-But not this one.
-
-204
-00:19:20,575 --> 00:19:23,954
-It's laced. Ingrained.
-
-205
-00:19:25,580 --> 00:19:26,915
-Whoa, whoa.
-
-206
-00:19:26,998 --> 00:19:30,543
-- You see something?
-- The problem with eyes is they play tricks.
-
-207
-00:19:30,627 --> 00:19:33,880
-But your ears - ears don't lie.
-
-208
-00:19:33,963 --> 00:19:36,216
-Here's the audio track from the tape.
-
-209
-00:19:37,384 --> 00:19:39,135
-- Sounds pretty true?
-- Yeah.
-
-210
-00:19:39,219 --> 00:19:43,181
-But noise is alive.
-See, it doesn'tjust die like that.
-
-211
-00:19:43,264 --> 00:19:46,017
-Stripped down,
-those levels should be dancing.
-
-212
-00:19:46,101 --> 00:19:50,647
-A room that size would give you
-a blam, blam, blam, blam, you know.
-
-213
-00:19:50,730 --> 00:19:53,316
-Off each wall, a split second after the other.
-
-214
-00:19:53,400 --> 00:19:56,903
-On yours,
-the reverb's bouncing at the same time.
-
-215
-00:19:56,986 --> 00:20:00,323
-- What does that mean?
-- The sound of a gunshot.
-
-216
-00:20:00,407 --> 00:20:03,326
-It wasn't recorded in that room.
-
-217
-00:20:06,538 --> 00:20:10,166
-- Would you testify to that?
-- Oh, uh, I don't know.
-
-218
-00:20:10,250 --> 00:20:13,461
-The tape's a dupe.
-For all I know, you guys tampered with it.
-
-219
-00:20:13,545 --> 00:20:20,009
-Look, if you want me to testify in court, I'm
-gonna need to get my hands on the original.
-
-220
-00:20:23,012 --> 00:20:26,724
-<i>- (Pope) How are those allergies?
-- Excuse me?</i>
-
-221
-00:20:26,808 --> 00:20:31,312
-<i>- (Pope) In your motion, you cited chronic...
-- Sinusitis.</i>
-
-222
-00:20:31,396 --> 00:20:35,233
-It's not an allergy, actually.
-It's a bacterial infection.
-
-223
-00:20:35,316 --> 00:20:40,155
-The moist air from the river along
-the east wall helps keep me, you know...
-
-224
-00:20:40,238 --> 00:20:42,031
-clear.
-
-225
-00:20:42,115 --> 00:20:46,161
-I'm impressed. Not even a week here
-and you're working it like an old con.
-
-226
-00:20:46,244 --> 00:20:49,956
-You've got one up on me.
-You know why I needed to file those motions,
-
-227
-00:20:50,039 --> 00:20:53,418
-but I have no idea
-why you needed to transfer me.
-
-228
-00:20:53,501 --> 00:20:57,338
-Traffic control, Scofield.
-That's all. Traffic control.
-
-229
-00:20:57,422 --> 00:21:00,133
-It's coming up on five o'clock. Call it a day.
-
-230
-00:21:00,216 --> 00:21:02,510
-- I don't think I can do that.
-- Why not?
-
-231
-00:21:02,594 --> 00:21:05,763
-If I let go of this support,
-the whole thing's coming down.
-
-232
-00:21:05,847 --> 00:21:08,516
-See, the Taj was designed using axial force -
-
-233
-00:21:08,600 --> 00:21:12,395
-a series of internal forces
-along the longitudinal axis.
-
-234
-00:21:12,478 --> 00:21:16,983
-- Yeah. How much longer?
-- Depends on how long it takes to dry.
-
-235
-00:21:17,066 --> 00:21:20,778
-If you need me to leave,
-I can show your secretary how to hold it.
-
-236
-00:21:20,862 --> 00:21:23,323
-You can stay. There'll be a guard outside.
-
-237
-00:21:23,406 --> 00:21:27,243
-Just check in with Becky
-and she'll have somebody escort you back.
-
-238
-00:21:27,327 --> 00:21:30,371
-- All right.
-- And, Scofield.
-
-239
-00:21:32,207 --> 00:21:36,711
-I wanna thank you for showing up today.
-I would've understood it if you didn't.
-
-240
-00:21:36,794 --> 00:21:39,214
-- We had a deal.
-- Right.
-
-241
-00:21:39,297 --> 00:21:42,592
-Still, thanks. My wife is gonna love it.
-
-242
-00:21:42,675 --> 00:21:44,928
-You're welcome.
-
-243
-00:21:55,355 --> 00:21:59,567
-<i>- (man) See you tomorrow, sir.
-- (woman) Good night, Warden.</i>
-
-244
-00:21:59,651 --> 00:22:01,819
-<i>(door closes)</i>
-
-245
-00:22:01,903 --> 00:22:05,698
-We'd just happen to be two people
-who happen to know each other,
-
-246
-00:22:05,782 --> 00:22:10,495
-who happen to show up at the same movie
-theatre at what happens to be the same time.
-
-247
-00:22:10,578 --> 00:22:13,206
-<i>(woman laughs)</i>
-
-248
-00:22:51,202 --> 00:22:55,873
-You know, from this angle, you look
-just as good as you did when we first met.
-
-249
-00:22:55,957 --> 00:22:59,377
-- How about from this one?
-- Even better.
-
-250
-00:23:01,421 --> 00:23:04,757
-- Oh.
-- Uh-uh. Those are for your guests.
-
-251
-00:23:04,841 --> 00:23:06,926
-- Guests?
-- Your associates.
-
-252
-00:23:07,009 --> 00:23:10,847
-They said you had a meeting.
-They're in the den.
-
-253
-00:23:18,688 --> 00:23:20,857
-Evening, Warden.
-
-254
-00:24:05,776 --> 00:24:12,366
-There's nothing I can do. I'm obligated to file
-every motion so a hearing can be scheduled.
-
-255
-00:24:12,450 --> 00:24:17,997
-- And how long does that take?
-- A month, maybe two. It's out of my hands.
-
-256
-00:24:18,080 --> 00:24:20,541
-Why do I feel you're not disappointed?
-
-257
-00:24:20,625 --> 00:24:24,045
-May I ask you a question, Warden?
-
-258
-00:24:24,128 --> 00:24:26,380
-More of an observation, really.
-
-259
-00:24:26,464 --> 00:24:31,844
-I was looking at the morgue photos
-from that boy back in Toledo - Will Clayton -
-
-260
-00:24:31,928 --> 00:24:36,682
-and, my Lord,
-if he wasn't the spitting image of his daddy.
-
-261
-00:24:37,725 --> 00:24:41,520
-The apple fell real far from the tree
-with that one, didn't it?
-
-262
-00:24:41,604 --> 00:24:45,441
-It fell off the tree, fell all over the pavement.
-
-263
-00:24:45,524 --> 00:24:47,693
-You son of a bitch.
-
-264
-00:24:47,777 --> 00:24:50,571
-Your wife gave you a pass on the affair,
-
-265
-00:24:50,655 --> 00:24:53,491
-but that's all the forgiveness she's got left.
-
-266
-00:24:53,574 --> 00:24:56,661
-Especially when it comes to
-an illegitimate child.
-
-267
-00:24:56,744 --> 00:24:59,372
-What happened with young Will, Warden?
-
-268
-00:25:00,915 --> 00:25:05,127
-- Get out of my house.
-- Lose Scofield's paperwork.
-
-269
-00:25:05,920 --> 00:25:09,757
-- Are you staying for dinner?
-- Thanks, but I think we're on our way.
-
-270
-00:25:09,840 --> 00:25:12,385
-Judy, it was a real pleasure.
-
-271
-00:25:12,468 --> 00:25:17,306
-Thank you. And thatjust may have been
-the best iced tea I've ever had.
-
-272
-00:25:17,390 --> 00:25:21,018
-Warden, better do everything you can
-to hold on to this one.
-
-273
-00:25:21,102 --> 00:25:23,771
-- I will.
-- Good.
-
-274
-00:25:27,900 --> 00:25:31,946
-- Is everything all right?
-- Oh, yeah. Just fine. I, uh...
-
-275
-00:25:32,029 --> 00:25:36,534
-I just have a little unfinished work
-to take care of. I'll be right in.
-
-276
-00:25:36,617 --> 00:25:38,494
-OK.
-
-277
-00:26:16,031 --> 00:26:18,492
-He's all clear.
-
-278
-00:26:18,576 --> 00:26:21,662
-- Evening, Lincoln.
-- Doctor.
-
-279
-00:26:21,746 --> 00:26:25,082
-I'm supposed to give you
-a physical this evening.
-
-280
-00:26:25,166 --> 00:26:29,211
-Let me apologise for the dose of irony
-we're about to participate in.
-
-281
-00:26:29,295 --> 00:26:32,089
-It's all right. Just doing yourjob.
-
-282
-00:26:32,173 --> 00:26:33,507
-Yeah, well...
-
-283
-00:26:33,591 --> 00:26:39,513
-Letting them know you're healthy enough to
-execute is not why I went to medical school.
-
-284
-00:26:39,597 --> 00:26:42,224
-- I apologise.
-- It's OK.
-
-285
-00:26:45,811 --> 00:26:48,397
-All right.
-
-286
-00:26:48,481 --> 00:26:51,525
-I'm gonna need
-a family medical history from you.
-
-287
-00:26:51,609 --> 00:26:56,864
-Any ailments or conditions
-that are hereditary. Let's start with your mom.
-
-288
-00:26:56,947 --> 00:27:00,367
-- Cancer. Liver.
-- OK. Father?
-
-289
-00:27:01,410 --> 00:27:03,871
-Split when I was young.
-
-290
-00:27:03,954 --> 00:27:06,123
-Siblings.
-
-291
-00:27:06,207 --> 00:27:08,918
-Anyone besides Michael?
-
-292
-00:27:11,295 --> 00:27:13,506
-Fox River's a small town, Lincoln.
-
-293
-00:27:13,589 --> 00:27:18,344
-People around here don't have
-a whole lot to do besides time and talk.
-
-294
-00:27:19,220 --> 00:27:21,305
-Are you close?
-
-295
-00:27:22,765 --> 00:27:24,558
-<i>(Linc) We were.</i>
-
-296
-00:27:27,228 --> 00:27:29,355
-<i>- (Sara) How about now?
-- Huh?</i>
-
-297
-00:27:29,438 --> 00:27:31,857
-How about now?
-
-298
-00:27:34,318 --> 00:27:37,112
-<i>(Linc) He's been abandoned his whole life.</i>
-
-299
-00:27:38,155 --> 00:27:41,951
-<i>Dad, Mom - she died young -</i>
-
-300
-00:27:42,034 --> 00:27:44,745
-<i>and now me.</i>
-
-301
-00:27:45,746 --> 00:27:47,831
-Think that's why he's here?
-
-302
-00:27:47,915 --> 00:27:51,919
-Cos your death would feel like
-it's happening again
-
-303
-00:27:53,671 --> 00:27:58,842
-<i>(Linc) I abandoned him a long time ago.
-That's why he's here.</i>
-
-304
-00:28:22,324 --> 00:28:24,451
-<i>- (watch beeps)
-- (buzzer)</i>
-
-305
-00:28:24,535 --> 00:28:26,704
-<i>(guard) Gates closing.</i>
-
-306
-00:28:29,164 --> 00:28:32,209
-- It's time.
-- Time?
-
-307
-00:28:32,293 --> 00:28:36,213
-Oh, God. Here we go again.
-Count's in 15 minutes. What are you doing?
-
-308
-00:28:36,297 --> 00:28:40,926
-- Trust me. The less you know, the better.
-- The less I know? You got me in the dark.
-
-309
-00:28:41,010 --> 00:28:43,595
-That's exactly where you wanna be.
-
-310
-00:28:49,560 --> 00:28:52,730
-<i>(man) Don't normally find you here
-at this hour.</i>
-
-311
-00:28:53,439 --> 00:28:57,526
-Are you seeking his forgiveness? Or advice?
-
-312
-00:28:59,069 --> 00:29:02,072
-I really don't know any more, Ben.
-
-313
-00:29:03,198 --> 00:29:08,037
-All I know is my son Will
-was my responsibility.
-
-314
-00:29:09,079 --> 00:29:15,210
-- If I'd stayed in his life, I could've saved it.
-- His death was an accident, Henry.
-
-315
-00:29:18,380 --> 00:29:20,466
-He was a criminal,
-
-316
-00:29:20,549 --> 00:29:25,095
-and an addict, but he was only 18 years old.
-
-317
-00:29:25,179 --> 00:29:29,975
-His mother made it clear you couldn't be
-in his life if you weren't gonna be in hers.
-
-318
-00:29:30,059 --> 00:29:33,771
-When you chose to stay with Judy,
-you understood that.
-
-319
-00:29:33,854 --> 00:29:36,774
-I not only understood it, I was grateful for it.
-
-320
-00:29:37,816 --> 00:29:42,154
-I told myself I was respecting her wishes.
-
-321
-00:29:43,322 --> 00:29:47,910
-I cursed her under my breath
-while every day I thanked God
-
-322
-00:29:47,993 --> 00:29:51,038
-for allowing me to wash my hands of her.
-
-323
-00:29:51,121 --> 00:29:53,290
-Of Toledo.
-
-324
-00:29:55,167 --> 00:29:57,461
-All of it.
-
-325
-00:29:58,921 --> 00:30:01,590
-So I ran home,
-
-326
-00:30:01,673 --> 00:30:04,301
-to Judy,
-
-327
-00:30:04,384 --> 00:30:06,970
-and I buried the secret.
-
-328
-00:30:08,639 --> 00:30:12,184
-But I never got a chance to...
-
-329
-00:30:12,267 --> 00:30:15,729
-to bury my... my son.
-
-330
-00:30:27,824 --> 00:30:30,994
-What kind of a person does that, Ben?
-
-331
-00:30:31,078 --> 00:30:36,750
-Sacrifices somebody else's life
-just to make their own life easier.
-
-332
-00:30:39,378 --> 00:30:43,757
-You can argue with me all night. Believe me,
-I haven't got anything better to do.
-
-333
-00:30:43,840 --> 00:30:49,304
-But it won't change the fact that I can't
-just hand out original copies of evidence.
-
-334
-00:30:49,388 --> 00:30:54,142
-- If you could just take a look...
-- I don't care. I can't give it to you.
-
-335
-00:30:54,226 --> 00:30:58,272
-What if we brought somebody here?
-Your supervisor could monitor them.
-
-336
-00:30:58,355 --> 00:31:01,483
-He'd strip down and swear
-on a stack of Bibles. Whatever.
-
-337
-00:31:01,567 --> 00:31:04,653
-Wait. What did you say
-the docket number was?
-
-338
-00:31:04,736 --> 00:31:08,740
-It's 296 SPE.
-
-339
-00:31:08,824 --> 00:31:12,035
-- What's wrong?
-- Come with me.
-
-340
-00:31:17,291 --> 00:31:21,044
-Last night a pipe burst upstairs,
-flooded the place.
-
-341
-00:31:21,128 --> 00:31:26,675
-Files from over 100 cases -
-pretty much lost all of them, including yours.
-
-342
-00:31:26,758 --> 00:31:30,178
-- Just this room?
-- Some kind of freak accident.
-
-343
-00:31:37,144 --> 00:31:39,229
-<i>(buzzer)</i>
-
-344
-00:31:40,939 --> 00:31:42,482
-<i>(whistle)</i>
-
-345
-00:31:42,566 --> 00:31:46,028
-<i>- (guard) Count 'em.
-- (Bellick) Callahan, Knight.</i>
-
-346
-00:31:47,195 --> 00:31:49,406
-Malinowski, Pohlen.
-
-347
-00:32:26,401 --> 00:32:27,444
-<i>(watch beeps)</i>
-
-348
-00:32:34,201 --> 00:32:37,162
-Chance, Graziano.
-
-349
-00:32:37,245 --> 00:32:39,998
-Scofield, Sucre.
-
-350
-00:32:47,214 --> 00:32:51,093
-Scofield, get the hell out here.
-
-351
-00:33:01,228 --> 00:33:03,355
-We got a runner.
-
-352
-00:33:08,902 --> 00:33:11,112
-<i>(alarm)</i>
-
-353
-00:33:17,911 --> 00:33:20,455
-<i>(PA) Lockdown.</i>
-
-354
-00:33:20,539 --> 00:33:22,999
-<i>Lockdown!</i>
-
-355
-00:33:23,959 --> 00:33:26,753
-<i>(inmates shout)</i>
-
-356
-00:33:34,511 --> 00:33:37,472
-All right. For the last time, piñata.
-
-357
-00:33:37,556 --> 00:33:41,768
-Where the hell's Scofield?
-He's gone, you're gone. You hear me?
-
-358
-00:33:41,852 --> 00:33:44,938
-<i>(radio) Call it off, Captain.
-I got Scofield right here.</i>
-
-359
-00:33:45,021 --> 00:33:48,650
-<i>- Where?
-- (radio) In the warden's office.</i>
-
-360
-00:33:48,733 --> 00:33:50,986
-Are you looking at him?
-
-361
-00:33:51,069 --> 00:33:56,157
-<i>Stop trying to nail the secretary
-and check the damn office.</i>
-
-362
-00:34:01,830 --> 00:34:04,666
-Captain, he's gone.
-
-363
-00:34:08,128 --> 00:34:10,046
-<i>(alarm continues and dogs bark)</i>
-
-364
-00:35:05,894 --> 00:35:08,188
-- The man can'tjust vanish.
-- I know, sir.
-
-365
-00:35:08,271 --> 00:35:11,775
-- He never checked out? The rear door?
-- Still locked. I checked.
-
-366
-00:35:11,858 --> 00:35:14,235
-How the hell did he?
-
-367
-00:35:14,319 --> 00:35:17,238
-- What's going on?
-- You're in the warden's office.
-
-368
-00:35:17,322 --> 00:35:21,034
-I could kill you and the paperwork
-wouldn't need more than a date.
-
-369
-00:35:21,117 --> 00:35:25,872
-- Tell me, what were you doing in here?
-- All right, Deputy. That's enough.
-
-370
-00:35:27,749 --> 00:35:31,294
-The work wasn't dry.
-You said to stay until it was.
-
-371
-00:35:31,377 --> 00:35:33,296
-- You were in here?
+00:04:24,339 --> 00:04:26,965
+- I shall ask my brother
+to give you notice.
 - Yes, sir.
 
-372
-00:35:33,379 --> 00:35:36,633
-- It's true. I never saw him leave.
-- I must not have seen him.
+77
+00:04:27,091 --> 00:04:28,759
+Thank you, sir.
 
-373
-00:35:36,716 --> 00:35:41,054
-This is ridiculous. This prisoner
-was out of his cell. He missed the count.
+78
+00:04:28,885 --> 00:04:32,346
+Your not above a bit of snooping
+yourself are you Phillip?
 
-374
-00:35:41,137 --> 00:35:43,389
-<i>(Pope) I understand, Deputy.</i>
+79
+00:04:32,472 --> 00:04:34,389
+Not in the least, old boy.
 
-375
-00:35:43,473 --> 00:35:47,018
-The thing is,
-Mr Scofield is not our problem any more.
+80
+00:04:41,606 --> 00:04:42,606
+Brunton.
 
-376
-00:35:47,102 --> 00:35:50,605
-There was an error in his paperwork.
-He's gonna be transferred.
+81
+00:04:42,732 --> 00:04:43,690
+Oh, there you are.
 
-377
-00:35:50,688 --> 00:35:52,899
-That's not possible.
+82
+00:04:43,816 --> 00:04:45,609
+I've been ringing for you.
 
-378
-00:35:52,982 --> 00:35:55,610
-Escort the prisoner back to his cell.
+83
+00:04:45,735 --> 00:04:47,444
+Sorry, Dr. Watson.
 
-379
-00:35:55,693 --> 00:35:57,278
-Warden, all I need is three weeks.
+84
+00:04:47,570 --> 00:04:49,321
+I was in the upper regions.
 
-380
-00:35:58,321 --> 00:35:59,823
-- Get off me!
-- Come on!
+85
+00:04:49,447 --> 00:04:51,239
+The library's in a filthy mess.
 
-381
-00:35:59,906 --> 00:36:02,909
-Henry, please. I just need a little time.
+86
+00:04:51,366 --> 00:04:52,949
+The wind came swishing
+down the chimney
 
-382
-00:36:02,992 --> 00:36:05,495
-Just give me the time.
+87
+00:04:53,076 --> 00:04:54,826
+and scattered the ashes
+everywhere.
 
-383
-00:36:07,747 --> 00:36:10,834
-Any chance you want to write this off
-as a coincidence?
+88
+00:04:54,952 --> 00:04:58,330
+Very well. I'll tidy it up
+at once, doctor.
 
-384
-00:36:10,917 --> 00:36:12,293
-Me neither.
+89
+00:05:03,044 --> 00:05:05,879
+Room full of smoke,
+papers all over the floor.
 
-385
-00:36:12,377 --> 00:36:16,256
-How could they know we were coming?
-Three hours ago, we didn't know.
+90
+00:05:06,005 --> 00:05:07,172
+Foul night, Brunton.
 
-386
-00:36:16,339 --> 00:36:20,218
-- We're pissing someone off.
-- You say that like it's a good thing.
+91
+00:05:07,298 --> 00:05:09,549
+It's customary in Hurlstone,
+sir
 
-387
-00:36:20,301 --> 00:36:25,390
-People start breaking the law,
-you know you're getting warm.
+92
+00:05:09,675 --> 00:05:13,011
+Just the sort of night
+I'd fancy for the ghost of
+Lady Torinda.
 
-388
-00:36:26,474 --> 00:36:30,228
-We still have our copy of the tape, so maybe...
+93
+00:05:13,137 --> 00:05:14,679
+Oh no, Dr. Watson.
 
-389
-00:36:33,815 --> 00:36:36,317
-- Nick.
-- Stay here.
+94
+00:05:14,806 --> 00:05:18,100
+Lady Torinda only
+walks in the west wing.
 
-390
-00:36:53,334 --> 00:36:56,754
-Whoever it was has gone.
-Does it look like they got anything?
+95
+00:05:18,226 --> 00:05:20,602
+No one ever met a ghost
+in this part of the house.
 
-391
-00:36:56,838 --> 00:36:59,215
-No.
+96
+00:05:20,728 --> 00:05:22,646
+Oh really?
+Isn't there some story--
 
-392
-00:37:03,928 --> 00:37:07,891
-Everything's exactly the way I left it.
+97
+00:05:22,772 --> 00:05:24,731
+Oh, there was a
+housemaid claimed
 
-393
-00:37:15,940 --> 00:37:18,526
-What? What?
+98
+00:05:24,857 --> 00:05:27,776
+that she saw
+Sir Gervis Musgrave
 
-394
-00:37:20,987 --> 00:37:23,573
-- What?
-- The tape. It's gone.
+99
+00:05:27,902 --> 00:05:32,572
+with his head on backwards
+in this very room.
 
-395
-00:37:23,656 --> 00:37:25,366
-- Are you sure?
-- How?
+100
+00:05:32,698 --> 00:05:33,782
+Good gracious me.
 
-396
-00:37:25,450 --> 00:37:27,910
-- Think this through.
-- How could they know?
+101
+00:05:33,908 --> 00:05:35,867
+Well, she was just a
+flighty girl, sir.
 
-397
-00:37:27,994 --> 00:37:30,246
-- Wait. Does anyone else have a key?
-- No.
+102
+00:05:35,993 --> 00:05:37,911
+It sounds like it...
+very flighty.
 
-398
-00:37:30,330 --> 00:37:34,334
-- Are you sure this is where you put it?
-- You were here. I was talking to you.
+103
+00:05:38,037 --> 00:05:39,413
+Most.
 
-399
-00:37:34,417 --> 00:37:38,379
-I walked toward the cabinet, and I said...
+104
+00:05:48,714 --> 00:05:51,299
+Head on backwards,
+what a bunch of rubbish.
 
-400
-00:37:39,631 --> 00:37:41,633
-What?
+105
+00:06:11,779 --> 00:06:14,322
+I say, Brunton, does the wind
+always carry on like this here?
 
-401
-00:37:42,675 --> 00:37:45,053
-Veronica, are you OK?
+106
+00:06:14,449 --> 00:06:15,991
+Frequently sir.
 
-402
-00:37:50,475 --> 00:37:52,560
-Veronica.
+107
+00:06:16,117 --> 00:06:17,534
+It's a great pity.
 
-403
-00:38:00,234 --> 00:38:02,904
-<i>- (buzzer)
-- (Bellick) Open up!</i>
+108
+00:06:17,660 --> 00:06:19,953
+It makes the gentlemen restless
 
-404
-00:38:04,364 --> 00:38:06,949
-Breakfast, gentlemen. Let's move it.
+109
+00:06:20,079 --> 00:06:24,749
+more than usual I mean.
 
-405
-00:38:07,033 --> 00:38:12,455
-Sucre, let's go. Scofield, wait here.
-I'm sure your ride'll be along any minute now.
+110
+00:06:24,876 --> 00:06:27,252
+Well, our patients are all
+tucked up for the night now,
 
-406
-00:38:19,337 --> 00:38:22,048
-This can't be it.
+111
+00:06:27,378 --> 00:06:29,004
+hey Brunton?
 
-407
-00:38:22,131 --> 00:38:24,300
-It can't end like this.
+112
+00:06:29,130 --> 00:06:31,548
+- Are they?
+- Of course, of course.
 
-408
-00:38:24,384 --> 00:38:26,636
-<i>(Bellick) Let's move it.</i>
+113
+00:06:31,674 --> 00:06:32,924
+Well, aren't they?
 
-409
-00:38:26,719 --> 00:38:29,680
-<i>- (Michael) Fitz.
-- What?</i>
+114
+00:06:33,050 --> 00:06:35,677
+Captain Vickery
+isn't in his room, sir,
 
-410
-00:38:29,764 --> 00:38:32,016
-We were gonna take Fitz out.
+115
+00:06:35,803 --> 00:06:39,973
+and it looked like
+Major Langford I saw
+going toward the pool.
 
-411
-00:38:33,059 --> 00:38:35,728
-It was as clear as day.
+116
+00:06:40,099 --> 00:06:42,893
+And I can't account for
+Lieutenant Clavering.
 
-412
-00:38:37,271 --> 00:38:43,069
-And the cops? How long did it take them
-to respond? You got all the timing down?
+117
+00:06:43,019 --> 00:06:45,103
+Oh, really?
+That's very odd.
 
-413
-00:38:45,947 --> 00:38:48,658
-Think we would've made it?
+118
+00:06:45,229 --> 00:06:48,023
+Very odd, sir.
 
-414
-00:38:50,576 --> 00:38:52,787
-Sucre, now.
+119
+00:06:48,149 --> 00:06:49,107
+Anything else, sir.
 
-415
-00:38:58,960 --> 00:39:01,879
-<i>(§ "Orange Sky" by Alexi Murdoch)</i>
+120
+00:06:49,233 --> 00:06:50,692
+No, thank you.
+Oh, yes, yes.
 
-416
-00:39:38,791 --> 00:39:46,048
-<i>§ Well, I had a dream
-I stood beneath an orange sky</i>
+121
+00:06:50,818 --> 00:06:52,027
+You might tell Dr. Sexton
 
-417
-00:39:54,181 --> 00:40:01,898
-<i>§ Yes, I had a dream
-I stood beneath an orange sky</i>
+122
+00:06:52,153 --> 00:06:53,487
+that I'd like to see him
+for a minute, will you?
 
-418
-00:40:03,524 --> 00:40:06,152
-Hey, fish face, where are you going?
+123
+00:06:53,613 --> 00:06:55,197
+Very good, sir.
 
-419
-00:40:06,235 --> 00:40:10,656
-<i>§ With my brother standing by</i>
+124
+00:07:01,496 --> 00:07:04,414
+- Good night, sir.
+- Good night, Brunton.
 
-420
-00:40:13,326 --> 00:40:17,955
-<i>§ With my brother standing by</i>
+125
+00:07:13,758 --> 00:07:15,091
+Doctor!
 
-421
-00:40:18,873 --> 00:40:22,835
-Call my wife. Tell her to get the kids
-and get the hell out of the country.
+126
+00:07:18,387 --> 00:07:21,640
+Get him up and let's get
+him in this chair over here.
 
-422
-00:40:24,795 --> 00:40:28,382
-<i>§ I said, brother, you know, you know</i>
-
-423
-00:40:29,175 --> 00:40:32,678
-<i>§ It's a long road we've been walking on</i>
-
-424
-00:40:38,392 --> 00:40:39,644
+127
+00:07:21,766 --> 00:07:23,058
 Sorry.
 
+128
+00:07:23,184 --> 00:07:25,685
+I'm awfully sorry.
+
+129
+00:07:25,811 --> 00:07:27,729
+- Get my bag, Brunton.
+- Yes, sir.
+
+130
+00:07:27,855 --> 00:07:30,315
+Now, let's have a look.
+
+131
+00:07:30,441 --> 00:07:33,360
+Yes, near thing
+just missed the carotid artery.
+
+132
+00:07:33,486 --> 00:07:34,861
+Looks like a knife wound.
+
+133
+00:07:34,987 --> 00:07:36,571
+Here you are, sir.
+
+134
+00:07:36,697 --> 00:07:38,114
+It's like a nightmare.
+
+135
+00:07:38,241 --> 00:07:41,243
+Give me some of that
+cotton and bottle, will you.
+
+136
+00:07:41,369 --> 00:07:44,162
+- Awful nuisance.
+- Oh, now, old fellow, we'll
+have you patched up in no time.
+
+137
+00:07:44,288 --> 00:07:46,081
+You'll be as good as new.
+
+138
+00:07:46,207 --> 00:07:46,748
+What happened?
+
+139
+00:07:46,874 --> 00:07:49,543
+I...I don't know.
+
+140
+00:07:49,669 --> 00:07:52,420
+It was in Lime Walk just now.
+
+141
+00:07:52,547 --> 00:07:54,297
+I was coming up
+from the village.
+
+142
+00:07:54,423 --> 00:07:55,674
+I remember distinctly
+
+143
+00:07:55,800 --> 00:07:58,802
+I was approaching
+the greenhouse.
+
+144
+00:07:58,928 --> 00:08:00,470
+The wind was terrific.
+
+145
+00:08:00,596 --> 00:08:02,722
+I had to fight my way.
+
+146
+00:08:02,848 --> 00:08:04,849
+I hadn't the slightest warning.
+
+147
+00:08:06,811 --> 00:08:08,520
+All I know is that
+
+148
+00:08:08,646 --> 00:08:11,690
+he struck and
+then I went down.
+
+149
+00:08:11,816 --> 00:08:14,276
+He must have thought
+that I was done for.
+
+150
+00:08:14,402 --> 00:08:17,279
+- Any idea who it was?
+- No.
+
+151
+00:08:17,405 --> 00:08:20,699
+- Well, that is I--
+- Yes, yes.
+
+152
+00:08:20,825 --> 00:08:22,576
+Really I...
+
+153
+00:08:22,702 --> 00:08:23,994
+I haven't any right.
+
+154
+00:08:24,120 --> 00:08:28,665
+You have every right,
+Dr. Sexton.
+
+155
+00:08:28,791 --> 00:08:30,375
+As head of this house,
+
+156
+00:08:30,501 --> 00:08:33,420
+I shall arrange for an
+immediate investigation.
+
+157
+00:08:33,546 --> 00:08:34,963
+I'd rather not
+if you don't mind, sir.
+
+158
+00:08:35,089 --> 00:08:36,256
+Dr. Sexton,
+
+159
+00:08:36,382 --> 00:08:37,841
+the fact that my
+brother and sister and I
+
+160
+00:08:37,967 --> 00:08:40,385
+have opened our home
+to convalescent patients
+
+161
+00:08:40,511 --> 00:08:44,264
+doesn't relieve us of all
+responsibility for what occurs in it.
+
+162
+00:08:44,390 --> 00:08:46,975
+I mean, under the
+peculiar circumstances.
+
+163
+00:08:47,101 --> 00:08:50,353
+Oh, come along, Bob.
+There's no need to shield anyone.
+
+164
+00:08:56,694 --> 00:08:58,945
+Thirteen.
+
+165
+00:08:59,071 --> 00:09:01,823
+Thirteen, that's curious.
+
+166
+00:09:01,949 --> 00:09:03,491
+What's got into the old clock?
+
+167
+00:09:03,618 --> 00:09:05,910
+Nothing, nothing at all.
+
+168
+00:09:06,037 --> 00:09:07,287
+Oh, sir.
+
+169
+00:09:07,413 --> 00:09:09,664
+Don't you remember
+the last time it did that
+
+170
+00:09:09,790 --> 00:09:12,083
+your father was killed
+the next day?
+
+171
+00:09:41,864 --> 00:09:44,449
+Mr. Holmes.
+Mr. Holmes.
+
+172
+00:09:44,575 --> 00:09:46,409
+Mr. Holmes.
+
+173
+00:09:50,122 --> 00:09:52,957
+Oh, Mr. Holmes, I...
+Oh I...oh--
+
+174
+00:09:53,084 --> 00:09:55,043
+A purely scientific experiment,
+Mrs. Hudson.
+
+175
+00:09:55,169 --> 00:09:57,837
+Oh, frightening the wits
+out of honest people.
+
+176
+00:09:57,963 --> 00:09:59,381
+Permit me, ma'am.
+
+177
+00:10:01,509 --> 00:10:02,550
+Oh dear,
+
+178
+00:10:02,677 --> 00:10:05,720
+so now it's bullet holes
+in me plaster.
+
+179
+00:10:05,846 --> 00:10:08,556
+Oh, Mr. Holmes,
+this is the last straw.
+
+180
+00:10:08,683 --> 00:10:10,642
+The last straw, Mrs. Hudson,
+
+181
+00:10:10,768 --> 00:10:13,311
+the one which breaks the
+back of the case against
+Jacob Dillery.
+
+182
+00:10:13,437 --> 00:10:15,522
+It proves beyond
+a shadow of doubt that
+
+183
+00:10:15,648 --> 00:10:17,315
+even bound as he claims he was
+
+184
+00:10:17,441 --> 00:10:19,484
+he could still have fired the
+shot in his own defense
+
+185
+00:10:19,610 --> 00:10:20,819
+that killed his wife's lover.
+
+186
+00:10:20,945 --> 00:10:24,531
+But shooting holes
+in my beautiful plaster.
+
+187
+00:10:24,657 --> 00:10:25,782
+Shh.
+
+188
+00:10:31,706 --> 00:10:33,790
+Come in, Watson.
+
+189
+00:10:33,916 --> 00:10:36,835
+My dear fellow,
+I'm glad to find you in.
+
+190
+00:10:36,961 --> 00:10:38,211
+I didn't even knock.
+
+191
+00:10:38,337 --> 00:10:40,380
+How did you know
+it was me...I?
+
+192
+00:10:40,506 --> 00:10:41,840
+Me is acceptable, Watson,
+
+193
+00:10:41,966 --> 00:10:43,675
+unless, of course,
+you're a purist, which I doubt,
+
+194
+00:10:43,801 --> 00:10:47,053
+and may I add that your step
+is like no other in London.
+
+195
+00:10:47,179 --> 00:10:48,304
+You're just in time
+for breakfast.
+
+196
+00:10:48,431 --> 00:10:50,056
+Good, I rather counted on that.
+
+197
+00:10:50,182 --> 00:10:51,766
+Mrs. Hudson, dear,
+how are you?
+
+198
+00:10:51,892 --> 00:10:53,309
+Oh, it's good to
+see you again, sir.
+
+199
+00:10:53,436 --> 00:10:55,311
+I think they'll be enough
+there for two.
+
+200
+00:10:55,438 --> 00:10:58,064
+Splendid.
+
+201
+00:10:58,190 --> 00:10:59,482
+You're a sight for sore eyes,
+Watson.
+
+202
+00:10:59,608 --> 00:11:01,359
+Thanks, old boy,
+and so are you.
+
+203
+00:11:01,485 --> 00:11:03,445
+- Sit down.
+- Good, thank you.
+
+204
+00:11:03,571 --> 00:11:05,822
+All right let's have it.
+
+205
+00:11:05,948 --> 00:11:08,867
+What brings you from
+Northumberland at this early hour?
+
+206
+00:11:08,993 --> 00:11:12,203
+Bad business, Holmes,
+very bad business.
+
+207
+00:11:12,329 --> 00:11:14,164
+How did you know that I
+came from Northumberland?
+
+208
+00:11:14,290 --> 00:11:16,082
+Elementary, my dear Watson.
+
+209
+00:11:16,208 --> 00:11:18,543
+You're overnight bag carried
+the fresh Houston label.
+
+210
+00:11:18,669 --> 00:11:21,171
+The only train arriving at
+Houston Station at this hour
+
+211
+00:11:21,297 --> 00:11:23,423
+is the New Castle Express
+from Northumberland.
+
+212
+00:11:23,549 --> 00:11:26,050
+Ergo this night, thou
+cometh from Northumberland.
+
+213
+00:11:26,177 --> 00:11:28,553
+- Of course. Obvious, isn't it?
+- Quite.
+
+214
+00:11:28,679 --> 00:11:30,138
+Now tell me,
+
+215
+00:11:30,264 --> 00:11:31,681
+what dark deed was done at
+Hurlstone Towers last night?
+
+216
+00:11:31,807 --> 00:11:33,933
+Well, that's what I came
+to see you about, Holmes.
+
+217
+00:11:34,059 --> 00:11:37,270
+About ten o'clock last night
+I was sitting in the lib--
+
+218
+00:11:37,396 --> 00:11:39,606
+How did you know that
+I came from Hurlstone?
+
+219
+00:11:39,732 --> 00:11:40,815
+You wrote me that
+you volunteered
+
+220
+00:11:40,941 --> 00:11:42,192
+for medical service
+within the realm.
+
+221
+00:11:42,318 --> 00:11:43,443
+With your experience
+
+222
+00:11:43,569 --> 00:11:45,320
+what post could have been
+offered to you
+
+223
+00:11:45,446 --> 00:11:47,822
+other than to put you in charge of
+a home of convalescent officers?
+
+224
+00:11:47,948 --> 00:11:49,324
+Only one such home
+has been opened
+
+225
+00:11:49,450 --> 00:11:50,867
+in Northumberland
+in the last month
+
+226
+00:11:50,993 --> 00:11:54,204
+and that's Musgrave Manor
+at Hurlstone.
+
+227
+00:11:54,330 --> 00:11:55,622
+Simple reasoning,
+
+228
+00:11:55,748 --> 00:11:57,290
+a child could do it.
+
+229
+00:11:57,416 --> 00:11:59,834
+- Not your child, Watson.
+- No, of course--
+
+230
+00:11:59,960 --> 00:12:01,836
+What?
+I never had a child.
+
+231
+00:12:01,962 --> 00:12:03,463
+I very nearly did though.
+
+232
+00:12:03,589 --> 00:12:06,549
+Did I ever tell you about
+that widow at Twickenham?
+
+233
+00:12:06,675 --> 00:12:08,092
+A very narrow escape.
+
+234
+00:12:08,219 --> 00:12:10,011
+I just found out in time
+
+235
+00:12:10,137 --> 00:12:11,471
+that she had the most horrible little
+squirt about three and a half.
+
+236
+00:12:11,597 --> 00:12:13,598
+Yes, Watson. I think we better
+stick to Hurlstone.
+
+237
+00:12:13,724 --> 00:12:15,850
+Oh, sorry, old boy?
+Oh Hurlstone.
+
+238
+00:12:15,976 --> 00:12:18,311
+It's a grim old pile,
+very spooky.
+
+239
+00:12:18,437 --> 00:12:20,104
+Don't tell me that
+you met a ghost.
+
+240
+00:12:20,231 --> 00:12:22,357
+Well, not so spooky as that.
+
+241
+00:12:22,483 --> 00:12:25,610
+Ghosts don't stab people
+in the neck do they?
+
+242
+00:12:25,736 --> 00:12:28,488
+Or do they?
+
+243
+00:12:28,614 --> 00:12:31,199
+Not well-bred ghosts, Watson.
+
+244
+00:12:31,325 --> 00:12:32,659
+Who was stabbed in the neck?
+
+245
+00:12:32,785 --> 00:12:35,453
+My young assistant, Dr. Sexton.
+
+246
+00:12:35,579 --> 00:12:37,205
+- When?
+- Last night.
+
+247
+00:12:37,331 --> 00:12:38,540
+Any idea who did it?
+
+248
+00:12:38,666 --> 00:12:39,749
+I have no idea.
+
+249
+00:12:39,875 --> 00:12:42,168
+- You reported it?
+- Well, no, no I didn't.
+
+250
+00:12:42,294 --> 00:12:43,253
+Why not?
+
+251
+00:12:43,379 --> 00:12:44,546
+Well you see is it--
+
+252
+00:12:44,672 --> 00:12:46,422
+My dear fellow,
+what you're trying to say is
+
+253
+00:12:46,549 --> 00:12:48,716
+the officers in your care
+are all fine fellows,
+
+254
+00:12:48,843 --> 00:12:50,718
+wonderful war records
+and so on. Is that it?
+
+255
+00:12:50,845 --> 00:12:52,345
+Precisely.
+
+256
+00:12:52,471 --> 00:12:55,515
+- So you thought perhaps
+a private investigation.
+- Exactly.
+
+257
+00:12:55,641 --> 00:12:57,433
+Very right and proper thinking,
+Watson.
+
+258
+00:12:57,560 --> 00:12:59,811
+We're just in time to
+catch the nine thirty train
+for Hurlstone.
+
+259
+00:12:59,937 --> 00:13:03,398
+- But my dear fellow,
+there's no immediate hurry.
+- Isn't there?
+
+260
+00:13:03,524 --> 00:13:05,900
+Your patients are all
+victims of combat fatigue.
+
+261
+00:13:06,026 --> 00:13:08,444
+Any one of them might go
+over the edge at any moment
+
+262
+00:13:08,571 --> 00:13:10,238
+and from what you've told me
+
+263
+00:13:10,364 --> 00:13:12,323
+there's a killer loose
+at Hurlstone.
+
+264
+00:13:12,449 --> 00:13:14,033
+Great Scott,
+you may be right.
+
+265
+00:13:14,159 --> 00:13:17,412
+Come along, Watson.
+We haven't a moment to lose.
+
+266
+00:13:17,538 --> 00:13:19,080
+I only hope we shan't
+be too late.
+
+267
+00:13:30,593 --> 00:13:32,385
+You were right, Watson,
+about Musgrave Manor.
+
+268
+00:13:32,511 --> 00:13:34,512
+Houses like people
+have definite personalities
+
+269
+00:13:34,638 --> 00:13:37,056
+and this place is
+positively ghoulish.
+
+270
+00:13:37,182 --> 00:13:38,683
+It certainly is.
+
+271
+00:13:39,685 --> 00:13:41,060
+Hello.
+
+272
+00:13:41,186 --> 00:13:42,645
+What's that?
+
+273
+00:13:42,771 --> 00:13:45,481
+- Just the old greenhouse.
+- No, no, that pile of leaves.
+
+274
+00:13:45,608 --> 00:13:47,901
+Just an ordinary
+pile of leaves. Why?
+
+275
+00:13:48,027 --> 00:13:49,777
+Doesn't it strike you
+as odd, Watson,
+
+276
+00:13:49,904 --> 00:13:51,195
+that a pile of leaves
+should be raked up
+
+277
+00:13:51,322 --> 00:13:54,198
+in front of a
+greenhouse door?
+
+278
+00:13:54,325 --> 00:13:56,618
+No gardener in the world
+would do that.
+
+279
+00:14:07,338 --> 00:14:09,380
+Geoffrey Musgrave.
+
+280
+00:14:30,194 --> 00:14:34,530
+That's all very interesting,
+Inspector Lestrade,
+
+281
+00:14:34,657 --> 00:14:37,492
+but what, may I ask,
+does it prove?
+
+282
+00:14:37,618 --> 00:14:39,869
+What I'm trying to prove
+is this,
+
+283
+00:14:39,995 --> 00:14:42,997
+- that Dr. Sexton here
+went down...
+- That's twice now, inspector.
+
+284
+00:14:43,123 --> 00:14:44,707
+- He was stunned.
+- Naturally.
+
+285
+00:14:44,833 --> 00:14:45,917
+He went out longer
+than you thought.
+
+286
+00:14:46,043 --> 00:14:47,502
+- That's the point.
+- What point?
+
+287
+00:14:47,628 --> 00:14:49,128
+Just this.
+
+288
+00:14:49,254 --> 00:14:50,546
+The man who attacked him had
+time to get back in the house
+
+289
+00:14:50,673 --> 00:14:53,091
+- before Dr. Sexton here
+came to.
+- Yes?
+
+290
+00:14:53,217 --> 00:14:54,133
+Yes.
+
+291
+00:14:54,259 --> 00:14:56,260
+And this here glove--
+
+292
+00:14:56,387 --> 00:14:58,972
+Oh, and this here glove
+
+293
+00:14:59,098 --> 00:15:01,432
+what I picked up at
+the scene of the crime,
+
+294
+00:15:01,558 --> 00:15:04,477
+belongs to a certain party
+right here in this house.
+
+295
+00:15:04,603 --> 00:15:05,979
+I say.
+
+296
+00:15:06,105 --> 00:15:08,231
+- Well that glove
+belongs to my brother.
+- Huh?
+
+297
+00:15:08,357 --> 00:15:10,733
+Do you suggest that he
+intended to murder Dr. Sexton?
+
+298
+00:15:10,859 --> 00:15:12,652
+Who knows?
+
+299
+00:15:12,778 --> 00:15:14,696
+The man whose hand
+fits this here glove
+
+300
+00:15:14,822 --> 00:15:16,239
+will bear a talking to.
+
+301
+00:15:16,365 --> 00:15:18,449
+Very well. My brother's
+down at the stables.
+
+302
+00:15:18,575 --> 00:15:20,284
+- I'll take you to him myself.
+- Thank you.
+
+303
+00:15:20,411 --> 00:15:22,704
+It's the quickest way
+to put a stop to this
+blithering nonsense.
+
+304
+00:15:22,830 --> 00:15:23,997
+Come on.
+
+305
+00:15:24,123 --> 00:15:25,540
+- Oh, Mr. Phillip,
+- Yes.
+
+306
+00:15:25,666 --> 00:15:27,917
+better not go out in
+the night air without a coat.
+
+307
+00:15:28,043 --> 00:15:30,003
+- Here, take mine.
+- Thanks.
+
+308
+00:15:33,215 --> 00:15:34,674
+Well, I won't need this.
+
+309
+00:15:34,800 --> 00:15:37,802
+No, oh, nor this.
+
+310
+00:15:37,928 --> 00:15:39,637
+Well, shall we go?
+
+311
+00:15:41,390 --> 00:15:43,182
+Why if it ain't Mr. Holmes?
+
+312
+00:15:43,308 --> 00:15:44,517
+Good evening, Lestrade.
+
+313
+00:15:44,643 --> 00:15:45,810
+Come to give us a hand,
+have you?
+
+314
+00:15:45,936 --> 00:15:47,270
+Always happy to help,
+inspector.
+
+315
+00:15:47,396 --> 00:15:49,147
+Thanks but I don't think
+I shall be needing any.
+
+316
+00:15:50,733 --> 00:15:54,193
+Why if it isn't Dr. Watson.
+
+317
+00:15:54,319 --> 00:15:57,071
+Gentlemen, this is my friend,
+Mr. Sherlock Holmes.
+
+318
+00:15:57,197 --> 00:15:59,032
+Mr. Phillip Musgrave
+and Dr. Sexton.
+
+319
+00:15:59,158 --> 00:16:00,491
+- How do you do?
+- How do you do.
+
+320
+00:16:00,617 --> 00:16:02,994
+I'll just put him up to
+spend a few days with us.
+
+321
+00:16:03,120 --> 00:16:04,495
+That's very good of you
+
+322
+00:16:04,621 --> 00:16:06,706
+but as you see Scotland Yard's
+already taken charge.
+
+323
+00:16:06,832 --> 00:16:08,666
+Oh really?
+That's most unfortunate.
+
+324
+00:16:08,792 --> 00:16:10,460
+If you don't mind,
+Dr. Watson,
+
+325
+00:16:10,586 --> 00:16:12,795
+I'd like to have a little talk
+with your brother, sir.
+
+326
+00:16:12,921 --> 00:16:16,090
+- I'm afraid you can't have
+that pleasure, inspector.
+- Oh no?
+
+327
+00:16:16,216 --> 00:16:18,259
+I've got bad news for you,
+Mr. Musgrave.
+
+328
+00:16:18,385 --> 00:16:20,928
+We've just found your brother
+in the lime walk.
+
+329
+00:16:21,055 --> 00:16:22,930
+He's dead.
+
+330
+00:16:23,057 --> 00:16:25,808
+You can't mean it.
+
+331
+00:16:25,934 --> 00:16:27,351
+No.
+
+332
+00:16:29,813 --> 00:16:32,023
+Look here, Holmes, if this is
+one of your little jokes.
+
+333
+00:16:32,149 --> 00:16:34,776
+Murder's no joke,
+inspector.
+
+334
+00:16:34,902 --> 00:16:37,987
+That's right, Mr. Holmes.
+Nobody's saying it ain't.
+
+335
+00:16:38,113 --> 00:16:39,614
+Murder?
+Well let's get going.
+
+336
+00:16:39,740 --> 00:16:41,491
+- I'll take charge now.
+- What?
+
+337
+00:16:41,617 --> 00:16:43,326
+But it's quite within my rights
+as a local justice of the peace.
+
+338
+00:16:43,452 --> 00:16:44,952
+I'll come with you.
+
+339
+00:17:06,225 --> 00:17:07,683
+Wait a minute, you fool.
+
+340
+00:17:07,810 --> 00:17:09,602
+Don't go barging in like that.
+
+341
+00:17:09,728 --> 00:17:11,479
+Don't maul me.
+
+342
+00:17:14,024 --> 00:17:16,567
+Surgical instruments.
+
+343
+00:17:16,693 --> 00:17:19,028
+You know Watson,
+the instruments that save life
+
+344
+00:17:19,154 --> 00:17:21,364
+are hardly more pleasant to look
+at than those that take it.
+
+345
+00:17:21,490 --> 00:17:22,490
+Hmm.
+
+346
+00:17:22,616 --> 00:17:23,866
+Grisly thought, Holmes.
+
+347
+00:17:27,496 --> 00:17:28,955
+You rang, Dr. Watson?
+
+348
+00:17:29,081 --> 00:17:30,581
+Yes, Brunton.
+
+349
+00:17:30,707 --> 00:17:32,166
+I want you to take some men
+and go down to the lime walk.
+
+350
+00:17:32,292 --> 00:17:35,670
+Me, sir, well I can't sir.
+I'm sorry but I simply can't.
+
+351
+00:17:35,796 --> 00:17:37,797
+My stomach, you know.
+
+352
+00:17:37,923 --> 00:17:41,884
+I really couldn't
+look at a corpse.
+
+353
+00:17:42,010 --> 00:17:43,928
+- Corpse?
+- Well I--
+
+354
+00:17:44,054 --> 00:17:46,013
+How did you know
+that there was a corpse?
+
+355
+00:17:46,140 --> 00:17:48,015
+Obviously, he was listening
+at the door.
+
+356
+00:17:48,142 --> 00:17:50,184
+I'll take care of
+the matter, doctor.
+
+357
+00:17:50,310 --> 00:17:52,228
+I was listening too.
+
+358
+00:17:52,354 --> 00:17:54,147
+Come along, Brunton.
+
+359
+00:18:00,070 --> 00:18:01,362
+Remarkable woman.
+
+360
+00:18:01,488 --> 00:18:03,447
+Housekeeper, I suppose.
+
+361
+00:18:03,574 --> 00:18:05,116
+She's very efficient.
+
+362
+00:18:05,242 --> 00:18:07,743
+Same type as Marianne Carpenter,
+the trunk murderess.
+
+363
+00:18:10,080 --> 00:18:11,581
+Extraordinary house.
+
+364
+00:18:11,707 --> 00:18:13,791
+Yes, it's is indeed.
+
+365
+00:18:13,917 --> 00:18:15,376
+Now Watson,
+if you don't mind
+
+366
+00:18:15,502 --> 00:18:18,004
+I'd like to have a word with
+your extraordinary patients.
+
+367
+00:18:18,130 --> 00:18:19,130
+Let me remind you, Holmes,
+
+368
+00:18:19,256 --> 00:18:22,466
+that my patients are
+just patients.
+
+369
+00:18:22,593 --> 00:18:23,634
+Quite so.
+
+370
+00:18:23,760 --> 00:18:26,846
+All normal men,
+sound in mind and body
+
+371
+00:18:26,972 --> 00:18:29,182
+- and no sign of
+psychoneurosis.
+- I quite understand.
+
+372
+00:18:29,308 --> 00:18:33,186
+Then Holmes even normal people
+are sometimes a little--
+
+373
+00:18:34,730 --> 00:18:36,355
+Precisely.
+
+374
+00:18:45,574 --> 00:18:47,283
+Hello, Mack.
+
+375
+00:18:48,994 --> 00:18:51,621
+Oh, I must have taken
+a wee nap.
+
+376
+00:18:51,747 --> 00:18:53,539
+Mack, I want you to meet
+a very old friend of mine,
+
+377
+00:18:53,665 --> 00:18:55,208
+Mr. Sherlock Holmes.
+Captain Mackintosh.
+
+378
+00:18:55,334 --> 00:18:56,292
+How do you do?
+
+379
+00:18:56,418 --> 00:18:57,919
+I have heard of you,
+Mr. Holmes.
+
+380
+00:18:58,045 --> 00:19:00,129
+- Sorry to have wakened you.
+- Oh, that's quite all right.
+
+381
+00:19:00,255 --> 00:19:01,547
+- See you later.
+- Yes.
+
+382
+00:19:01,673 --> 00:19:03,507
+Sit down Mack and
+go on with your sleep.
+
+383
+00:19:09,890 --> 00:19:12,725
+Poor chap. He lay wounded
+in a trench on Josher Hill.
+
+384
+00:19:12,851 --> 00:19:14,560
+The German tanks
+went over him.
+
+385
+00:19:17,105 --> 00:19:18,481
+- Watson?
+- Huh?
+
+386
+00:19:18,607 --> 00:19:20,608
+Have you any idea how
+Jeffery Musgrave met his death?
+
+387
+00:19:20,734 --> 00:19:22,777
+Yes,
+a depressed skull fracture.
+
+388
+00:19:22,903 --> 00:19:24,862
+Wait, hang on a minute Holmes,
+it isn't.
+
+389
+00:19:24,988 --> 00:19:26,697
+Isn't it?
+Why not?
+
+390
+00:19:26,823 --> 00:19:29,951
+- No edema, no bleeding,
+no contraction of tissue.
+- Precisely.
+
+391
+00:19:30,077 --> 00:19:31,953
+The blow on the head
+was delivered after death.
+
+392
+00:19:32,079 --> 00:19:33,621
+Musgrave was killed
+by a sharp instrument
+
+393
+00:19:33,747 --> 00:19:35,998
+thrusted between the base of
+the skull and the top vertebra.
+
+394
+00:19:36,124 --> 00:19:38,000
+Great Scott.
+
+395
+00:19:38,126 --> 00:19:39,710
+Should we go up now?
+
+396
+00:19:46,134 --> 00:19:47,843
+- Hello, Langford.
+- Oh, hello there.
+
+397
+00:19:47,970 --> 00:19:50,554
+Been away, haven't you,
+haven't you?
+
+398
+00:19:50,681 --> 00:19:53,266
+Yes, I just been down to London.
+I brought my friend back.
+
+399
+00:19:53,392 --> 00:19:55,142
+This is Mr. Sherlock Holmes.
+Major Langford.
+
+400
+00:19:55,269 --> 00:19:57,520
+Well, see you at dinner.
+What...what?
+
+401
+00:19:57,646 --> 00:19:58,854
+I hope so.
+
+402
+00:19:58,981 --> 00:20:02,525
+I hope so. I hope so.
+Excuse me. Excuse me.
+
+403
+00:20:04,903 --> 00:20:06,529
+Poor chap was at Singapore,
+
+404
+00:20:06,655 --> 00:20:08,531
+escaped from a Japanese
+prison camp,
+
+405
+00:20:08,657 --> 00:20:10,032
+ghastly experience.
+
+406
+00:20:10,158 --> 00:20:11,909
+- He's suffering from--
+- Escape complex obviously.
+
+407
+00:20:12,035 --> 00:20:15,037
+Yes. He's a very nice
+chap, though.
+
+408
+00:20:15,163 --> 00:20:16,455
+The next fellow
+I want you to meet
+
+409
+00:20:16,581 --> 00:20:19,458
+is young Clavering,
+Lieutenant Royal Engineers.
+
+410
+00:20:19,584 --> 00:20:22,545
+Saw a lot of men blown to bits
+by Nazi booby traps.
+
+411
+00:20:22,671 --> 00:20:24,797
+- He's a bit on edge.
+- Not unnaturally.
+
+412
+00:20:30,512 --> 00:20:31,637
+Coming.
+
+413
+00:20:35,100 --> 00:20:37,685
+Well, Dr. Watson.
+Come in, won't you?
+
+414
+00:20:37,811 --> 00:20:39,687
+Sorry to keep you so long.
+
+415
+00:20:39,813 --> 00:20:41,522
+You see I, uh,
+
+416
+00:20:41,648 --> 00:20:44,025
+I was lying down, resting.
+
+417
+00:20:44,151 --> 00:20:46,694
+This is my friend, Mr. Holmes,
+who's here for a few days.
+
+418
+00:20:46,820 --> 00:20:47,862
+Mr. Clavering.
+
+419
+00:20:47,988 --> 00:20:48,988
+- Glad to meet you.
+- How do you do?
+
+420
+00:20:49,114 --> 00:20:51,157
+- Sorry to disturb you.
+- Not at all.
+
+421
+00:20:51,283 --> 00:20:52,533
+I say, you don't happen to have
+
+422
+00:20:52,659 --> 00:20:54,327
+some cigarettes about you,
+do you?
+
+423
+00:20:54,453 --> 00:20:56,495
+That's one of the reasons I came.
+I brought you some of those
+
+424
+00:20:56,621 --> 00:20:59,123
+American cigarettes
+that you're so fond of.
+
 425
-00:40:39,727 --> 00:40:43,147
-<i>§ You know it is, you know it is</i>
+00:20:59,249 --> 00:21:01,500
+It's all right, open it up.
 
 426
-00:40:43,230 --> 00:40:46,651
-<i>§ Such a long road we've been walking on</i>
+00:21:01,626 --> 00:21:04,295
+No hurry, no hurry at all.
 
 427
-00:41:01,707 --> 00:41:04,627
-Don't forget to buckle up.
+00:21:04,421 --> 00:21:06,839
+No, no, no.
+Of course there isn't.
 
 428
-00:41:07,546 --> 00:41:11,967
-<i>- (Pope) What's he doing out of his cell?
-- (guard) He's being transferred.</i>
+00:21:06,965 --> 00:21:08,257
+Shall we go?
 
 429
-00:41:12,051 --> 00:41:15,888
-No, there must be some mistake.
-This man filed a motion yesterday.
+00:21:08,383 --> 00:21:10,134
+Yes, well we must be off.
+We've got a lot to do.
 
 430
-00:41:15,971 --> 00:41:19,433
-He has a medical condition
-which precludes transfer.
+00:21:10,260 --> 00:21:12,303
+- See you later.
+- Yes, I'll be back.
 
 431
-00:41:19,517 --> 00:41:21,644
-Sinusitis, right?
+00:21:12,429 --> 00:21:13,679
+Good night.
 
 432
-00:41:21,727 --> 00:41:24,188
-Sinusitis.
+00:21:16,767 --> 00:21:18,476
+He seems afraid there might
+be a bomb in that package.
 
 433
-00:41:24,271 --> 00:41:29,985
-Take the prisoner back to his cell. But yank
-his rec time. He missed count last night.
+00:21:18,602 --> 00:21:20,353
+Well he'd find them in
+less likely places than that
 
 434
-00:42:11,026 --> 00:42:12,611
-Hey.
+00:21:20,479 --> 00:21:22,146
+the poor chap.
 
 435
-00:42:12,695 --> 00:42:15,698
-You're home early. Everything OK?
+00:21:22,272 --> 00:21:24,231
+The man in this room is
+an American Flying officer.
 
 436
-00:42:15,781 --> 00:42:18,784
-Yeah. Yeah, it is.
+00:21:24,358 --> 00:21:26,192
+Captain Vickery, nothing
+really much matter with him.
 
 437
-00:42:19,910 --> 00:42:22,246
-There's just...
+00:21:26,318 --> 00:21:27,777
+What's he here for then?
 
 438
-00:42:26,125 --> 00:42:28,210
-Judy,
+00:21:27,903 --> 00:21:29,987
+On a rest, had a pretty
+long go and he's worn out.
 
 439
-00:42:32,715 --> 00:42:35,801
-there's someone I need to tell you about.
+00:21:30,113 --> 00:21:31,238
+He needs all the rest
+he can get.
 
 440
-00:42:37,761 --> 00:42:40,723
-<i>- (phone rings)
-- (woman) Yes?</i>
+00:21:32,407 --> 00:21:35,993
+Vickery,
+Vickery.
 
 441
-00:42:40,806 --> 00:42:44,685
-<i>- (Kellerman) The transfer did not go through.
-- (woman) Disappointing.</i>
+00:21:36,119 --> 00:21:37,787
+He doesn't seem to be in.
 
 442
-00:42:44,768 --> 00:42:48,772
-<i>- (Kellerman) We can refile, but...
-- (woman) It's a waste of time.</i>
+00:21:41,416 --> 00:21:43,334
+No one at home.
 
 443
-00:42:48,856 --> 00:42:52,109
-I think it's time we stopped
-beating around the bush,
+00:21:43,460 --> 00:21:44,919
+Hmm.
 
 444
-00:42:52,193 --> 00:42:54,778
-and go after the damn bush.
+00:21:45,045 --> 00:21:46,754
+Apparently not.
 
 445
-00:42:55,696 --> 00:42:59,617
-<i>(Kellerman) Burrows.
-What do you want done?</i>
+00:21:48,799 --> 00:21:50,800
+Not since teatime at any rate.
 
 446
-00:42:59,700 --> 00:43:03,037
-<i>(woman) Take the only thing
-Burrows has left- time.</i>
+00:21:50,926 --> 00:21:53,886
+Hello, what's this?
 
 447
-00:43:03,120 --> 00:43:08,042
-<i>After all, the chair isn't the only way
-to take a man's life in prison.</i>
+00:21:54,012 --> 00:21:55,846
+"Captain Vickery,
+here's your tea.
 
 448
-00:43:42,660 --> 00:43:45,579
-Visiontext Subtitles: Jo Clarke
+00:21:55,972 --> 00:21:57,556
+If it's cold don't blame me."
 
 449
-00:43:45,663 --> 00:43:47,748
-ENGLISH SDH
+00:21:57,682 --> 00:22:00,684
+That sounds like
+Brunton's work.
+
+450
+00:22:00,811 --> 00:22:02,228
+The butler?
+
+451
+00:22:02,354 --> 00:22:04,480
+He fancies himself a poet
+but only when he's drinking.
+
+452
+00:22:04,606 --> 00:22:05,815
+I see.
+
+453
+00:22:05,941 --> 00:22:07,691
+Wasn't there an American killer
+given to verse?
+
+454
+00:22:07,818 --> 00:22:11,737
+- Holmes, you don't think
+that Brunton --
+- Excuse me.
+
+455
+00:22:11,863 --> 00:22:14,323
+I merely stated
+
+456
+00:22:14,449 --> 00:22:16,450
+there's an American killer
+given to verse.
+
+457
+00:22:16,576 --> 00:22:18,828
+Dr. Watson,
+oh where are you?
+
+458
+00:22:18,954 --> 00:22:20,371
+Oh, there you are.
+
+459
+00:22:20,497 --> 00:22:22,164
+Steady my dear, steady.
+
+460
+00:22:22,290 --> 00:22:23,999
+Please make me wake up,
+won't you?
+
+461
+00:22:24,126 --> 00:22:26,085
+It's just a bad dream,
+I know,
+
+462
+00:22:26,211 --> 00:22:27,711
+- Geoff and Pat--
+- Now, now, now, my dear.
+
+463
+00:22:27,838 --> 00:22:29,505
+You got to get a grip
+on yourself.
+
+464
+00:22:29,631 --> 00:22:32,299
+Come on, come on,
+come sit down.
+
+465
+00:22:32,426 --> 00:22:35,928
+My brother, Geoff, murdered.
+
+466
+00:22:36,054 --> 00:22:38,180
+Poor old Geoff.
+
+467
+00:22:38,306 --> 00:22:40,975
+And I hadn't spoken to him
+since we had the fight
+yesterday on Pat,
+
+468
+00:22:41,101 --> 00:22:44,895
+I mean, Captain Vickery's
+account and now he's dead.
+
+469
+00:22:45,021 --> 00:22:47,857
+Now, now my dear you must
+pull yourself together.
+
+470
+00:22:47,983 --> 00:22:49,733
+But you don't understand.
+
+471
+00:22:49,860 --> 00:22:52,528
+They're trying to say
+that Pat--
+
+472
+00:22:52,654 --> 00:22:54,447
+they're trying to prove
+that Pat killed Geoff.
+
+473
+00:22:54,573 --> 00:22:57,241
+- No, no, no.
+- Yes.
+
+474
+00:22:57,367 --> 00:22:59,076
+Funny isn't it.
+
+475
+00:22:59,202 --> 00:23:00,953
+Awfully funny.
+
+476
+00:23:01,079 --> 00:23:04,540
+- Awfully funny, awfully funny!
+- Stop it!
+
+477
+00:23:04,666 --> 00:23:06,750
+- Who are you?
+- My name is Holmes.
+
+478
+00:23:06,877 --> 00:23:09,003
+- Sherlock Holmes?
+- Yes.
+
+479
+00:23:09,129 --> 00:23:11,464
+Then you'll help us, won't you
+Mr. Holmes, Pat and me.
+
+480
+00:23:11,590 --> 00:23:12,840
+I'll try to.
+
+481
+00:23:12,966 --> 00:23:14,675
+Now tell me,
+wasn't there bad blood
+
+482
+00:23:14,801 --> 00:23:16,260
+between your brother,
+Geoffrey and Captain Vickery?
+
+483
+00:23:16,386 --> 00:23:17,428
+That's got nothing
+to do with it.
+
+484
+00:23:17,554 --> 00:23:18,846
+It may have everything
+to do with it.
+
+485
+00:23:18,972 --> 00:23:20,347
+If you think Captain Vickery
+ever murdered anyone
+
+486
+00:23:20,474 --> 00:23:22,224
+you're no more of a
+detective than,
+
+487
+00:23:22,350 --> 00:23:25,060
+- than Dr. Watson.
+- Oh, my dear.
+
+488
+00:23:25,187 --> 00:23:27,062
+Oh, I'm sorry.
+
+489
+00:23:29,941 --> 00:23:31,192
+You're very much in love,
+aren't you?
+
+490
+00:23:31,318 --> 00:23:33,402
+I'm out of my mind,
+Mr. Holmes.
+
+491
+00:23:33,528 --> 00:23:35,905
+I'm out of my mind.
+
+492
+00:23:36,031 --> 00:23:38,657
+Oh, please forgive me
+and please, please help me.
+
+493
+00:23:38,783 --> 00:23:40,242
+Of course, of course
+I understand.
+
+494
+00:23:40,368 --> 00:23:41,744
+But you don't understand,
+
+495
+00:23:41,870 --> 00:23:43,287
+that appalling man from
+Scotland Yard
+
+496
+00:23:43,413 --> 00:23:45,789
+is questioning Pat
+at this very moment.
+
+497
+00:23:46,666 --> 00:23:48,209
+Now this here rake,
+
+498
+00:23:48,335 --> 00:23:50,085
+it's the identical one you got
+from the garden this afternoon,
+
+499
+00:23:50,212 --> 00:23:51,670
+now ain't it?
+
+500
+00:23:53,840 --> 00:23:55,549
+It smells like it.
+
+501
+00:23:55,675 --> 00:23:57,259
+Hey what is this? Are you trying
+to prove that Geoffrey Musgrave
+
+502
+00:23:57,385 --> 00:23:58,302
+was killed with a rake?
+
+503
+00:23:58,428 --> 00:24:00,095
+No, I'm try--
+
+504
+00:24:00,222 --> 00:24:02,306
+never mind
+what I'm trying to prove.
+
+505
+00:24:02,432 --> 00:24:03,849
+Just incriminate yourself,
+Captain Vickery.
+
+506
+00:24:03,975 --> 00:24:05,226
+That's all Lestrade wants.
+
+507
+00:24:05,352 --> 00:24:07,019
+I'll thank you to
+keep out of this, Mr. Holmes.
+
+508
+00:24:07,145 --> 00:24:08,145
+This is Mr. Sherlock Holmes.
+
+509
+00:24:08,271 --> 00:24:09,271
+- How do you do?
+- How do you do?
+
+510
+00:24:09,397 --> 00:24:10,356
+He's promised to help you, dear.
+
+511
+00:24:10,482 --> 00:24:11,649
+There's nothing to
+worry about now.
+
+512
+00:24:11,775 --> 00:24:13,984
+Only his neck, miss.
+Let me see your rake.
+
+513
+00:24:14,110 --> 00:24:15,528
+What do you say
+you were using it for?
+
+514
+00:24:15,654 --> 00:24:18,072
+I told you. I got it to fish
+my cap out of the pond.
+
+515
+00:24:18,198 --> 00:24:19,532
+It blew in.
+
+516
+00:24:19,658 --> 00:24:21,784
+Oh, so you were using it
+down at the pond, were you?
+
+517
+00:24:21,910 --> 00:24:23,619
+For the tenth time, yes.
+
+518
+00:24:23,745 --> 00:24:25,412
+And how did it happen
+to turn up alongside
+Musgrave's body, eh?
+
+519
+00:24:25,539 --> 00:24:28,165
+- I don't know.
+- Uh-huh, Well that's that.
+
+520
+00:24:28,291 --> 00:24:29,792
+Oh, Mr. Holmes.
+
+521
+00:24:29,918 --> 00:24:31,752
+Any fingerprints
+on the rake, inspector?
+
+522
+00:24:31,878 --> 00:24:33,587
+No, Mr. Holmes.
+That's the point.
+
+523
+00:24:33,713 --> 00:24:36,131
+If Vickery here was only using
+it to fish his hat out
+
+524
+00:24:36,258 --> 00:24:38,634
+well now he wouldn't bother
+to wipe his fingerprints off
+now would he?
+
+525
+00:24:38,760 --> 00:24:39,927
+It's beyond imagination,
+I suppose,
+
+526
+00:24:40,053 --> 00:24:41,095
+that somebody else
+could have used the rake
+
+527
+00:24:41,221 --> 00:24:43,055
+and wiped off both sets
+of fingerprints.
+
+528
+00:24:43,181 --> 00:24:45,474
+Highly interesting
+but very unlikely.
+
+529
+00:24:45,600 --> 00:24:47,560
+Now you admit
+that you had a regular set to
+
+530
+00:24:47,686 --> 00:24:49,353
+with Jeffrey Musgrave
+yesterday, didn't you?
+
+531
+00:24:49,479 --> 00:24:50,771
+You threatened to
+bash his head in.
+
+532
+00:24:50,897 --> 00:24:52,606
+I merely made the offer.
+He didn't accept it.
+
+533
+00:24:52,732 --> 00:24:53,774
+- Who told you so?
+- He did.
+
+534
+00:24:53,900 --> 00:24:54,900
+Oh, no, he did.
+
+535
+00:24:55,026 --> 00:24:57,027
+I only stated what I heard.
+
+536
+00:24:57,153 --> 00:24:59,196
+Captain Vickery did
+threaten my brother.
+
+537
+00:24:59,322 --> 00:25:02,199
+That's right, Mr. Holmes and
+it's no good saying it ain't.
+
+538
+00:25:02,325 --> 00:25:04,618
+This Yankee lad had
+motive and opportunity
+
+539
+00:25:04,744 --> 00:25:07,830
+and the rake ties him
+right up tight to the corpse.
+
+540
+00:25:07,956 --> 00:25:10,457
+All right.
+Come along.
+
+541
+00:25:14,004 --> 00:25:16,213
+Do you really think he
+killed old Musgrave?
+
+542
+00:25:16,339 --> 00:25:18,007
+You know very well he didn't.
+
+543
+00:25:18,133 --> 00:25:19,883
+Stop clicking those needles.
+
+544
+00:25:20,010 --> 00:25:21,969
+- Oh, Pat.
+- Take it easy, Sally.
+
+545
+00:25:22,095 --> 00:25:23,554
+Now look, don't worry a bit.
+
+546
+00:25:23,680 --> 00:25:26,181
+I'll tell you everything's
+gonna be all right.
+
+547
+00:25:26,308 --> 00:25:27,933
+Let's go, inspector.
+
+548
+00:25:33,565 --> 00:25:34,732
+Mr. Holmes.
+
+549
+00:25:34,858 --> 00:25:36,483
+Steady.
+Steady.
+
+550
+00:25:36,610 --> 00:25:38,694
+- Aren't you on our side?
+- Yes, Sally.
+
+551
+00:25:38,820 --> 00:25:40,112
+Then why don't you
+do something.
+
+552
+00:25:40,238 --> 00:25:41,655
+Because Captain Vickery
+will be much safer
+
+553
+00:25:41,781 --> 00:25:43,073
+in the local police station
+tonight
+
+554
+00:25:43,199 --> 00:25:44,283
+than he would be in this house.
+
+555
+00:25:44,409 --> 00:25:46,410
+Oh, Mr. Holmes,
+what am I going to do?
+
+556
+00:25:46,536 --> 00:25:47,786
+Watson, get your sedative.
+
+557
+00:25:47,912 --> 00:25:48,746
+I'll get it at once.
+
+558
+00:25:48,872 --> 00:25:50,539
+Come along, Sally.
+
+559
+00:26:02,052 --> 00:26:04,428
+She's a bit upset
+but she'll get over it.
+
+560
+00:26:04,554 --> 00:26:06,221
+You think so?
+
+561
+00:26:06,348 --> 00:26:07,348
+She'll have to.
+
+562
+00:26:07,474 --> 00:26:08,849
+She's got an ordeal
+ahead of her.
+
+563
+00:26:08,975 --> 00:26:11,852
+She has to go through
+that tiresome ritual tomorrow.
+
+564
+00:26:11,978 --> 00:26:14,063
+Ritual?
+
+565
+00:26:14,189 --> 00:26:16,732
+This is an old family ceremony,
+Mr. Holmes.
+
+566
+00:26:16,858 --> 00:26:21,236
+Sally's next in line now that
+I'm head of the household.
+
+567
+00:26:21,363 --> 00:26:24,239
+Blast this thing.
+
+568
+00:26:24,366 --> 00:26:25,949
+Does this help?
+
+569
+00:26:26,076 --> 00:26:28,118
+Oh yes, thanks.
+
+570
+00:26:28,244 --> 00:26:29,953
+Knitting needle, isn't it?
+
+571
+00:26:30,080 --> 00:26:31,330
+Yes.
+
+572
+00:26:31,456 --> 00:26:34,083
+Handy little things.
+
+573
+00:26:34,209 --> 00:26:36,752
+As my heir. Sally has to
+recite a sort of formula
+
+574
+00:26:36,878 --> 00:26:38,921
+over Geoff's body
+in front of the fireplace
+
+575
+00:26:39,047 --> 00:26:42,216
+and the library in the presence
+of the entire household.
+
+576
+00:26:42,342 --> 00:26:44,385
+There, that's better.
+
+577
+00:26:44,511 --> 00:26:46,887
+Just what sort of formula?
+
+578
+00:26:47,013 --> 00:26:48,097
+Oh, it's some
+meaningless words,
+
+579
+00:26:48,223 --> 00:26:50,057
+Musgrave ritual, they call it.
+
+580
+00:26:50,183 --> 00:26:53,644
+It's an old family custom been
+handed down for generations.
+
+581
+00:26:53,770 --> 00:26:56,814
+- Can you remember the words?
+- No, no, not at all.
+
+582
+00:26:56,940 --> 00:27:00,609
+But you had to speak them when
+you're brother Geoffrey took over.
+
+583
+00:27:00,735 --> 00:27:03,946
+Yes, that's right, I did.
+
+584
+00:27:04,072 --> 00:27:05,864
+Let me see now.
+
+585
+00:27:05,990 --> 00:27:09,368
+"Who first shall find it
+were better dead
+
+586
+00:27:09,494 --> 00:27:12,746
+Who next shall find it
+perils his head.
+
+587
+00:27:12,872 --> 00:27:16,333
+The last to find it
+defies dark powers."
+
+588
+00:27:17,752 --> 00:27:22,005
+"Who first shall find it
+were better dead.
+
+589
+00:27:22,132 --> 00:27:25,843
+Who next shall find it
+perils his head.
+
+590
+00:27:25,969 --> 00:27:29,555
+The last to find it
+defies dark powers
+
+591
+00:27:29,681 --> 00:27:33,100
+and brings good fortune
+to Hurlstone Towers.
+
+592
+00:27:33,226 --> 00:27:37,187
+Where was the light
+on the face of the messenger?
+
+593
+00:27:37,313 --> 00:27:38,897
+Where did he speed?
+
+594
+00:27:39,023 --> 00:27:40,816
+To guard the queen's page.
+
+595
+00:27:47,031 --> 00:27:52,119
+Walked home in advanced
+the bishop's page brashly
+
+596
+00:27:52,245 --> 00:27:56,749
+and who to repel,
+the king's cautious page.
+
+597
+00:27:56,875 --> 00:27:59,168
+What then the--
+
+598
+00:28:04,382 --> 00:28:06,091
+disaster
+
+599
+00:28:06,217 --> 00:28:11,722
+queen slaughter's page."
+
+600
+00:28:11,848 --> 00:28:14,516
+No, no.
+Sorry, Miss Sally.
+
+601
+00:28:14,642 --> 00:28:17,936
+"Page slaughters Page."
+
+602
+00:28:18,062 --> 00:28:19,563
+Thank you, Brunton.
+
+603
+00:28:25,737 --> 00:28:27,821
+"Who came then to slay him?
+
+604
+00:28:27,947 --> 00:28:30,157
+The bloodthirsty bishop.
+
+605
+00:28:30,283 --> 00:28:32,201
+Where shall he go?
+
+606
+00:28:32,327 --> 00:28:34,286
+Deep down below.
+
+607
+00:28:38,958 --> 00:28:41,376
+Away from the thunder,
+
+608
+00:28:41,503 --> 00:28:44,171
+let him dig under."
+
+609
+00:28:59,062 --> 00:29:01,563
+Once more into the breach,
+dear friends,
+
+610
+00:29:01,689 --> 00:29:03,232
+once more.
+
+611
+00:29:06,861 --> 00:29:08,362
+Happy day.
+
+612
+00:29:11,741 --> 00:29:13,450
+You drunken sot.
+
+613
+00:29:13,576 --> 00:29:15,619
+The master's been ringing you
+for the past ten minutes.
+
+614
+00:29:15,745 --> 00:29:17,037
+Why don't you answer it?
+
+615
+00:29:17,163 --> 00:29:19,706
+Fly away, little gremlin.
+
+616
+00:29:19,833 --> 00:29:20,916
+You're the one that'll fly away
+
+617
+00:29:21,042 --> 00:29:22,417
+if he ever catches you
+in this state.
+
+618
+00:29:23,628 --> 00:29:26,213
+My sir, it's him.
+Hurry, hurry.
+
+619
+00:29:26,339 --> 00:29:28,924
+Coming, sir.
+Coming.
+
+620
+00:29:32,470 --> 00:29:34,054
+One moment, sir.
+
+621
+00:29:42,146 --> 00:29:46,525
+Mr. Holmes,
+come in, sir, come in.
+
+622
+00:29:50,989 --> 00:29:53,240
+This is indeed an honor.
+
+623
+00:29:56,286 --> 00:29:58,954
+I don't often have visitors.
+
+624
+00:29:59,080 --> 00:30:00,914
+What can I do for you, sir?
+
+625
+00:30:01,040 --> 00:30:03,208
+You might stop that
+squeaking to begin with.
+
+626
+00:30:03,334 --> 00:30:04,626
+Yes, sir.
+
+627
+00:30:04,752 --> 00:30:05,669
+And perhaps you can tell me
+how you come to know
+
+628
+00:30:05,795 --> 00:30:07,087
+the Musgrave ritual
+by heart.
+
+629
+00:30:07,213 --> 00:30:09,381
+- Me, sir?
+- Yes, you.
+
+630
+00:30:09,507 --> 00:30:11,174
+When Miss Sally forgot
+the lines today
+
+631
+00:30:11,301 --> 00:30:13,802
+you were the one
+who prompted her.
+
+632
+00:30:13,928 --> 00:30:15,762
+Well, sir I memorized it.
+
+633
+00:30:15,889 --> 00:30:18,473
+Obviously but why?
+
+634
+00:30:18,600 --> 00:30:21,435
+Because it has no meaning.
+
+635
+00:30:21,561 --> 00:30:25,147
+I love things
+that have no meaning.
+
+636
+00:30:26,858 --> 00:30:28,066
+Thank you, Brunton.
+
+637
+00:30:28,192 --> 00:30:29,860
+But supposing it did
+have a meaning
+
+638
+00:30:29,986 --> 00:30:31,069
+and suppose that meaning
+were tied up
+
+639
+00:30:31,195 --> 00:30:32,946
+with a murder of
+Geoffrey Musgrave.
+
+640
+00:30:33,072 --> 00:30:37,200
+Oh, what a lovely idea
+if I may say so.
+
+641
+00:30:37,327 --> 00:30:38,702
+You may, Brunton.
+
+642
+00:30:38,828 --> 00:30:40,537
+You may also sit down.
+
+643
+00:30:40,663 --> 00:30:42,164
+Thank you, sir.
+
+644
+00:30:47,462 --> 00:30:50,297
+Oh stop it,
+
+645
+00:30:50,423 --> 00:30:51,840
+and look at me.
+
+646
+00:30:51,966 --> 00:30:54,092
+No, here.
+
+647
+00:30:54,218 --> 00:30:56,261
+You know the meaning
+of the Musgrave ritual.
+
+648
+00:30:56,387 --> 00:30:57,971
+- Do I?
+- Well, don't you?
+
+649
+00:30:58,097 --> 00:31:01,934
+You'd be surprised
+at all the things I know.
+
+650
+00:31:02,060 --> 00:31:03,518
+What things?
+
+651
+00:31:03,645 --> 00:31:05,854
+- No you don't.
+- About the Musgraves?
+
+652
+00:31:05,980 --> 00:31:07,522
+That would be telling.
+
+653
+00:31:07,649 --> 00:31:09,566
+But here's to them anyway
+
+654
+00:31:09,692 --> 00:31:13,320
+all the Musgraves
+past and present,
+
+655
+00:31:13,446 --> 00:31:17,324
+some of 'em were murderers
+and some of 'em worse
+
+656
+00:31:17,450 --> 00:31:20,035
+but they all knew
+how to keep a secret
+
+657
+00:31:20,161 --> 00:31:22,204
+and so do I.
+
+658
+00:31:22,330 --> 00:31:24,164
+Brunton.
+
+659
+00:31:28,169 --> 00:31:31,004
+I've been ringing for you
+for the past ten minutes.
+
+660
+00:31:31,130 --> 00:31:34,383
+Sorry, sir but the buzzer
+doesn't buzz.
+
+661
+00:31:36,594 --> 00:31:37,719
+That'll do, Brunton.
+
+662
+00:31:37,845 --> 00:31:40,180
+You have your notice.
+Do you understand?
+
+663
+00:31:40,306 --> 00:31:41,306
+Yes, sir.
+
+664
+00:31:41,432 --> 00:31:42,641
+Is that advisable,
+Mr. Musgrave?
+
+665
+00:31:42,767 --> 00:31:44,518
+Let me be the judge of that.
+
+666
+00:31:44,644 --> 00:31:46,979
+- He leaves Hurlstone
+in the morning.
+- The morning's a long way off.
+
+667
+00:31:49,023 --> 00:31:50,691
+Farewell,
+
+668
+00:31:50,817 --> 00:31:55,070
+a long farewell
+to all my greatness.
+
+669
+00:31:55,196 --> 00:31:57,531
+You've done it now,
+Al Brunton.
+
+670
+00:31:57,657 --> 00:31:59,700
+After all we've been through.
+
+671
+00:31:59,826 --> 00:32:02,369
+How could I of managed
+to do it all alone?
+
+672
+00:32:02,495 --> 00:32:05,205
+What are you going to do?
+
+673
+00:32:05,331 --> 00:32:07,958
+What am I going to do?
+
+674
+00:32:49,125 --> 00:32:53,628
+Thirteen again.
+
+675
+00:32:53,755 --> 00:32:55,756
+Yes.
+
+676
+00:33:14,942 --> 00:33:17,360
+Howells whole attitude
+confuses me, Watson.
+
+677
+00:33:17,487 --> 00:33:19,571
+She swears that she hasn't
+set eyes on Brunton since night
+
+678
+00:33:19,697 --> 00:33:21,823
+and yet she seems completely
+unwilling to help us find him.
+
+679
+00:33:21,949 --> 00:33:24,034
+Quite so, she knows where
+he is as well as we do,
+
+680
+00:33:24,160 --> 00:33:26,203
+- I mean as well as we don't.
+- I wonder.
+
+681
+00:33:26,329 --> 00:33:28,330
+You said that he was
+drinking last night.
+
+682
+00:33:28,456 --> 00:33:30,624
+Wouldn't it be a good idea
+to try the pub?
+
+683
+00:33:30,750 --> 00:33:32,042
+Exactly where we're
+headed for, Watson.
+
+684
+00:33:32,168 --> 00:33:33,460
+I'm glad we thought of it
+
+685
+00:33:33,586 --> 00:33:35,670
+even if we don't find Brunton.
+
+686
+00:33:38,841 --> 00:33:40,842
+I was afraid we
+couldn't find him here.
+
+687
+00:33:40,968 --> 00:33:43,261
+Don't worry, old boy.
+I could do with a drink.
+
+688
+00:33:43,387 --> 00:33:46,181
+For your information
+so could I.
+
+689
+00:33:46,307 --> 00:33:47,849
+- Gentlemen.
+- Well hello, doctor.
+
+690
+00:33:47,975 --> 00:33:49,559
+Not looking for us are you,
+are you?
+
+691
+00:33:49,685 --> 00:33:52,437
+Well no. As a matter of fact
+we're looking for--
+
+692
+00:33:52,563 --> 00:33:53,522
+Brunton.
+
+693
+00:33:53,648 --> 00:33:54,731
+You haven't seen him,
+have you?
+
+694
+00:33:54,857 --> 00:33:56,650
+Have we Clavering,
+have we?
+
+695
+00:33:56,776 --> 00:33:59,069
+Why should we?
+
+696
+00:33:59,195 --> 00:34:00,695
+- Morning, Gracie.
+- Morning, doctor.
+
+697
+00:34:00,822 --> 00:34:01,780
+What do you have?
+
+698
+00:34:01,906 --> 00:34:03,281
+A bottle of Bass
+and what's yours?
+
+699
+00:34:03,407 --> 00:34:05,283
+- A pint of bitter, please.
+- And a pint of bitter.
+
+700
+00:34:06,869 --> 00:34:08,203
+I'm a devil. I'm a devil.
+
+701
+00:34:08,329 --> 00:34:10,455
+Oh really?
+
+702
+00:34:10,581 --> 00:34:12,999
+Hello.
+A tame raven.
+
+703
+00:34:13,126 --> 00:34:15,460
+You're a devil are you,
+a kettle are you?
+
+704
+00:34:15,586 --> 00:34:17,671
+I'm a devil.
+I'm a devil.
+
+705
+00:34:17,797 --> 00:34:19,506
+Birds of prey, aren't they?
+
+706
+00:34:19,632 --> 00:34:21,675
+Yes, in a way,
+scavengers rather.
+
+707
+00:34:21,801 --> 00:34:23,301
+They can smell a carcass
+a half a mile off.
+
+708
+00:34:23,427 --> 00:34:25,053
+Yeah, that they can and all.
+
+709
+00:34:25,179 --> 00:34:26,388
+You should see Charlie here
+
+710
+00:34:26,514 --> 00:34:29,307
+when there's a tasty bit
+outside in the street.
+
+711
+00:34:29,433 --> 00:34:31,059
+Shall we go sit down?
+
+712
+00:34:51,622 --> 00:34:53,248
+Gracie, have you seen
+Dr. Watson?
+
+713
+00:34:53,374 --> 00:34:55,709
+- He's over there, lass.
+- Thank you.
+
+714
+00:34:58,004 --> 00:34:59,629
+May I speak to you a moment,
+Mr. Holmes?
+
+715
+00:34:59,755 --> 00:35:01,548
+- What's wrong, Sally?
+- We can't find my brother
+Phillip.
+
+716
+00:35:01,674 --> 00:35:02,924
+Did you look in his room?
+
+717
+00:35:03,050 --> 00:35:04,176
+That's the trouble,
+we had to force the door.
+
+718
+00:35:04,302 --> 00:35:06,094
+- It was locked on the inside.
+- Really?
+
+719
+00:35:06,220 --> 00:35:08,972
+- Yes. Oh, you must come,
+Mr. Holmes.
+- Certainly, Sally, at once.
+
+720
+00:35:14,187 --> 00:35:16,855
+Do be quick something ghastly
+has happened. I know it.
+
+721
+00:35:16,981 --> 00:35:18,940
+And that dreadful bird,
+please swat it away.
+
+722
+00:35:19,066 --> 00:35:21,735
+Watson, take her away.
+
+723
+00:35:21,861 --> 00:35:23,028
+Away, where to?
+
+724
+00:35:23,154 --> 00:35:25,071
+Anywhere. Into the pub.
+Just take her away.
+
+725
+00:35:34,790 --> 00:35:36,958
+Phillip Musgrave.
+
+726
+00:35:42,965 --> 00:35:45,675
+What are they doing now,
+doing now?
+
+727
+00:35:45,801 --> 00:35:49,346
+I don't know.
+They stopped talking.
+
+728
+00:35:49,472 --> 00:35:52,349
+Somebody's walking about
+in the upper hall,
+
+729
+00:35:52,475 --> 00:35:53,892
+heavy footsteps.
+
+730
+00:36:01,901 --> 00:36:03,610
+There's no doubt about it,
+Watson.
+
+731
+00:36:03,736 --> 00:36:06,404
+Phillip Musgrave had a visitor
+here last night.
+
+732
+00:36:06,530 --> 00:36:08,448
+These footprints were made
+either by a very heavy man
+
+733
+00:36:08,574 --> 00:36:10,158
+or a man carrying
+a very heavy burden.
+
+734
+00:36:10,284 --> 00:36:12,744
+That's right, Mr. Holmes.
+It's no good saying it ain't.
+
+735
+00:36:12,870 --> 00:36:14,871
+The burden was
+Phillip Musgrave's body
+
+736
+00:36:14,997 --> 00:36:17,832
+and these here footprints
+were made by Alfred Brunton.
+
+737
+00:36:17,959 --> 00:36:21,378
+- It doesn't necessarily
+follow.
+- Oh, don't it.
+
+738
+00:36:24,257 --> 00:36:27,425
+Here,
+try that on your footprint.
+
+739
+00:36:31,389 --> 00:36:34,099
+And that's
+Alfred Brunton's shoe.
+
+740
+00:36:34,225 --> 00:36:36,059
+- Fits perfectly, inspector.
+- Uh-huh.
+
+741
+00:36:36,185 --> 00:36:37,811
+But the fact that these prints
+were made by Brunton's shoes
+
+742
+00:36:37,937 --> 00:36:39,479
+doesn't prove that Brunton's
+feet were in them.
+
+743
+00:36:39,605 --> 00:36:42,023
+Why not? Where should Brunton's
+feet be if not in his own shoe?
+
+744
+00:36:42,149 --> 00:36:44,067
+Well they're not in them now,
+are they?
+
+745
+00:36:44,193 --> 00:36:46,528
+- Look here, Holmes.
+Let's use our intellect.
+- Your what?
+
+746
+00:36:46,654 --> 00:36:47,862
+What's wrong with that.
+
+747
+00:36:47,989 --> 00:36:49,447
+Let's stick to motive.
+That's my strong point.
+
+748
+00:36:49,573 --> 00:36:51,533
+Now this here Brunton
+had motive.
+
+749
+00:36:51,659 --> 00:36:53,660
+Phillip Musgrave gave
+him the sack, didn't he?
+
+750
+00:36:53,786 --> 00:36:55,578
+Did Geoffrey Musgrave
+also gave him the sack?
+
+751
+00:36:55,705 --> 00:36:57,289
+- What's that got to do with it?
+- Everything.
+
+752
+00:36:57,415 --> 00:36:59,332
+The similarity of method
+in both murders
+
+753
+00:36:59,458 --> 00:37:00,583
+shows they were the work
+of one man.
+
+754
+00:37:00,710 --> 00:37:02,585
+Well that leaves Vickery out.
+
+755
+00:37:02,712 --> 00:37:03,920
+- He was in jail at the time
+of this murder.
+- All right, Watson. All right.
+
+756
+00:37:04,046 --> 00:37:06,798
+Alfred Brunton's our man,
+just what I said.
+
+757
+00:37:06,924 --> 00:37:08,633
+What possible motive
+could Brunton have had
+
+758
+00:37:08,759 --> 00:37:10,093
+for the murder of
+Geoffrey Musgrave?
+
+759
+00:37:10,219 --> 00:37:12,178
+Motive. Oh, bother motive.
+Who cares about motive.
+
+760
+00:37:12,305 --> 00:37:14,848
+- This case is as
+simple as A, B, C.
+- Is it?
+
+761
+00:37:14,974 --> 00:37:16,141
+Then perhaps you can
+explain to us
+
+762
+00:37:16,267 --> 00:37:18,101
+why these footprints
+lead up to a blank wall
+
+763
+00:37:18,227 --> 00:37:19,394
+and never return.
+
+764
+00:37:19,520 --> 00:37:20,854
+What?
+
+765
+00:37:20,980 --> 00:37:22,522
+You didn't think of that,
+did you inspector?
+
+766
+00:37:22,648 --> 00:37:26,276
+- There's just one
+possible explanation.
+- I've got it.
+
+767
+00:37:26,402 --> 00:37:29,738
+Brunton murdered Musgrave
+right up against the wall.
+
+768
+00:37:29,864 --> 00:37:33,033
+He hoisted the body over
+his shoulder like this you see,
+
+769
+00:37:33,159 --> 00:37:34,826
+walks backwards
+clean out of the room--
+
+770
+00:37:37,663 --> 00:37:40,040
+That's a very undignified
+position, Lestrade.
+
+771
+00:37:40,166 --> 00:37:41,666
+Upsy daisy.
+
+772
+00:37:43,085 --> 00:37:44,586
+In a house as old as this
+
+773
+00:37:44,712 --> 00:37:46,629
+it's not unusual to
+find secret passageways
+
+774
+00:37:46,756 --> 00:37:48,340
+that lead down
+through the walls.
+
+775
+00:37:48,466 --> 00:37:50,383
+Hello, here we are.
+
+776
+00:37:50,509 --> 00:37:53,345
+No you don't,
+Come out of there.
+
+777
+00:38:00,269 --> 00:38:01,770
+What are you doing in there?
+
+778
+00:38:01,896 --> 00:38:03,355
+- None of your business.
+- Answer me.
+
+779
+00:38:03,481 --> 00:38:04,814
+Obviously, she was
+looking for Brunton.
+
+780
+00:38:04,940 --> 00:38:06,399
+That's right.
+
+781
+00:38:06,525 --> 00:38:08,026
+He hasn't left Musgrave Manor.
+I'm certain of that, sir.
+
+782
+00:38:08,152 --> 00:38:09,819
+His clothes are still hanging
+in the wardrobe.
+
+783
+00:38:09,945 --> 00:38:11,363
+Don't you lie to me, woman.
+
+784
+00:38:11,489 --> 00:38:12,781
+You've got him hidden
+in there somewhere.
+
+785
+00:38:12,907 --> 00:38:13,740
+Don't go in there?
+
+786
+00:38:13,866 --> 00:38:14,491
+Why not?
+
+787
+00:38:14,617 --> 00:38:15,408
+You'll get lost.
+
+788
+00:38:15,534 --> 00:38:18,286
+Me lost?
+Oh, I like that.
+
+789
+00:38:18,412 --> 00:38:20,205
+- He will get lost, sir.
+- Let him.
+
+790
+00:38:20,331 --> 00:38:21,873
+Now listen to me.
+
+791
+00:38:21,999 --> 00:38:23,875
+Where did you enter
+that passageway?
+
+792
+00:38:24,001 --> 00:38:26,127
+- Through the old greenhouse
+in lime walk, sir.
+- Did Brunton know that?
+
+793
+00:38:26,253 --> 00:38:28,505
+- No, he didn't.
+- Mrs. Brunton,
+
+794
+00:38:28,631 --> 00:38:30,215
+then why were you
+looking for him in there?
+
+795
+00:38:30,341 --> 00:38:31,841
+We...I--
+
+796
+00:38:31,967 --> 00:38:34,677
+Yes, we've known all along that
+you were married to Brunton.
+
+797
+00:38:34,804 --> 00:38:37,055
+- You know Phillip Musgrave
+was murdered, don't you?
+- No.
+
+798
+00:38:37,181 --> 00:38:39,099
+- Yes, you do and you think
+Brunton did it.
+- No.
+
+799
+00:38:39,225 --> 00:38:41,101
+- You think he carried him down
+through the greenhouse--
+- No, no.
+
+800
+00:38:41,227 --> 00:38:42,769
+- Over to the garage--
+- No, he never.
+
+801
+00:38:42,895 --> 00:38:44,396
+And crammed his body into the
+rumble seat of that roadster.
+
+802
+00:38:44,522 --> 00:38:45,855
+Don't you try and
+put the blame on Alfr--
+
+803
+00:38:45,981 --> 00:38:47,607
+I'll put the blame on
+both of you.
+
+804
+00:38:47,733 --> 00:38:49,025
+You're in this together.
+
+805
+00:38:49,151 --> 00:38:50,735
+You were in his room last
+night, I saw you there.
+
+806
+00:38:50,861 --> 00:38:52,946
+Only to talk about
+the ritual, sir.
+
+807
+00:38:53,072 --> 00:38:54,656
+He...we,
+
+808
+00:38:54,782 --> 00:38:57,033
+he thought that he'd
+got it all worked out.
+
+809
+00:38:57,159 --> 00:39:00,120
+- Did he leave any notes,
+any record?
+- No, that is--
+
+810
+00:39:00,246 --> 00:39:03,415
+Oh come on, come on,
+out with it.
+
+811
+00:39:03,541 --> 00:39:05,083
+Only this, sir.
+
+812
+00:39:05,209 --> 00:39:07,710
+I found it this morning under
+the soap dish on his washstand.
+
+813
+00:39:07,837 --> 00:39:08,920
+Hmm.
+Hastily written.
+
+814
+00:39:09,046 --> 00:39:10,672
+- Another jingle?
+- Yes.
+
+815
+00:39:10,798 --> 00:39:14,134
+Obviously in some agitation.
+
+816
+00:39:14,260 --> 00:39:17,011
+"If any harm should come to me
+fleshly or spiritual
+
+817
+00:39:17,138 --> 00:39:19,722
+seek and you will find the key
+in the Musgrave ritual."
+
+818
+00:39:19,849 --> 00:39:21,808
+The old ritual,
+there it is again.
+
+819
+00:39:21,934 --> 00:39:23,268
+Watson, we've got to find
+that ritual. It's the key to
+the whole business.
+
+820
+00:39:23,394 --> 00:39:25,353
+- Just a minute,
+you can't talk to Sally.
+- Why not?
+
+821
+00:39:25,479 --> 00:39:28,022
+- She's in such a state
+and I had to give a hypo.
+- All right, come along.
+
+822
+00:39:32,278 --> 00:39:33,987
+Draw the curtains, Watson.
+
+823
+00:39:37,408 --> 00:39:39,868
+There must be a copy of that
+ritual somewhere in this room.
+
+824
+00:39:39,994 --> 00:39:41,035
+She had to learn it,
+you know.
+
+825
+00:39:41,162 --> 00:39:42,537
+Yes, you're right.
+
+826
+00:39:42,663 --> 00:39:43,746
+Here it is.
+
+827
+00:39:43,873 --> 00:39:45,915
+I doubt it.
+
+828
+00:39:46,041 --> 00:39:47,292
+- Empty.
+- Quite.
+
+829
+00:39:47,418 --> 00:39:49,043
+There's only one thing to do,
+search the room.
+
+830
+00:39:49,170 --> 00:39:51,296
+Not the room, Watson.
+Her mind.
+
+831
+00:39:51,422 --> 00:39:53,631
+We must search her mind.
+
+832
+00:39:53,757 --> 00:39:56,134
+Obviously, she took
+great pains to hide that paper.
+
+833
+00:39:56,260 --> 00:39:58,094
+But why should she hide it?
+
+834
+00:39:58,220 --> 00:39:59,762
+Put yourself in her place.
+
+835
+00:39:59,889 --> 00:40:01,473
+Her brother Geoffrey
+was murdered.
+
+836
+00:40:01,599 --> 00:40:03,057
+The man she loves
+is accused of that murder
+
+837
+00:40:03,184 --> 00:40:04,976
+and thrown into jail.
+On top of that
+
+838
+00:40:05,102 --> 00:40:06,936
+she finds her brother,
+Phillip, murdered.
+
+839
+00:40:07,062 --> 00:40:08,688
+What would your reactions be?
+
+840
+00:40:08,814 --> 00:40:10,690
+- Well, naturally
+I should be terribly upset.
+- Obviously.
+
+841
+00:40:10,816 --> 00:40:11,900
+Excuse me.
+
+842
+00:40:13,944 --> 00:40:15,361
+She's brought back
+to this house in a state
+bordering on hysteria.
+
+843
+00:40:15,488 --> 00:40:17,864
+She comes through that door,
+goes to that desk,
+
+844
+00:40:17,990 --> 00:40:19,449
+throws on her gloves.
+
+845
+00:40:19,575 --> 00:40:22,410
+The first thing her eye lights
+on is the Musgrave ritual.
+
+846
+00:40:22,536 --> 00:40:24,537
+In her mind it's tied up
+with all the disasters
+
+847
+00:40:24,663 --> 00:40:25,872
+that have befallen Hurlstone.
+
+848
+00:40:25,998 --> 00:40:27,832
+She herself
+may be the next victim.
+
+849
+00:40:27,958 --> 00:40:29,292
+She must hide that paper.
+
+850
+00:40:29,418 --> 00:40:31,169
+You're quite right,
+but where?
+
+851
+00:40:34,006 --> 00:40:35,507
+Excuse me, sir.
+
+852
+00:40:37,092 --> 00:40:38,176
+Was she alone in this room
+at any time
+
+853
+00:40:38,302 --> 00:40:39,427
+before you gave her the hypo?
+
+854
+00:40:39,553 --> 00:40:41,429
+Certainly not.
+Nora was here.
+
+855
+00:40:41,555 --> 00:40:44,933
+- She helped her into bed
+while I went for my bag.
+- Good.
+
+856
+00:40:45,059 --> 00:40:46,309
+- Nora?
+- Yes, sir.
+
+857
+00:40:46,435 --> 00:40:47,393
+When you were alone
+with Miss Sally
+
+858
+00:40:47,520 --> 00:40:48,686
+what was the first thing
+she did?
+
+859
+00:40:48,812 --> 00:40:50,980
+Well sir, she asked me
+to turn down her bed
+
+860
+00:40:51,106 --> 00:40:53,566
+- and lay out her nightdress.
+- And what was she doing
+in the meantime?
+
+861
+00:40:53,692 --> 00:40:55,527
+Let me think, sir.
+
+862
+00:40:55,653 --> 00:40:57,612
+Oh yes,
+she went over to her desk.
+
+863
+00:40:57,738 --> 00:40:59,864
+Uh-huh. That was when she took
+the ritual from this envelope.
+
+864
+00:40:59,990 --> 00:41:01,366
+What then Nora?
+
+865
+00:41:01,492 --> 00:41:03,701
+Then she asked me to step over
+and draw the curtains.
+
+866
+00:41:03,827 --> 00:41:05,703
+Why someone's
+pulled them open.
+
+867
+00:41:05,829 --> 00:41:07,455
+Yes, I know.
+When you drew the curtains
+you turned your back on her?
+
+868
+00:41:07,581 --> 00:41:10,041
+Sure. And it wasn't more than
+two shakes of a lamb's tail.
+
+869
+00:41:10,167 --> 00:41:12,085
+Long enough.
+
+870
+00:41:12,211 --> 00:41:13,711
+When you were at the window
+where was she?
+
+871
+00:41:13,837 --> 00:41:16,089
+She was sitting over here,
+
+872
+00:41:16,215 --> 00:41:19,717
+sitting right here
+taking off her stockings.
+
+873
+00:41:19,843 --> 00:41:22,053
+Oh, but she never left the
+chair. I'll kiss the book on it.
+
+874
+00:41:22,179 --> 00:41:23,805
+I've got it.
+
+875
+00:41:23,931 --> 00:41:26,724
+She must have packed that paper
+under this cushion.
+
+876
+00:41:26,850 --> 00:41:28,393
+Oh.
+
+877
+00:41:28,519 --> 00:41:29,644
+She must have changed
+her mind.
+
+878
+00:41:29,770 --> 00:41:30,979
+Obviously.
+
+879
+00:41:31,105 --> 00:41:34,190
+Well she could have
+hidden it anywhere here.
+
+880
+00:41:39,530 --> 00:41:41,322
+What time was it when you
+brought her in here, Watson?
+
+881
+00:41:41,448 --> 00:41:43,074
+I haven't the faintest idea.
+
+882
+00:41:43,200 --> 00:41:45,118
+The clock was striking the
+quarter hour when I came in, sir.
+
+883
+00:41:45,244 --> 00:41:46,828
+- I definitely heard it.
+- This clock?
+
+884
+00:41:46,954 --> 00:41:49,789
+- The same, sir.
+- Thank you, Nora,
+you may go.
+
+885
+00:41:49,915 --> 00:41:52,166
+Obviously this clock
+was running at twelve fifteen,
+
+886
+00:41:52,293 --> 00:41:55,712
+- just as obviously it
+stopped at twelve twenty.
+- Huh?
+
+887
+00:41:55,838 --> 00:41:58,715
+When Nora turned her back
+Sally reached across,
+
+888
+00:41:58,841 --> 00:42:00,883
+opened the clock
+
+889
+00:42:01,010 --> 00:42:03,136
+and hid the ritual in here.
+
+890
+00:42:03,262 --> 00:42:05,722
+- Amazing, Holmes.
+- Elementary my dear, Watson.
+
+891
+00:42:09,268 --> 00:42:12,812
+"Where fell the light on
+the face of the messenger."
+
+892
+00:42:15,024 --> 00:42:19,444
+"Where did he speed?
+To guard the queen's Page."
+
+893
+00:42:19,570 --> 00:42:21,195
+Gibberish, that's what it is.
+
+894
+00:42:21,322 --> 00:42:22,989
+Hokey pokey, penny a lump.
+
+895
+00:42:23,115 --> 00:42:24,616
+A thing like this, Watson, that's
+been handed down for centuries
+
+896
+00:42:24,742 --> 00:42:27,827
+can't be mere gibberish.
+
+897
+00:42:27,953 --> 00:42:31,789
+"Who had entered the lists?
+The king's pale knight."
+
+898
+00:42:31,915 --> 00:42:32,874
+Pale poppycock.
+
+899
+00:42:33,000 --> 00:42:34,584
+I say, Watson.
+
+900
+00:42:34,710 --> 00:42:36,252
+King, queen, knight, bishop.
+
+901
+00:42:36,378 --> 00:42:39,172
+- Sounds like a game
+of chess to me.
+- Precisely.
+
+902
+00:42:39,298 --> 00:42:42,050
+"Where fell the light."
+
+903
+00:42:42,176 --> 00:42:45,011
+The light, Watson.
+
+904
+00:42:45,137 --> 00:42:48,765
+"Follow the light
+
+905
+00:42:48,891 --> 00:42:50,725
+on the face of a messenger."
+
+906
+00:42:50,851 --> 00:42:52,101
+Look at it, Watson.
+
+907
+00:42:52,227 --> 00:42:55,146
+Look at it,
+like a giant chessboard.
+
+908
+00:42:55,272 --> 00:42:57,023
+This is no gibberish.
+
+909
+00:42:57,149 --> 00:42:59,400
+These are chess terms
+and that's the chessboard.
+
+910
+00:42:59,526 --> 00:43:02,195
+The secret of the Musgrave murders
+is locked up in that floor
+
+911
+00:43:02,321 --> 00:43:04,656
+and by Jove,
+we've got the key to it.
+
+912
+00:43:07,743 --> 00:43:12,705
+"Who had entered the lists.
+The king's pale knight."
+
+913
+00:43:12,831 --> 00:43:16,292
+White king's knight to
+white king's bishop three.
+
+914
+00:43:16,418 --> 00:43:17,752
+Your move, Dr. Sexton.
+
+915
+00:43:17,878 --> 00:43:19,253
+I really know nothing
+about the game.
+
+916
+00:43:19,380 --> 00:43:20,963
+Come on, Bob.
+It's great fun.
+
+917
+00:43:21,090 --> 00:43:22,340
+You start from over here.
+
+918
+00:43:22,466 --> 00:43:24,300
+Over here.
+I'll show you.
+
+919
+00:43:24,426 --> 00:43:26,010
+I'll show you.
+
+920
+00:43:29,348 --> 00:43:30,723
+One,
+
+921
+00:43:30,849 --> 00:43:31,766
+two,
+
+922
+00:43:31,892 --> 00:43:32,934
+three,
+
+923
+00:43:33,060 --> 00:43:34,268
+one.
+
+924
+00:43:36,855 --> 00:43:39,649
+Page to the black king three.
+
+925
+00:43:39,775 --> 00:43:42,235
+Your move Clavering to back
+king three, please. Over there.
+
+926
+00:43:42,361 --> 00:43:44,362
+There's not to reason why.
+
+927
+00:43:52,413 --> 00:43:54,789
+"Page slaughters page."
+
+928
+00:43:57,543 --> 00:43:59,377
+Your move, Watson.
+
+929
+00:43:59,503 --> 00:44:00,837
+I take you, my dear.
+
+930
+00:44:00,963 --> 00:44:02,130
+It's a good game, isn't it?
+
+931
+00:44:07,636 --> 00:44:10,430
+Stop it, stop it.
+You mustn't giggle.
+
+932
+00:44:10,556 --> 00:44:12,473
+You must be serious.
+
+933
+00:44:16,729 --> 00:44:19,105
+You're move, Clavering.
+You take Dr. Watson.
+
+934
+00:44:19,231 --> 00:44:21,149
+Too bad, doctor.
+
+935
+00:44:24,445 --> 00:44:30,533
+"Who came then to slay him,
+the bloodthirsty bishop."
+
+936
+00:44:30,659 --> 00:44:34,328
+White queen's bishop,
+to white king's knight five.
+
+937
+00:44:34,455 --> 00:44:36,080
+That's my move.
+
+938
+00:44:43,422 --> 00:44:46,591
+One, two--
+
+939
+00:44:46,717 --> 00:44:48,760
+I say, doctor,
+you moved, didn't you?
+
+940
+00:44:48,886 --> 00:44:50,094
+Did I?
+I don't think so.
+
+941
+00:44:50,220 --> 00:44:51,763
+Yes, I'm afraid you did.
+
+942
+00:44:51,889 --> 00:44:55,391
+- Oh, where was I on
+king bishop three?
+- That's right.
+
+943
+00:44:55,517 --> 00:44:58,227
+Oh yes, of course.
+So sorry.
+
+944
+00:44:58,353 --> 00:45:02,440
+Three, four, five.
+
+945
+00:45:02,566 --> 00:45:04,358
+Captain it looks bad for you.
+
+946
+00:45:04,485 --> 00:45:08,362
+Aye, but
+where shall I go?
+
+947
+00:45:08,489 --> 00:45:12,867
+"Where shall he go?
+Deep down below."
+
+948
+00:45:12,993 --> 00:45:15,119
+Mrs. Howells,
+what's underneath this floor?
+
+949
+00:45:15,245 --> 00:45:18,581
+Well, it's only an old cellar, sir.
+
+950
+00:45:18,707 --> 00:45:21,667
+The entrance goes
+down behind that stair
+
+951
+00:45:21,794 --> 00:45:24,670
+but it's been locked up
+for centuries.
+
+952
+00:45:24,797 --> 00:45:26,130
+One of the old Musgraves
+
+953
+00:45:26,256 --> 00:45:28,174
+murdered his own brother
+down there.
+
+954
+00:45:28,300 --> 00:45:30,426
+Shh, listen.
+
+955
+00:45:32,387 --> 00:45:33,930
+Hello, what's that?
+
+956
+00:45:35,015 --> 00:45:36,682
+It's Brunton.
+
+957
+00:45:36,809 --> 00:45:38,601
+Alf, Alf?
+
+958
+00:45:38,727 --> 00:45:41,395
+He's in that passageway
+over the fireplace.
+
+959
+00:45:41,522 --> 00:45:42,939
+Are you there, Brunton?
+
+960
+00:45:43,065 --> 00:45:44,232
+Get me out!
+
+961
+00:45:44,358 --> 00:45:46,692
+It's me, Lestrade.
+
+962
+00:45:46,819 --> 00:45:48,402
+I'm lost.
+
+963
+00:45:48,529 --> 00:45:50,613
+I'm all turned around.
+
+964
+00:45:50,739 --> 00:45:52,240
+You have been for years.
+
+965
+00:45:52,366 --> 00:45:53,199
+Get him out there,
+will you, Mrs. Howells
+
+966
+00:45:53,325 --> 00:45:54,867
+and give him a saucer of milk.
+
+967
+00:45:54,993 --> 00:45:57,328
+Come here, Jenny.
+Stand on this square for me
+
+968
+00:45:58,580 --> 00:45:59,580
+and stamp on it,
+keep stamping.
+
+969
+00:45:59,706 --> 00:46:00,832
+Clavering, get your
+sound detector.
+
+970
+00:46:00,958 --> 00:46:03,125
+Gentlemen,
+deep down below.
+
+971
+00:46:23,272 --> 00:46:26,482
+Look, there's not been a
+soul here in a couple of
+hundred years.
+
+972
+00:46:26,608 --> 00:46:28,150
+Someone's been here
+
+973
+00:46:28,277 --> 00:46:29,819
+and in the last
+twenty-four hours.
+
+974
+00:46:29,945 --> 00:46:33,322
+- Yeah, it's clean as a new pin.
+- Precisely.
+
+975
+00:46:33,448 --> 00:46:35,408
+Dust of two hundred years
+is on the walls.
+
+976
+00:46:35,534 --> 00:46:36,951
+The floor's been swept clean
+
+977
+00:46:37,077 --> 00:46:39,370
+obviously in an attempt
+to remove footprints.
+
+978
+00:46:39,496 --> 00:46:43,624
+Shh, listen.
+
+979
+00:46:43,750 --> 00:46:45,835
+That's Jenny
+in the hall upstairs.
+
+980
+00:46:49,464 --> 00:46:53,050
+Clavering,
+
+981
+00:46:53,176 --> 00:46:55,011
+let me have your
+sound detector.
+
+982
+00:46:59,892 --> 00:47:01,434
+So sorry.
+
+983
+00:47:07,941 --> 00:47:11,068
+I must find the exact spot under
+that square I marked in the hall.
+
+984
+00:47:18,493 --> 00:47:19,869
+Don't move, anyone.
+
+985
+00:47:30,297 --> 00:47:31,797
+Someone's moving about
+
+986
+00:47:31,924 --> 00:47:34,050
+interfering with
+what I'm trying to do.
+
+987
+00:47:36,595 --> 00:47:39,513
+Stand perfectly still
+everybody.
+
+988
+00:48:01,787 --> 00:48:03,496
+This is the spot.
+Lend me a hand.
+
+989
+00:48:03,622 --> 00:48:04,830
+Of course.
+
+990
+00:48:06,458 --> 00:48:08,167
+- Here, I'll take that.
+- Oh, thanks, old fellow.
+
+991
+00:48:10,921 --> 00:48:13,673
+- Hello.
+- Good gracious me.
+
+992
+00:48:13,799 --> 00:48:19,053
+"Here lies the body of
+Ralph Musgrave, knight,
+
+993
+00:48:19,179 --> 00:48:20,972
+the lord of the
+manors of Hurlstone."
+
+994
+00:48:21,098 --> 00:48:24,100
+This place used to be
+known as Hurlstone Towers.
+
+995
+00:48:24,226 --> 00:48:29,563
+"Neverfield and King's Hargrave
+Anno Domini 1539."
+
+996
+00:48:29,690 --> 00:48:31,440
+What we're looking for
+is underneath here
+
+997
+00:48:31,566 --> 00:48:34,568
+that's what the ritual
+meant by deep down low.
+It's a burial crypt.
+
+998
+00:48:34,695 --> 00:48:36,195
+Up with it.
+
+999
+00:48:46,331 --> 00:48:47,790
+I say, there's somebody
+down there.
+
+1000
+00:48:47,916 --> 00:48:49,250
+Who is it?
+Is it Brunton?
+
+1001
+00:48:49,376 --> 00:48:50,376
+Is it Brunton?
+
+1002
+00:48:50,502 --> 00:48:53,004
+I don't know.
+Stay where you are.
+
+1003
+00:49:09,646 --> 00:49:10,896
+Who is it, Holmes?
+
+1004
+00:49:11,023 --> 00:49:12,356
+It's Brunton all right.
+
+1005
+00:49:12,482 --> 00:49:13,899
+Is he dead?
+
+1006
+00:49:14,026 --> 00:49:15,526
+Yes.
+
+1007
+00:49:15,652 --> 00:49:17,570
+He's been dead for hours.
+
+1008
+00:49:17,696 --> 00:49:20,364
+Murdered.
+
+1009
+00:49:20,490 --> 00:49:23,492
+Hello, what's this?
+
+1010
+00:49:35,130 --> 00:49:38,340
+"Henry by the grace of god,
+King of Great Britain,
+
+1011
+00:49:38,467 --> 00:49:42,887
+France and Ireland,
+defender of the faith..."
+
+1012
+00:49:43,013 --> 00:49:46,223
+- What have you found?
+- Any clue, any clue?
+
+1013
+00:49:48,143 --> 00:49:50,644
+Uh, no, um...
+
+1014
+00:49:53,857 --> 00:49:55,649
+Just an old document.
+
+1015
+00:49:57,611 --> 00:50:00,404
+Hello.
+What's this?
+
+1016
+00:50:04,076 --> 00:50:06,285
+Looks like some sort
+of writing. Watson.
+
+1017
+00:50:06,411 --> 00:50:07,995
+Coming.
+
+1018
+00:50:10,082 --> 00:50:11,707
+Hold this for me, will you?
+Steady.
+
+1019
+00:50:11,833 --> 00:50:14,335
+They're on the floor
+by his right hand.
+
+1020
+00:50:14,461 --> 00:50:16,003
+See those marks in the dust
+
+1021
+00:50:16,129 --> 00:50:18,756
+like pin scratches made
+with his fingernail?
+
+1022
+00:50:21,259 --> 00:50:23,344
+Yes. Yes.
+
+1023
+00:50:23,470 --> 00:50:25,721
+See that stuff under his nail?
+
+1024
+00:50:25,847 --> 00:50:27,098
+He was trying to
+write something.
+
+1025
+00:50:27,224 --> 00:50:28,641
+By Jove!
+
+1026
+00:50:28,767 --> 00:50:29,934
+He did write something.
+
+1027
+00:50:30,060 --> 00:50:31,185
+What is it?
+
+1028
+00:50:31,311 --> 00:50:32,978
+Aye, tell us man.
+
+1029
+00:50:33,105 --> 00:50:34,605
+What did he write?
+
+1030
+00:50:34,731 --> 00:50:39,068
+I can't make it out.
+It's too faint.
+
+1031
+00:50:39,194 --> 00:50:42,446
+Here. I've got good eyes,
+let me, let me.
+
+1032
+00:50:42,572 --> 00:50:44,657
+Stay where you are,
+all of you.
+
+1033
+00:50:49,204 --> 00:50:53,290
+These marks
+must not be erased.
+
+1034
+00:50:53,416 --> 00:50:55,251
+What are you going to do,
+Holmes?
+
+1035
+00:50:55,377 --> 00:50:57,419
+I'm going to leave
+this just as it is
+
+1036
+00:50:57,546 --> 00:51:01,006
+until I can get the proper
+chemicals to bring out the words.
+
+1037
+00:51:01,133 --> 00:51:04,552
+Have you no notion of
+what he tried to write?
+
+1038
+00:51:04,678 --> 00:51:06,345
+Yes, I have.
+
+1039
+00:51:06,471 --> 00:51:10,099
+I think that Brunton
+with his last strength
+
+1040
+00:51:10,225 --> 00:51:12,476
+wrote the name of his murderer
+on that floor
+
+1041
+00:51:12,602 --> 00:51:14,395
+in his own blood.
+
+1042
+00:51:35,417 --> 00:51:36,917
+Oh, there you are, Lestrade.
+
+1043
+00:51:37,043 --> 00:51:38,794
+Huh.
+Twelve o'clock.
+
+1044
+00:51:38,920 --> 00:51:40,504
+I was just saying, Lestrade,
+
+1045
+00:51:40,630 --> 00:51:42,423
+that I should get into
+New Castle,
+
+1046
+00:51:42,549 --> 00:51:44,508
+pick up my chemicals
+and be back here not later than
+noon tomorrow.
+
+1047
+00:51:44,634 --> 00:51:46,177
+- Why yes, Mr. Holmes.
+- Meanwhile, you all have
+your work cut out for you.
+
+1048
+00:51:46,303 --> 00:51:47,928
+- Watson.
+- Yes?
+
+1049
+00:51:50,765 --> 00:51:52,141
+You'll guard this door
+with your life.
+
+1050
+00:51:52,267 --> 00:51:53,601
+Of course I'll will.
+With my what?
+
+1051
+00:51:53,727 --> 00:51:55,352
+I said with your life.
+
+1052
+00:51:55,478 --> 00:51:56,437
+Anything you say, Holmes.
+
+1053
+00:51:56,563 --> 00:51:57,605
+There's no entrance
+to this cellar
+
+1054
+00:51:57,731 --> 00:52:00,983
+except through that doorway.
+
+1055
+00:52:01,109 --> 00:52:03,611
+But, Holmes what I feel--
+Oh.
+
+1056
+00:52:03,737 --> 00:52:05,154
+Brunton's murderer's
+in this house
+
+1057
+00:52:05,280 --> 00:52:06,780
+and he's bound to make one last
+effort to get down there
+
+1058
+00:52:06,907 --> 00:52:08,574
+- to erase those marks.
+- Naturally.
+
+1059
+00:52:08,700 --> 00:52:10,075
+Lestrade's men
+are posted outside
+
+1060
+00:52:10,202 --> 00:52:11,577
+and they'll see to it that
+nobody leaves this house.
+
+1061
+00:52:11,703 --> 00:52:13,120
+Concentration camp.
+
+1062
+00:52:13,246 --> 00:52:15,289
+My men have orders to shoot
+if necessary.
+
+1063
+00:52:15,415 --> 00:52:17,124
+- I'll be outside myself
+keeping watch.
+- Good.
+
+1064
+00:52:17,250 --> 00:52:19,335
+Sexton your post will be
+at Miss Sally's door
+
+1065
+00:52:19,461 --> 00:52:21,503
+and remember she's in more
+danger than anyone here.
+
+1066
+00:52:21,630 --> 00:52:23,547
+- Don't worry I'll look after
+her, Mr. Holmes.
+- Good night.
+
+1067
+00:52:23,673 --> 00:52:25,257
+- Good night, Holmes.
+- Good nigh.
+
+1068
+00:52:25,383 --> 00:52:28,302
+Oh, Dr. Watson,
+if you want any help, sing out.
+
+1069
+00:52:28,428 --> 00:52:30,638
+I don't mind saying I feel a
+lot safer if I had a gun on me.
+
+1070
+00:52:30,764 --> 00:52:33,224
+Huh, I always
+keep mine ready.
+
+1071
+00:52:39,689 --> 00:52:42,149
+Well, good night, Bob.
+Keep awake, old man.
+
+1072
+00:52:42,275 --> 00:52:43,817
+I will.
+
+1073
+00:53:03,421 --> 00:53:06,131
+That's funny.
+It's striking twelve again.
+
+1074
+00:54:11,072 --> 00:54:12,656
+Let me out of here,
+you hear?
+
+1075
+00:54:15,869 --> 00:54:17,119
+Let me out of here.
+
+1076
+00:54:17,245 --> 00:54:19,288
+Someone locked this door.
+
+1077
+00:54:26,046 --> 00:54:27,421
+What on earth's
+all this monkey business.
+
+1078
+00:54:27,547 --> 00:54:28,422
+I didn't lock you in.
+
+1079
+00:54:28,548 --> 00:54:29,715
+Well doors don't
+lock themselves.
+
+1080
+00:54:29,841 --> 00:54:30,883
+They do in this house.
+
+1081
+00:54:31,009 --> 00:54:32,176
+What are you doing
+down here anyway?
+
+1082
+00:54:32,302 --> 00:54:34,136
+- I'm worried about Langford.
+- Langford?
+
+1083
+00:54:34,262 --> 00:54:36,930
+Yes, he's got into his head
+that this is a Jap prison camp.
+
+1084
+00:54:37,057 --> 00:54:38,432
+He's got that filthy rope
+
+1085
+00:54:38,558 --> 00:54:39,892
+and he's bound and determined
+to go out the window.
+
+1086
+00:54:40,018 --> 00:54:42,436
+He can't do that.
+Lestrade's men will shoot him.
+
+1087
+00:54:42,562 --> 00:54:44,188
+He may be out already.
+
+1088
+00:54:44,314 --> 00:54:45,814
+I'll head him off.
+
+1089
+00:54:45,940 --> 00:54:47,399
+Then again he may not be.
+
+1090
+00:54:47,525 --> 00:54:48,400
+Perhaps you're right.
+
+1091
+00:54:48,526 --> 00:54:49,693
+Let me go.
+
+1092
+00:54:49,819 --> 00:54:51,612
+No, no.
+You'll be shot.
+
+1093
+00:54:51,738 --> 00:54:52,738
+I'll go.
+
+1094
+00:54:52,864 --> 00:54:53,864
+No, you'll be shot.
+
+1095
+00:54:53,990 --> 00:54:55,115
+Oh really?
+
+1096
+00:54:55,241 --> 00:54:57,076
+Let's both go.
+
+1097
+00:54:57,202 --> 00:54:59,995
+I can't leave here.
+
+1098
+00:55:00,121 --> 00:55:01,330
+You stay where you are.
+
+1099
+00:55:01,456 --> 00:55:03,415
+I'll go and call Lestrade.
+
+1100
+00:55:07,212 --> 00:55:10,089
+Remember Clavering,
+stay where you are.
+
+1101
+00:55:18,181 --> 00:55:19,223
+Here.
+
+1102
+00:55:19,349 --> 00:55:21,558
+Look here, Constable.
+I'm Dr. Watson.
+
+1103
+00:55:21,684 --> 00:55:23,477
+Are you now?
+
+1104
+00:55:23,603 --> 00:55:26,855
+Well, I'm Mrs. Minivar.
+
+1105
+00:55:26,981 --> 00:55:29,358
+- Come along to the inspector.
+- Gross impertinence.
+
+1106
+00:55:53,508 --> 00:55:55,050
+Useless.
+
+1107
+00:55:55,176 --> 00:55:57,428
+Quite useless,
+I assure you.
+
+1108
+00:56:01,349 --> 00:56:03,559
+There's nothing written
+on the floor.
+
+1109
+00:56:03,685 --> 00:56:06,854
+It was just a rouse of mine to
+bring Brunton's murderer here.
+
+1110
+00:56:06,980 --> 00:56:08,355
+Permit me.
+
+1111
+00:56:08,481 --> 00:56:10,107
+As the most ruthless
+killer in England
+
+1112
+00:56:10,233 --> 00:56:11,525
+you deserve some of the light.
+
+1113
+00:56:11,651 --> 00:56:13,318
+Killer, I?
+
+1114
+00:56:13,445 --> 00:56:15,946
+Oh I say,
+you seem to forget that my
+life was also attempted.
+
+1115
+00:56:16,072 --> 00:56:19,032
+And a very neat trick it was to
+divert suspicion from yourself
+
+1116
+00:56:19,159 --> 00:56:21,869
+but it struck me as odd
+that the man who murdered
+both Musgraves
+
+1117
+00:56:21,995 --> 00:56:23,537
+with such a sure hand
+
+1118
+00:56:23,663 --> 00:56:27,207
+should have missed so badly
+in your case
+
+1119
+00:56:27,333 --> 00:56:30,919
+unless of course, um,
+you yourself were the murderer.
+
+1120
+00:56:31,045 --> 00:56:33,088
+Ah, that's ridiculous.
+
+1121
+00:56:33,214 --> 00:56:38,635
+Then too it seemed curious
+that you a doctor
+
+1122
+00:56:38,761 --> 00:56:40,929
+examining both bodies
+
+1123
+00:56:41,055 --> 00:56:43,765
+and failed to report
+the real cause of death.
+
+1124
+00:56:43,892 --> 00:56:45,392
+And that was?
+
+1125
+00:56:45,518 --> 00:56:47,769
+A cisternal needle
+thrust up into the brain
+
+1126
+00:56:47,896 --> 00:56:50,189
+between the base of the skull
+and the cervical vertebrae.
+
+1127
+00:56:50,315 --> 00:56:52,900
+I had the unpleasant duty of
+removing this piece of a needle
+
+1128
+00:56:53,026 --> 00:56:55,527
+from Phillip Musgrave's head.
+
+1129
+00:56:55,653 --> 00:56:57,946
+It couldn't be yours
+by any chance, could it?
+
+1130
+00:56:58,072 --> 00:56:59,156
+I never owned one.
+
+1131
+00:56:59,282 --> 00:57:01,116
+Oh yes, you did.
+
+1132
+00:57:01,242 --> 00:57:04,328
+I saw it in your case
+
+1133
+00:57:04,454 --> 00:57:06,914
+the night I came
+into this house
+
+1134
+00:57:07,040 --> 00:57:10,709
+just after Geoffrey Musgrave
+was found murdered.
+
+1135
+00:57:10,835 --> 00:57:12,711
+It wasn't broken then.
+
+1136
+00:57:12,837 --> 00:57:14,296
+It was only when you killed
+Phillip Musgrave
+
+1137
+00:57:14,422 --> 00:57:15,589
+that you lost a piece of it.
+
+1138
+00:57:15,715 --> 00:57:17,090
+Nonsense.
+
+1139
+00:57:17,217 --> 00:57:18,592
+Why should I go around
+sticking needles into people?
+
+1140
+00:57:18,718 --> 00:57:20,677
+A fair enough question,
+doctor.
+
+1141
+00:57:20,803 --> 00:57:22,095
+Among nice people
+
+1142
+00:57:22,222 --> 00:57:25,140
+murder like matrimony
+generally has a motive
+
+1143
+00:57:25,266 --> 00:57:27,935
+and in this case
+the motive was matrimony.
+
+1144
+00:57:28,061 --> 00:57:29,478
+Oh, you mean Miss Sally?
+
+1145
+00:57:29,604 --> 00:57:30,729
+I do.
+
+1146
+00:57:30,855 --> 00:57:32,689
+Oh, I see,
+
+1147
+00:57:32,815 --> 00:57:34,608
+- so you think it's a case of
+murder for profit, do you.
+- Precisely.
+
+1148
+00:57:34,734 --> 00:57:36,443
+My dear, Holmes.
+That won't do.
+
+1149
+00:57:36,569 --> 00:57:38,695
+The Musgraves are land poor.
+Everybody knows that.
+
+1150
+00:57:38,821 --> 00:57:39,947
+Exactly.
+
+1151
+00:57:40,073 --> 00:57:42,574
+But everybody didn't know
+what you knew.
+
+1152
+00:57:42,700 --> 00:57:46,078
+You worked out the meaning
+of the Musgrave ritual.
+
+1153
+00:57:46,204 --> 00:57:47,996
+I have? Oh.
+
+1154
+00:57:48,122 --> 00:57:51,041
+Yes.
+You have.
+
+1155
+00:57:51,167 --> 00:57:54,169
+You claimed you knew nothing
+about the game of chess.
+
+1156
+00:57:54,295 --> 00:57:56,880
+When I suggested you'd moved
+off your proper square
+
+1157
+00:57:57,006 --> 00:57:59,007
+you promptly named
+king's bishop three
+
+1158
+00:57:59,133 --> 00:58:00,717
+and what's more
+moved back onto it.
+
+1159
+00:58:00,843 --> 00:58:02,344
+Oh, nonsense.
+
+1160
+00:58:02,470 --> 00:58:03,428
+Why shouldn't I have stepped
+out of my square in the first--
+
+1161
+00:58:03,555 --> 00:58:05,013
+Break up my moves,
+spoil my game
+
+1162
+00:58:05,139 --> 00:58:07,975
+and protect me from finding
+what you had already found.
+
+1163
+00:58:08,101 --> 00:58:09,184
+And that was?
+
+1164
+00:58:09,310 --> 00:58:12,104
+The old land grant
+I took from this box
+
+1165
+00:58:12,230 --> 00:58:15,148
+which would have made
+Sally Musgrave upon the
+death of her brothers,
+
+1166
+00:58:15,275 --> 00:58:17,359
+the richest woman in England.
+
+1167
+00:58:19,779 --> 00:58:21,446
+Now what's that?
+
+1168
+00:58:21,573 --> 00:58:25,617
+Don't tell me you found
+another needle?
+
+1169
+00:58:25,743 --> 00:58:30,163
+No, no.
+It's just a button.
+
+1170
+00:58:30,290 --> 00:58:31,748
+It wouldn't be yours,
+would it?
+
+1171
+00:58:31,874 --> 00:58:34,042
+Mine?
+
+1172
+00:58:34,168 --> 00:58:35,502
+Give it to me.
+
+1173
+00:58:42,760 --> 00:58:45,470
+Thank you.
+
+1174
+00:58:45,597 --> 00:58:46,680
+Would you mind
+telling me why
+
+1175
+00:58:46,806 --> 00:58:47,889
+you think I was down here
+with Brunton?
+
+1176
+00:58:48,016 --> 00:58:49,600
+No, not at all.
+
+1177
+00:58:49,726 --> 00:58:53,270
+As I see it you killed Phillip
+Musgrave in his own room,
+
+1178
+00:58:53,396 --> 00:58:55,731
+carried his body down through
+the secret passageway,
+
+1179
+00:58:55,857 --> 00:58:57,649
+out through the greenhouse
+into the garage
+
+1180
+00:58:57,775 --> 00:59:00,444
+where you crammed it into the
+rumble seat of that roadster
+
+1181
+00:59:00,570 --> 00:59:02,821
+but unfortunately for you,
+
+1182
+00:59:02,947 --> 00:59:05,157
+you had a witness.
+
+1183
+00:59:05,283 --> 00:59:09,911
+Brunton was there,
+sleeping off his drunk.
+
+1184
+00:59:10,038 --> 00:59:12,789
+Nursing a grudge
+against Phillip Musgrave.
+
+1185
+00:59:12,915 --> 00:59:15,542
+Brunton became your accessory.
+
+1186
+00:59:15,668 --> 00:59:17,252
+But you didn't want
+an accessory
+
+1187
+00:59:17,378 --> 00:59:20,172
+so you lured him down here
+with a promise
+
+1188
+00:59:20,298 --> 00:59:22,549
+to share the Musgrave
+treasure with him
+
+1189
+00:59:22,675 --> 00:59:27,262
+and exit Brunton.
+
+1190
+00:59:27,388 --> 00:59:29,056
+Very ingenious, Mr. Holmes.
+
+1191
+00:59:29,182 --> 00:59:30,807
+You seem to have everything
+
+1192
+00:59:30,933 --> 00:59:33,477
+except perhaps the
+negligible item of proof.
+
+1193
+00:59:33,603 --> 00:59:35,354
+Suppose we leave that
+to the jury.
+
+1194
+00:59:35,480 --> 00:59:37,272
+Suppose we do.
+
+1195
+00:59:37,398 --> 00:59:38,357
+Shall we go?
+
+1196
+00:59:38,483 --> 00:59:40,901
+After you.
+
+1197
+00:59:41,027 --> 00:59:42,444
+Oh, by the way,
+
+1198
+00:59:42,570 --> 00:59:45,072
+don't forget your torch.
+
+1199
+00:59:45,198 --> 00:59:46,823
+Oh, thanks.
+
+1200
+00:59:49,577 --> 00:59:51,703
+I don't suppose
+it occurred to you
+
+1201
+00:59:51,829 --> 00:59:53,246
+that you were taking
+a bit of a chance
+
+1202
+00:59:53,373 --> 00:59:57,125
+coming down here all alone
+with a suspected murderer.
+
+1203
+00:59:57,251 --> 00:59:59,211
+One has to take chances
+in my profession, doctor.
+
+1204
+00:59:59,337 --> 01:00:00,879
+You see,
+I couldn't possibly risk
+
+1205
+01:00:01,005 --> 01:00:02,839
+sharing my little
+plot with anybody.
+
+1206
+01:00:02,965 --> 01:00:04,466
+Not even with Dr. Watson?
+
+1207
+01:00:04,592 --> 01:00:06,218
+Particularly not with
+Dr. Watson.
+
+1208
+01:00:06,344 --> 01:00:07,552
+If he'd known
+what was up tonight
+
+1209
+01:00:07,679 --> 01:00:08,720
+he could have been so
+elaborate and mysterious
+
+1210
+01:00:08,846 --> 01:00:10,180
+he'd a given
+the whole show away.
+
+1211
+01:00:10,306 --> 01:00:11,723
+As a matter of fact
+I had a devil's own time
+
+1212
+01:00:11,849 --> 01:00:13,475
+luring him away
+from that door upstairs
+
+1213
+01:00:13,601 --> 01:00:16,228
+so that we could be alone.
+
+1214
+01:00:16,354 --> 01:00:17,896
+That's all I wanted to know.
+
+1215
+01:01:02,233 --> 01:01:03,483
+Stay where you are.
+
+1216
+01:01:03,609 --> 01:01:06,319
+I'm afraid I have no choice,
+Dr. Sexton.
+
+1217
+01:01:09,073 --> 01:01:11,324
+Look here.
+
+1218
+01:01:11,451 --> 01:01:14,953
+You're not really
+gonna kill me, are you?
+
+1219
+01:01:15,079 --> 01:01:18,081
+- They'll hear you.
+- Who will?
+
+1220
+01:01:18,207 --> 01:01:19,541
+That was a bad slip you made
+
+1221
+01:01:19,667 --> 01:01:23,170
+letting me know you were
+so completely alone.
+
+1222
+01:01:23,296 --> 01:01:25,547
+And you're really
+gonna kill me?
+
+1223
+01:01:25,673 --> 01:01:31,178
+I'm afraid I have no choice,
+Mr. Holmes.
+
+1224
+01:01:31,304 --> 01:01:33,555
+As you said,
+
+1225
+01:01:33,681 --> 01:01:35,766
+I have no evidence against you.
+
+1226
+01:01:35,892 --> 01:01:37,559
+No proof.
+No proof at all.
+
+1227
+01:01:37,685 --> 01:01:40,979
+You forget the needle
+and the button.
+
+1228
+01:01:41,105 --> 01:01:43,732
+Bring them here, please.
+
+1229
+01:01:55,036 --> 01:01:58,872
+Not too close.
+
+1230
+01:01:58,998 --> 01:02:01,333
+Now put them in my pocket.
+
+1231
+01:02:04,921 --> 01:02:06,797
+Thank you.
+
+1232
+01:02:06,923 --> 01:02:08,715
+Curious about that button.
+
+1233
+01:02:08,841 --> 01:02:11,134
+It is off my coat, of course.
+
+1234
+01:02:11,260 --> 01:02:13,929
+I can't think how
+I ever missed it.
+
+1235
+01:02:14,055 --> 01:02:15,472
+Poor old Brunton.
+
+1236
+01:02:15,598 --> 01:02:17,557
+He didn't struggle much.
+
+1237
+01:02:17,683 --> 01:02:19,851
+Now Phillip Musgrave
+was different.
+
+1238
+01:02:19,977 --> 01:02:23,480
+The needle broke off and I didn't
+have time to probe for it.
+
+1239
+01:02:23,606 --> 01:02:25,148
+But you have both
+of them now,
+
+1240
+01:02:25,274 --> 01:02:27,818
+the button and the needle,
+why kill me?
+
+1241
+01:02:27,944 --> 01:02:33,615
+Now step back just a bit.
+
+1242
+01:02:33,741 --> 01:02:38,203
+Against the wall.
+
+1243
+01:02:38,329 --> 01:02:40,539
+Now if you stand
+perfectly still
+
+1244
+01:02:40,665 --> 01:02:44,000
+I think I can manage this
+with one shot.
+
+1245
+01:03:09,235 --> 01:03:10,986
+Put 'em up.
+
+1246
+01:03:12,363 --> 01:03:13,947
+Did you hear his
+confession, Watson.
+
+1247
+01:03:14,073 --> 01:03:15,615
+Every word, Holmes.
+
+1248
+01:03:15,741 --> 01:03:17,826
+And I heard all the rest, sir.
+
+1249
+01:03:17,952 --> 01:03:19,244
+Good.
+
+1250
+01:03:19,370 --> 01:03:21,288
+Let me congratulate you
+on an extraordinary catch.
+
+1251
+01:03:21,414 --> 01:03:23,623
+That's right, Mr. Holmes.
+It's no good saying it ain't.
+
+1252
+01:03:23,749 --> 01:03:25,625
+I'm afraid I
+underestimated you, Holmes.
+
+1253
+01:03:25,751 --> 01:03:26,459
+Pity.
+
+1254
+01:03:26,586 --> 01:03:28,295
+Yes.
+
+1255
+01:03:28,421 --> 01:03:31,006
+Those blank cartridges were a
+cheap sort of trick. I grant you.
+
+1256
+01:03:31,132 --> 01:03:33,133
+But it wasn't easy to let you
+take my gun away from me
+
+1257
+01:03:33,259 --> 01:03:35,302
+without seeming to
+hand it to you.
+
+1258
+01:03:35,428 --> 01:03:37,053
+That's why I let you take
+the torch first.
+
+1259
+01:03:37,179 --> 01:03:38,430
+I knew you'd snap it off.
+
+1260
+01:03:38,556 --> 01:03:40,807
+Yes. We told you,
+you were taking an awful risk.
+
+1261
+01:03:40,933 --> 01:03:43,059
+Well we had to have
+a confession
+
+1262
+01:03:43,185 --> 01:03:45,020
+and these egomaniacs are
+always so much more chatty
+
+1263
+01:03:45,146 --> 01:03:46,605
+when they feel
+they have the upper hand.
+
+1264
+01:03:46,731 --> 01:03:48,023
+Shall we go?
+
+1265
+01:03:50,610 --> 01:03:52,986
+I can't make head nor
+tail of it. Can you Pat?
+
+1266
+01:03:53,112 --> 01:03:56,197
+It looks like an
+old land grant.
+
+1267
+01:03:56,324 --> 01:03:57,782
+It's really a crown grant.
+
+1268
+01:03:57,909 --> 01:03:59,117
+What I don't understand is
+
+1269
+01:03:59,243 --> 01:04:01,661
+why the Musgraves didn't
+claim the land ages ago.
+
+1270
+01:04:01,787 --> 01:04:03,246
+Obviously Watson,
+one of 'em died
+
+1271
+01:04:03,372 --> 01:04:06,082
+before passing on the meaning
+of the ritual to his heir.
+
+1272
+01:04:06,208 --> 01:04:07,959
+The words remain
+but the sense was lost.
+
+1273
+01:04:08,085 --> 01:04:10,420
+I wonder why he left the grant
+down there where he found it.
+
+1274
+01:04:10,546 --> 01:04:11,922
+What good would it have
+done him
+
+1275
+01:04:12,048 --> 01:04:13,590
+so long as your brothers lived.
+
+1276
+01:04:13,716 --> 01:04:15,425
+Once they were out of the way
+and you came into the property
+
+1277
+01:04:15,551 --> 01:04:16,968
+he expected to marry you.
+
+1278
+01:04:17,094 --> 01:04:18,845
+I like that.
+
+1279
+01:04:18,971 --> 01:04:20,889
+- Whatever made him think that
+- He thought himself
+irresistible.
+
+1280
+01:04:21,015 --> 01:04:22,182
+Precisely.
+
+1281
+01:04:22,308 --> 01:04:23,892
+It's not unheard of
+in cases of egomania.
+
+1282
+01:04:24,018 --> 01:04:25,852
+I suppose then he meant to
+rediscover the crown grant.
+
+1283
+01:04:25,978 --> 01:04:27,354
+At the proper time, yes
+
+1284
+01:04:27,480 --> 01:04:29,356
+and then enjoy
+his wife's millions.
+
+1285
+01:04:29,482 --> 01:04:31,191
+- Did you say millions?
+- I did.
+
+1286
+01:04:31,317 --> 01:04:32,817
+Look here.
+
+1287
+01:04:37,573 --> 01:04:40,283
+About eighty thousand acres
+of the richest soil in England.
+
+1288
+01:04:40,409 --> 01:04:41,576
+But aren't there people on it?
+
+1289
+01:04:41,702 --> 01:04:44,412
+Yes, farms, villages,
+even a factory town
+
+1290
+01:04:44,538 --> 01:04:45,789
+with hundreds of
+workman's cottages.
+
+1291
+01:04:45,915 --> 01:04:47,248
+- Is this thing legal?
+- Perfectly.
+
+1292
+01:04:47,375 --> 01:04:48,708
+Of course it'll drag
+on through the courts.
+
+1293
+01:04:48,834 --> 01:04:50,168
+Just a moment.
+
+1294
+01:04:50,294 --> 01:04:51,795
+The people on this land,
+
+1295
+01:04:51,921 --> 01:04:54,714
+they put their money into it,
+their life work.
+
+1296
+01:04:54,840 --> 01:04:57,550
+- It's their homes
+I'll be taking.
+- Yes.
+
+1297
+01:04:57,677 --> 01:05:00,553
+Do you think I'm going
+to kick these people out?
+
+1298
+01:05:14,944 --> 01:05:16,236
+Just the same, Holmes
+
+1299
+01:05:16,362 --> 01:05:17,904
+you let poor little Sally
+throw away a fortune.
+
+1300
+01:05:18,030 --> 01:05:20,115
+My dear fellow,
+I had nothing to do with it.
+
+1301
+01:05:20,241 --> 01:05:22,283
+The girl, more power to her,
+acted on her own.
+
+1302
+01:05:22,410 --> 01:05:26,121
+It was a grand gesture
+one she may regret.
+
+1303
+01:05:26,247 --> 01:05:29,082
+I don't think so, Watson.
+
+1304
+01:05:29,208 --> 01:05:32,252
+There's a new spirit
+abroad in the land.
+
+1305
+01:05:32,378 --> 01:05:35,714
+The old days of grab and greed
+are on their way out.
+
+1306
+01:05:35,840 --> 01:05:38,216
+We're beginning to think of
+what we owe the other fellow
+
+1307
+01:05:38,342 --> 01:05:41,052
+not just what we're
+compelled to give him.
+
+1308
+01:05:41,178 --> 01:05:43,263
+The time is coming, Watson,
+
+1309
+01:05:43,389 --> 01:05:45,181
+when we shan't be able
+to fill our bellies in comfort
+
+1310
+01:05:45,307 --> 01:05:46,933
+while other folk go hungry
+
+1311
+01:05:47,059 --> 01:05:49,269
+or sleep in warm beds
+
+1312
+01:05:49,395 --> 01:05:52,063
+while others shiver in the cold
+
+1313
+01:05:52,189 --> 01:05:53,648
+and we shan't be able to kneel
+
+1314
+01:05:53,774 --> 01:05:57,193
+and thank God for blessing us
+before our shining alters
+
+1315
+01:05:57,319 --> 01:05:59,279
+while men anywhere
+
+1316
+01:05:59,405 --> 01:06:02,907
+are kneeling
+in either physical or
+a spiritual subjection.
+
+1317
+01:06:03,034 --> 01:06:06,953
+You may be right, Holmes.
+I hope you are.
+
+1318
+01:06:07,079 --> 01:06:13,334
+And god willing we'll live
+to see that day, Watson.
 
