@@ -1,7 +1,11 @@
 ## Custom Player
 
 ```
+# VLC
 pip install python-vlc pysrt pyinstaller
+
+# MPV 
+pip install python-mpv pysrt pyinstaller
 ```
 
 This is how to create a standalone executable

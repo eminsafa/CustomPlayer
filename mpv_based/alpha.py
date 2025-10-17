@@ -316,13 +316,23 @@ class MPVPlayerApp:
         self.master.focus_set()
 
     def _apply_processed_subtitles_to_player(self):
-        if not self.subtitles or not self.temp_sub_path: return
+        """Saves processed subtitles to a temp file and loads it into mpv, replacing any previous temp sub."""
+        if not self.subtitles or not self.temp_sub_path:
+            return
         try:
+            # Save the modified subtitles to the temporary file
             self.subtitles.save(str(self.temp_sub_path), encoding='utf-8')
+
+            # If a video is loaded, tell mpv to add the subtitle file.
+            # The 'replace' flag ensures we replace the previous temp subtitle track
+            # instead of adding a new one each time 'Apply' is clicked.
             if self.video_path:
-                self.player.sub_load(str(self.temp_sub_path))
+                self.player.sub_add(str(self.temp_sub_path), 'replace')
+                logging.info(f"Loaded/reloaded subtitles from {self.temp_sub_path}")
+
         except Exception as e:
-            messagebox.showerror("File Error", f"Could not create temporary subtitle file.\nError: {e}")
+            logging.error(f"Failed to save or apply temporary subtitle file: {e}", exc_info=True)
+            messagebox.showerror("File Error", f"Could not create or load temporary subtitle file.\nError: {e}")
 
     def reset_app_state(self):
         self.reset_repeat_state()
