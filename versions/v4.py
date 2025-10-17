@@ -5,7 +5,9 @@ import pysrt
 import os
 import sys
 import logging
-import tempfile
+
+
+os.add_dll_directory(r"C:\Program Files\VideoLAN\VLC")
 
 # --- Setup Logging ---
 log_file_path = os.path.join(os.path.expanduser("~"), "subtitle_repeater.log")
